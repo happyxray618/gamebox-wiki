@@ -3,6 +3,7 @@ const assert = require('node:assert/strict');
 const {parse}=require('next/dist/compiled/node-html-parser');
 const {games}=require('../data/games.ts');
 const {discoveryPaths}=require('../lib/taxonomy.ts');
+const {discoveryJourney}=require('../lib/discovery-experience.ts');
 const origin=process.env.CHECK_BASE_URL || 'http://localhost:3100';
 
 async function main() {
@@ -34,10 +35,15 @@ async function main() {
         assert.ok(tree.querySelector('title')?.textContent.includes(`Games Like ${game.title}`),`${path}: missing Games Like metadata`);
         assert.ok(tree.querySelector(`a[href="/games/${slug}"]`),`${path}: missing source game detail link`);
         const cards=tree.querySelectorAll('article');
-        assert.equal(cards.length,12,`${path}: expected 12 recommendations`);
+        const journey=discoveryJourney(game,games);
+        assert.equal(cards.length,journey.more.length+[journey.bestMatch,journey.hiddenGem,journey.surpriseMe].filter(Boolean).length,`${path}: wrong discovery journey count`);
+        for(const id of ['best-match','hidden-gem','surprise-me','more-dna']) assert.ok(tree.querySelector(`[id="${id}"]`),`${path}: missing discovery section ${id}`);
+        if(journey.honesty) assert.ok(tree.textContent.includes(journey.honesty),`${path}: missing confidence notice`);
         for(const card of cards) {
           assert.ok(!card.querySelector(`a[href="/games/${slug}"]`),`${path}: recommends itself`);
           assert.ok(card.textContent.includes('SIMILAR') && card.textContent.includes("WHY IT'S SIMILAR"),`${path}: missing similarity explanation`);
+          assert.ok(/\d+% SIMILAR/.test(card.textContent)&& !/\d+\.\d+% SIMILAR/.test(card.textContent),`${path}: percentages must be whole numbers`);
+          assert.ok(card.textContent.includes('MATCH'),`${path}: missing confidence label`);
         }
       }
       for(const anchor of tree.querySelectorAll('a')) {

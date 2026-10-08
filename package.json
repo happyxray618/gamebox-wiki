@@ -8,9 +8,10 @@
     "start": "next start",
     "lint": "eslint",
     "validate:data": "node scripts/validate-data.cjs",
-    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs && node scripts/test-semantic-similarity.cjs",
+    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs && node scripts/test-semantic-similarity.cjs && node scripts/test-discovery-experience.cjs",
     "check:links": "node scripts/check-links.cjs",
-    "report:similarity": "node scripts/report-similarity.cjs"
+    "report:similarity": "node scripts/report-similarity.cjs",
+    "report:discovery": "node scripts/report-discovery-experience.cjs"
   },
   "dependencies": {
     "next": "16.3.8",
