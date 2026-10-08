@@ -1,0 +1,7 @@
+{
+  "deployment": "dpl_2gguGYHbJgJUB35yaXc4dSdtkbwf",
+  "pages": 332,
+  "internalLinks": 450,
+  "invalidRoutes": 9,
+  "checks": "HTTP status/noindex, canonical, OG, sitemap, robots, internal links/anchors and query canonical PASS"
+}
