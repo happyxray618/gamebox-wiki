@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: { default: "GAMEBOX.WIKI — Discover. Remember. Play.", template: "%s | GAMEBOX.WIKI" },
   description: "Discover great games across generations. Explore classics, cult favorites and hidden gems in the GAMEBOX game database and retro archive.",
   alternates: { canonical: "/" },
-  openGraph: { title: "GAMEBOX.WIKI — Discover. Remember. Play.", description: "Discover classics, cult favorites and hidden gems across generations.", siteName: "GAMEBOX.WIKI", type: "website", url: "/" },
+  openGraph: { title: "GAMEBOX.WIKI — Discover. Remember. Play.", description: "Discover classics, cult favorites and hidden gems across generations.", siteName: "GAMEBOX.WIKI", type: "website", url: "/", images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "GAMEBOX.WIKI — explained game discovery" }] },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
