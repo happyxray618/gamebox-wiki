@@ -3,7 +3,7 @@ import { notFound } from "next/navigation"
 import SiteHeader from "@/components/site-header"
 import SimilarGameCards from "@/components/similar-game-cards"
 import { games } from "@/data/games"
-import { dnaValues, type DNADimension } from "@/lib/game-dna"
+import { dnaValues, experienceDefinitions, type DNADimension } from "@/lib/game-dna"
 import { pageMetadata } from "@/lib/metadata"
 import { recommendSimilarGames, similarityWeights } from "@/lib/similarity"
 
@@ -29,6 +29,7 @@ export default async function GamesLikePage({ params }: Props) {
       <p className="mt-8 text-xs font-bold tracking-widest text-zinc-400">GAMES LIKE</p>
       <h1 className="mt-4 break-words text-4xl font-black sm:text-5xl">What makes a game feel like {game.title}?</h1>
       <p className="mt-6 max-w-3xl leading-7 text-zinc-300">Start with its Game DNA: {defining.map(dimension => `${dnaValues(game, dimension).join(" / ")} ${dimension}`).join("; ")}. These recorded characteristics shape the comparisons below.</p>
+      <p className="mt-4 max-w-3xl leading-7 text-zinc-300">Its experience centers on {game.experience.map(value => experienceDefinitions[value]).join("; ")}. Mood describes the atmosphere; Experience describes how you engage with the game.</p>
       <section className="mt-12" aria-labelledby="source-dna">
         <h2 id="source-dna" className="text-2xl font-black">{game.title} — GAME DNA</h2>
         <dl className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">{dimensions.map(dimension => <div key={dimension} className="min-w-0 rounded-xl border border-white/10 p-5">
@@ -37,7 +38,7 @@ export default async function GamesLikePage({ params }: Props) {
       </section>
       <section className="mt-14" aria-labelledby="similar-games">
         <h2 id="similar-games" className="text-3xl font-black">DISCOVER SIMILAR GAMES</h2>
-        <p className="mt-4 max-w-3xl text-sm leading-6 text-zinc-400">Similarity compares eight DNA dimensions; ratings have no influence. The strongest match stays first. Close alternatives may follow earlier to introduce a different series or DNA profile. Percentages measure shared recorded characteristics, not a promise that you will enjoy a game.</p>
+        <p className="mt-4 max-w-3xl text-sm leading-6 text-zinc-400">Similarity considers identity, interaction and context across nine DNA dimensions. Experience and atmosphere carry more weight, and distinctive shared traits matter more than common ones. Ratings have no influence. The strongest match stays first; close alternatives may follow earlier for variety. Percentages measure shared recorded characteristics, not a promise that you will enjoy a game.</p>
         <SimilarGameCards recommendations={recommendSimilarGames(game, games, 12)} />
       </section>
     </div>

@@ -16,7 +16,7 @@ export default function SimilarGameCards({ recommendations }: { recommendations:
         <summary className="min-h-11 cursor-pointer py-3">Similarity breakdown</summary>
         <ul className="space-y-3">{match.breakdown.map(factor => <li key={factor.dimension}>
           <span className="capitalize">{factor.dimension}</span>: {factor.shared.join(" · ") || "No shared values"}
-          <span className="block text-xs">{Math.round(factor.score * 100)}% overlap · {factor.contribution.toFixed(1)} / {factor.weight} points</span>
+          <span className="block text-xs">{Math.round(factor.score * 100)}% distinctive overlap · {factor.contribution.toFixed(1)} / {factor.effectiveWeight.toFixed(1)} points</span>
         </li>)}</ul>
       </details>
     </article>)}

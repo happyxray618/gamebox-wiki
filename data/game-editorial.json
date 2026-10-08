@@ -41,7 +41,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Contemplative"
+    ]
   },
   {
     "slug": "silent-hill-3",
@@ -86,7 +91,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "resident-evil-2",
@@ -133,7 +142,11 @@
     "perspective": [
       "Fixed-camera"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "fatal-frame-2",
@@ -180,7 +193,11 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "dark-souls",
@@ -226,7 +243,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Mastery challenge",
+      "Discovery-led",
+      "Role immersion"
+    ]
   },
   {
     "slug": "demons-souls",
@@ -272,7 +294,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Mastery challenge",
+      "Discovery-led",
+      "Role immersion"
+    ]
   },
   {
     "slug": "vagrant-story",
@@ -318,7 +345,13 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Strategic planning",
+      "Mastery challenge",
+      "Role immersion",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "shadow-tower",
@@ -364,7 +397,13 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Discovery-led",
+      "Role immersion",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "deus-ex",
@@ -411,7 +450,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Immersive simulation",
+      "Player agency",
+      "Role immersion"
+    ]
   },
   {
     "slug": "system-shock-2",
@@ -458,7 +502,13 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Immersive simulation",
+      "Survival tension",
+      "Role immersion",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "thief-2",
@@ -504,7 +554,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Immersive simulation",
+      "Player agency"
+    ]
   },
   {
     "slug": "prey-2017",
@@ -551,7 +605,13 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Immersive simulation",
+      "Player agency",
+      "Survival tension",
+      "Role immersion"
+    ]
   },
   {
     "slug": "killer7",
@@ -598,7 +658,11 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Experimental",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "rule-of-rose",
@@ -644,7 +708,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Survival tension"
+    ]
   },
   {
     "slug": "the-suffering",
@@ -691,7 +759,11 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "enslaved-odyssey-to-the-west",
@@ -737,7 +809,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Companion journey",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "shadow-of-the-colossus",
@@ -783,7 +859,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Contemplative",
+      "Mastery challenge",
+      "Companion journey"
+    ]
   },
   {
     "slug": "metal-gear-solid-2",
@@ -830,7 +911,12 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Experimental",
+      "Player agency"
+    ]
   },
   {
     "slug": "ico",
@@ -876,7 +962,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Companion journey",
+      "Contemplative"
+    ]
   },
   {
     "slug": "shenmue",
@@ -922,7 +1012,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Narrative-driven",
+      "Contemplative"
+    ]
   },
   {
     "slug": "portal",
@@ -961,7 +1056,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Discovery-led",
+      "Experimental"
+    ]
   },
   {
     "slug": "portal-2",
@@ -1000,7 +1099,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Discovery-led",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "half-life",
@@ -1041,7 +1144,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Survival tension"
+    ]
   },
   {
     "slug": "half-life-2",
@@ -1082,7 +1189,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Survival tension"
+    ]
   },
   {
     "slug": "bioshock",
@@ -1125,7 +1236,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Survival tension"
+    ]
   },
   {
     "slug": "bioshock-2",
@@ -1168,7 +1284,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Survival tension"
+    ]
   },
   {
     "slug": "bioshock-infinite",
@@ -1209,7 +1330,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Companion journey"
+    ]
   },
   {
     "slug": "dishonored",
@@ -1252,7 +1377,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Immersive simulation",
+      "Player agency"
+    ]
   },
   {
     "slug": "dishonored-2",
@@ -1295,7 +1424,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Immersive simulation",
+      "Player agency"
+    ]
   },
   {
     "slug": "fallout",
@@ -1336,7 +1469,12 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Player agency",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "fallout-2",
@@ -1377,7 +1515,12 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Player agency",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "fallout-new-vegas",
@@ -1419,7 +1562,11 @@
       "First-person",
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Player agency"
+    ]
   },
   {
     "slug": "baldur-s-gate",
@@ -1460,7 +1607,12 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Strategic planning",
+      "Companion journey"
+    ]
   },
   {
     "slug": "baldur-s-gate-ii-shadows-of-amn",
@@ -1501,7 +1653,12 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Role immersion",
+      "Strategic planning",
+      "Companion journey"
+    ]
   },
   {
     "slug": "planescape-torment",
@@ -1542,7 +1699,13 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Player agency",
+      "Contemplative"
+    ]
   },
   {
     "slug": "disco-elysium",
@@ -1585,7 +1748,13 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Player agency",
+      "Contemplative"
+    ]
   },
   {
     "slug": "the-elder-scrolls-iii-morrowind",
@@ -1627,7 +1796,12 @@
       "First-person",
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Discovery-led",
+      "Player agency"
+    ]
   },
   {
     "slug": "the-elder-scrolls-iv-oblivion",
@@ -1669,7 +1843,12 @@
       "First-person",
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Discovery-led",
+      "Player agency"
+    ]
   },
   {
     "slug": "the-elder-scrolls-v-skyrim",
@@ -1711,7 +1890,12 @@
       "First-person",
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Discovery-led",
+      "Player agency"
+    ]
   },
   {
     "slug": "the-witcher-3-wild-hunt",
@@ -1752,7 +1936,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Narrative-driven",
+      "Player agency"
+    ]
   },
   {
     "slug": "mass-effect",
@@ -1793,7 +1982,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Companion journey"
+    ]
   },
   {
     "slug": "mass-effect-2",
@@ -1834,7 +2028,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Companion journey"
+    ]
   },
   {
     "slug": "dragon-age-origins",
@@ -1876,7 +2075,13 @@
       "Third-person",
       "Isometric"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Role immersion",
+      "Strategic planning",
+      "Player agency",
+      "Companion journey"
+    ]
   },
   {
     "slug": "vampire-the-masquerade-bloodlines",
@@ -1918,7 +2123,12 @@
       "First-person",
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Role immersion",
+      "Player agency",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "arx-fatalis",
@@ -1961,7 +2171,13 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Immersive simulation",
+      "Discovery-led",
+      "Role immersion",
+      "Player agency"
+    ]
   },
   {
     "slug": "gothic",
@@ -2002,7 +2218,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Discovery-led",
+      "Player agency"
+    ]
   },
   {
     "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
@@ -2043,7 +2264,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Survival tension",
+      "Immersive simulation",
+      "Discovery-led"
+    ]
   },
   {
     "slug": "metro-2033",
@@ -2084,7 +2310,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "dead-space",
@@ -2127,7 +2357,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "alien-isolation",
@@ -2170,7 +2404,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Immersive simulation"
+    ]
   },
   {
     "slug": "amnesia-the-dark-descent",
@@ -2213,7 +2451,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "soma",
@@ -2256,7 +2498,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Contemplative"
+    ]
   },
   {
     "slug": "signalis",
@@ -2299,7 +2546,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Experimental"
+    ]
   },
   {
     "slug": "resident-evil",
@@ -2342,7 +2594,11 @@
     "perspective": [
       "Fixed-camera"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "resident-evil-4",
@@ -2385,7 +2641,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "silent-hill",
@@ -2428,7 +2688,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "silent-hill-4-the-room",
@@ -2472,7 +2736,12 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Experimental"
+    ]
   },
   {
     "slug": "eternal-darkness-sanity-s-requiem",
@@ -2515,7 +2784,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Experimental"
+    ]
   },
   {
     "slug": "parasite-eve",
@@ -2556,7 +2830,12 @@
     "perspective": [
       "Fixed-camera"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Survival tension",
+      "Narrative-driven",
+      "Role immersion"
+    ]
   },
   {
     "slug": "dino-crisis",
@@ -2599,7 +2878,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Survival tension",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "chrono-trigger",
@@ -2640,7 +2923,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "final-fantasy-vi",
@@ -2681,7 +2969,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "final-fantasy-vii",
@@ -2722,7 +3015,12 @@
     "perspective": [
       "Fixed-camera"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "final-fantasy-ix",
@@ -2763,7 +3061,12 @@
     "perspective": [
       "Fixed-camera"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "final-fantasy-x",
@@ -2804,7 +3107,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "suikoden-ii",
@@ -2845,7 +3153,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "xenogears",
@@ -2886,7 +3199,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Experimental"
+    ]
   },
   {
     "slug": "earthbound",
@@ -2927,7 +3245,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Experimental"
+    ]
   },
   {
     "slug": "paper-mario-the-thousand-year-door",
@@ -2968,7 +3291,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion",
+      "Companion journey"
+    ]
   },
   {
     "slug": "the-legend-of-zelda-ocarina-of-time",
@@ -3011,7 +3339,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Discovery-led",
+      "Companion journey"
+    ]
   },
   {
     "slug": "the-legend-of-zelda-majora-s-mask",
@@ -3054,7 +3386,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Discovery-led",
+      "Experimental",
+      "Contemplative"
+    ]
   },
   {
     "slug": "the-legend-of-zelda-the-wind-waker",
@@ -3097,7 +3434,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Discovery-led",
+      "Companion journey"
+    ]
   },
   {
     "slug": "super-metroid",
@@ -3140,7 +3481,11 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Discovery-led",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "metroid-prime",
@@ -3183,7 +3528,11 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Discovery-led",
+      "Survival tension"
+    ]
   },
   {
     "slug": "castlevania-symphony-of-the-night",
@@ -3226,7 +3575,12 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Discovery-led",
+      "Mastery challenge",
+      "Role immersion"
+    ]
   },
   {
     "slug": "super-mario-64",
@@ -3267,7 +3621,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Discovery-led",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "super-mario-world",
@@ -3308,7 +3666,11 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Mastery challenge",
+      "Arcade flow"
+    ]
   },
   {
     "slug": "donkey-kong-country",
@@ -3349,7 +3711,11 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Mastery challenge",
+      "Arcade flow"
+    ]
   },
   {
     "slug": "banjo-kazooie",
@@ -3390,7 +3756,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Discovery-led",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "psychonauts",
@@ -3431,7 +3801,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Experimental",
+      "Narrative-driven",
+      "Discovery-led"
+    ]
   },
   {
     "slug": "okami",
@@ -3474,7 +3849,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Discovery-led",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "beyond-good-evil",
@@ -3517,7 +3896,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Hub-based"
+    "structure": "Hub-based",
+    "experience": [
+      "Narrative-driven",
+      "Companion journey",
+      "Discovery-led"
+    ]
   },
   {
     "slug": "prince-of-persia-the-sands-of-time",
@@ -3560,7 +3944,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Mastery challenge",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "jet-set-radio",
@@ -3601,7 +3989,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Arcade flow",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "crazy-taxi",
@@ -3642,7 +4034,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Run-based"
+    "structure": "Run-based",
+    "experience": [
+      "Arcade flow",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "rez",
@@ -3683,7 +4079,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Arcade flow",
+      "Experimental"
+    ]
   },
   {
     "slug": "panzer-dragoon-saga",
@@ -3724,7 +4124,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Role immersion"
+    ]
   },
   {
     "slug": "skies-of-arcadia",
@@ -3765,7 +4169,12 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Role immersion",
+      "Discovery-led",
+      "Companion journey"
+    ]
   },
   {
     "slug": "metal-gear-solid",
@@ -3809,7 +4218,11 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Player agency"
+    ]
   },
   {
     "slug": "metal-gear-solid-3-snake-eater",
@@ -3853,7 +4266,12 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Survival tension"
+    ]
   },
   {
     "slug": "tom-clancy-s-splinter-cell-chaos-theory",
@@ -3896,7 +4314,11 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Player agency",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "hitman-blood-money",
@@ -3940,7 +4362,12 @@
       "Third-person",
       "First-person"
     ],
-    "structure": "Mission-based"
+    "structure": "Mission-based",
+    "experience": [
+      "Immersive simulation",
+      "Player agency",
+      "Systemic creativity"
+    ]
   },
   {
     "slug": "hollow-knight",
@@ -3983,7 +4410,11 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Discovery-led",
+      "Mastery challenge"
+    ]
   },
   {
     "slug": "celeste",
@@ -4024,7 +4455,11 @@
     "perspective": [
       "Side-view"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Mastery challenge",
+      "Narrative-driven"
+    ]
   },
   {
     "slug": "hades",
@@ -4067,7 +4502,12 @@
     "perspective": [
       "Isometric"
     ],
-    "structure": "Run-based"
+    "structure": "Run-based",
+    "experience": [
+      "Mastery challenge",
+      "Narrative-driven",
+      "Role immersion"
+    ]
   },
   {
     "slug": "outer-wilds",
@@ -4110,7 +4550,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Open world"
+    "structure": "Open world",
+    "experience": [
+      "Discovery-led",
+      "Contemplative",
+      "Experimental"
+    ]
   },
   {
     "slug": "return-of-the-obra-dinn",
@@ -4149,7 +4594,12 @@
     "perspective": [
       "First-person"
     ],
-    "structure": "Interconnected"
+    "structure": "Interconnected",
+    "experience": [
+      "Discovery-led",
+      "Experimental",
+      "Strategic planning"
+    ]
   },
   {
     "slug": "undertale",
@@ -4190,7 +4640,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Narrative-driven",
+      "Player agency",
+      "Experimental"
+    ]
   },
   {
     "slug": "stardew-valley",
@@ -4233,7 +4688,12 @@
     "perspective": [
       "Top-down"
     ],
-    "structure": "Sandbox"
+    "structure": "Sandbox",
+    "experience": [
+      "Systemic creativity",
+      "Role immersion",
+      "Contemplative"
+    ]
   },
   {
     "slug": "journey",
@@ -4276,6 +4736,10 @@
     "perspective": [
       "Third-person"
     ],
-    "structure": "Linear"
+    "structure": "Linear",
+    "experience": [
+      "Contemplative",
+      "Companion journey"
+    ]
   }
 ]

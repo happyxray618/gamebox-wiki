@@ -30,3 +30,8 @@ Pacing, perspective and structure are explicitly assigned to every editorial rec
 The source importer now preserves the current reviewed editorial/DNA records and fails if a matching editorial record is missing; it cannot overwrite DNA with the earlier classification templates. Run validation after any source import.
 
 Finder match percentages are preference coverage, not Gamebox Score or a probability of enjoyment. See [ranking contract](../docs/discovery-ranking-1.0.md) for weights, factors, candidate constraints, tie rules and tests.
+# Semantic Experience (Sprint 2.5)
+
+All 100 editorial records include a controlled `experience` array. Experience describes the mode of engagement; Mood describes atmosphere. The 13 values and definitions live in `lib/game-dna.ts`, and the normal schema validator rejects aliases, duplicates or missing Experience. Imported facts and source verification are unchanged.
+
+Similarity uses full-dataset value frequencies with centrally configurable identity/interaction/context weights. Experience assignments are editorial interpretations, not sourced facts. See `docs/semantic-game-dna-1.0.md` for the formula, evidence breakdown and classification boundaries. Run `npm run report:similarity` after edits to review the five actual Before → After cases.

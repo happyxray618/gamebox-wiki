@@ -7,6 +7,7 @@ export { gameEra } from "@/lib/game-dna"
 export const eras = dnaVocabulary.era
 
 export type Filters = {
+  experience: string
   query: string
   genre: string
   platform: string
@@ -20,6 +21,7 @@ export type Filters = {
 }
 
 export const emptyFilters: Filters = {
+  experience: "",
   query: "", genre: "", platform: "", difficulty: "", mood: "", gameplay: "", era: "", pacing: "", perspective: "", structure: "",
 }
 

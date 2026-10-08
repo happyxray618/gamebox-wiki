@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "top5": [
+      {
+        "slug": "dino-crisis",
+        "title": "Dino Crisis",
+        "similarity": 85.3,
+        "explanation": "Both games share Exploration / Puzzle / Survival gameplay; Horror / Survival Horror genre; Dark / Unsettling mood.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "silent-hill",
+        "title": "Silent Hill",
+        "similarity": 85.3,
+        "explanation": "Both games share Exploration / Puzzle / Survival gameplay; Horror / Survival Horror genre; Dark / Unsettling mood.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "alien-isolation",
+        "title": "Alien: Isolation",
+        "similarity": 77.3,
+        "explanation": "Both games share Exploration / Puzzle / Survival gameplay; Horror / Survival Horror genre; Dark / Unsettling mood.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "resident-evil",
+        "title": "Resident Evil",
+        "similarity": 77.3,
+        "explanation": "Both games share Exploration / Puzzle / Survival gameplay; Horror / Survival Horror genre; Dark / Unsettling mood.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "signalis",
+        "title": "Signalis",
+        "similarity": 77.3,
+        "explanation": "Both games share Exploration / Puzzle / Survival gameplay; Horror / Survival Horror genre; Dark / Unsettling mood.",
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "dark-souls",
+    "title": "Dark Souls",
+    "top5": [
+      {
+        "slug": "demons-souls",
+        "title": "Demon's Souls",
+        "similarity": 80,
+        "explanation": "Both games share Combat / Exploration / Character Building / Discovery gameplay; Dark / Mysterious / Bleak mood; Action RPG / RPG genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "vagrant-story",
+        "title": "Vagrant Story",
+        "similarity": 65.4,
+        "explanation": "Both games share Action RPG / RPG genre; Combat / Exploration / Character Building gameplay; Interconnected structure.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "hollow-knight",
+        "title": "Hollow Knight",
+        "similarity": 55,
+        "explanation": "Both games share Combat / Exploration / Discovery gameplay; Balanced pacing; Interconnected structure.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "castlevania-symphony-of-the-night",
+        "title": "Castlevania: Symphony of the Night",
+        "similarity": 52,
+        "explanation": "Both games share Combat / Exploration / Discovery gameplay; Balanced pacing; Interconnected structure.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "super-metroid",
+        "title": "Super Metroid",
+        "similarity": 52,
+        "explanation": "Both games share Combat / Exploration / Discovery gameplay; Balanced pacing; Interconnected structure.",
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "deus-ex",
+    "title": "Deus Ex",
+    "top5": [
+      {
+        "slug": "thief-2",
+        "title": "Thief II: The Metal Age",
+        "similarity": 51,
+        "explanation": "Both games share Slow pacing; Mission-based structure; Stealth / Exploration gameplay.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "arx-fatalis",
+        "title": "Arx Fatalis",
+        "similarity": 48.3,
+        "explanation": "Both games share Slow pacing; Immersive Sim / RPG genre; Exploration / Choices gameplay.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "prey-2017",
+        "title": "Prey",
+        "similarity": 47.4,
+        "explanation": "Both games share Stealth / Exploration / Choices gameplay; Slow pacing; Immersive Sim / Action genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "dishonored",
+        "title": "Dishonored",
+        "similarity": 45.6,
+        "explanation": "Both games share Slow pacing; Mission-based structure; Stealth / Exploration gameplay.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "hitman-blood-money",
+        "title": "Hitman: Blood Money",
+        "similarity": 44.6,
+        "explanation": "Both games share Slow pacing; Mission-based structure; Stealth / Exploration gameplay.",
+        "diversityAdjusted": true
+      }
+    ]
+  },
+  {
+    "slug": "vagrant-story",
+    "title": "Vagrant Story",
+    "top5": [
+      {
+        "slug": "dark-souls",
+        "title": "Dark Souls",
+        "similarity": 65.4,
+        "explanation": "Both games share RPG / Action RPG genre; Combat / Exploration / Character Building gameplay; Interconnected structure.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "demons-souls",
+        "title": "Demon's Souls",
+        "similarity": 51.4,
+        "explanation": "Both games share RPG / Action RPG genre; Combat / Exploration / Character Building gameplay; Dark / Mysterious mood.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "system-shock-2",
+        "title": "System Shock 2",
+        "similarity": 51.4,
+        "explanation": "Both games share Combat / Exploration / Character Building gameplay; Slow pacing; Interconnected structure.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "fatal-frame-2",
+        "title": "Fatal Frame II: Crimson Butterfly",
+        "similarity": 48,
+        "explanation": "Both games share Slow pacing; Interconnected structure; Combat / Exploration gameplay.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "shadow-tower",
+        "title": "Shadow Tower",
+        "similarity": 47.7,
+        "explanation": "Both games share Combat / Exploration / Dungeon Crawling gameplay; Slow pacing; Interconnected structure.",
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "killer7",
+    "title": "Killer7",
+    "top5": [
+      {
+        "slug": "beyond-good-evil",
+        "title": "Beyond Good & Evil",
+        "similarity": 47.3,
+        "explanation": "Both games share Combat / Exploration / Puzzle gameplay; Balanced pacing; Adventure genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "the-legend-of-zelda-majora-s-mask",
+        "title": "The Legend of Zelda: Majora's Mask",
+        "similarity": 47.3,
+        "explanation": "Both games share Combat / Exploration / Puzzle gameplay; Balanced pacing; Adventure genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "the-legend-of-zelda-the-wind-waker",
+        "title": "The Legend of Zelda: The Wind Waker",
+        "similarity": 47.3,
+        "explanation": "Both games share Combat / Exploration / Puzzle gameplay; Balanced pacing; Adventure genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "okami",
+        "title": "Ōkami",
+        "similarity": 47.3,
+        "explanation": "Both games share Combat / Exploration / Puzzle gameplay; Balanced pacing; Adventure genre.",
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "silent-hill-3",
+        "title": "Silent Hill 3",
+        "similarity": 42.4,
+        "explanation": "Both games share Combat / Exploration / Puzzle gameplay; Balanced pacing; Medium difficulty.",
+        "diversityAdjusted": true
+      }
+    ]
+  }
+]

@@ -7,6 +7,7 @@ export type RankingDimension = DNADimension | "query" | "platform"
 export type RankingSort = "match" | "score" | "title" | "newest" | "oldest"
 export type RankingWeights = Readonly<Record<RankingDimension, number>>
 export const rankingWeights: RankingWeights = Object.freeze({
+  experience: 20,
   mood: 20, gameplay: 20, genre: 12, pacing: 12, perspective: 8,
   structure: 12, difficulty: 6, era: 5, query: 24, platform: 8,
 })

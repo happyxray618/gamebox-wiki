@@ -1,5 +1,7 @@
 # Similarity Engine 1.0
 
+This documents the original Sprint 2 baseline. Sprint 2.5 supersedes the scoring formula, dimensions, weights and explanation priority; see `semantic-game-dna-1.0.md`. The bounded diversity and routing contracts remain applicable.
+
 `lib/similarity.ts` is independent of Finder ranking. Each dimension uses symmetric Jaccard overlap: shared canonical values divided by the union of both games' values. Single-value fields use exact matches. Era is derived from release year. Missing matches contribute zero; all eight dimensions remain in the denominator.
 
 Weights: genre 16, mood 20, gameplay 24, pacing 12, structure 12, perspective 8, difficulty 5, era 3. `similarityWeights` is the central default; callers can supply positive finite weights. Percentage is the weighted mean multiplied by 100, displayed to one decimal. Sorting uses unrounded similarity, lowercase title, slug, then id. No quality rating is read, including for ties.

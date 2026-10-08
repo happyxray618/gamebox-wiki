@@ -1,5 +1,6 @@
 /** Canonical labels only. Additions require an editorial/schema review, never derive vocabularies from records. */
 export const dnaVocabulary = Object.freeze({
+  experience: Object.freeze(["Narrative-driven", "Role immersion", "Player agency", "Immersive simulation", "Survival tension", "Mastery challenge", "Discovery-led", "Strategic planning", "Experimental", "Contemplative", "Systemic creativity", "Arcade flow", "Companion journey"] as const),
   genre: Object.freeze(["Action", "Action Adventure", "Action RPG", "Adventure", "Arcade", "Dungeon Crawler", "Exploration", "Horror", "Immersive Sim", "Metroidvania", "Platformer", "Puzzle", "RPG", "Roguelike", "Sci-Fi", "Shooter", "Simulation", "Stealth", "Survival Horror"] as const),
   mood: Object.freeze(["Atmospheric", "Bleak", "Brutal", "Cinematic", "Claustrophobic", "Conspiratorial", "Cozy", "Dark", "Disturbing", "Dreamlike", "Energetic", "Epic", "Haunting", "Hopeful", "Isolation", "Melancholic", "Mysterious", "Nostalgic", "Oppressive", "Paranoid", "Playful", "Political", "Psychological", "Quiet", "Serious", "Stylish", "Surreal", "Tense", "Terrifying", "Thoughtful", "Unsettling"] as const),
   gameplay: Object.freeze(["Boss Battles", "Character Building", "Choices", "Climbing", "Combat", "Companion", "Discovery", "Dungeon Crawling", "Exploration", "Farming", "Infiltration", "Investigation", "Life Simulation", "Platforming", "Puzzle", "Reflexes", "Replayability", "Resource Management", "Role Playing", "Score Attack", "Stealth", "Story", "Survival"] as const),
@@ -11,8 +12,25 @@ export const dnaVocabulary = Object.freeze({
 })
 
 export type DNADimension = keyof typeof dnaVocabulary
+/** Experience is the player's mode of engagement; Mood is emotional atmosphere. */
+export const experienceDefinitions = Object.freeze({
+  "Narrative-driven": "following and interpreting a story-led journey",
+  "Role immersion": "inhabiting and developing a character within a world",
+  "Player agency": "shaping outcomes through consequential choices or approaches",
+  "Immersive simulation": "learning and exploiting interacting world systems",
+  "Survival tension": "sustaining vulnerability and managing threats or scarcity",
+  "Mastery challenge": "learning through repeated attempts and improving execution",
+  "Discovery-led": "progressing through curiosity and finding new knowledge or spaces",
+  "Strategic planning": "weighing resources and planning consequential decisions",
+  "Experimental": "engaging with unconventional forms of play or narrative presentation",
+  "Contemplative": "taking time for observation, reflection and interpretation",
+  "Systemic creativity": "setting personal goals and creating outcomes through open systems",
+  "Arcade flow": "entering a sustained rhythm of rapid performance and feedback",
+  "Companion journey": "building an experience around relationships with companions",
+})
 export type DNAValue<K extends DNADimension> = typeof dnaVocabulary[K][number]
 export type GameDNA = {
+  experience: DNAValue<"experience">[]
   genres: DNAValue<"genre">[]
   mood: DNAValue<"mood">[]
   gameplay: DNAValue<"gameplay">[]
@@ -22,7 +40,7 @@ export type GameDNA = {
   structure: DNAValue<"structure">
 }
 
-export const dnaRecordFields = Object.freeze({ genre: "genres", mood: "mood", gameplay: "gameplay", difficulty: "difficulty", pacing: "pacing", perspective: "perspective", structure: "structure" } as const)
+export const dnaRecordFields = Object.freeze({ experience: "experience", genre: "genres", mood: "mood", gameplay: "gameplay", difficulty: "difficulty", pacing: "pacing", perspective: "perspective", structure: "structure" } as const)
 
 export function isDNAValue<K extends DNADimension>(dimension: K, value: unknown): value is DNAValue<K> {
   return typeof value === "string" && (dnaVocabulary[dimension] as readonly string[]).includes(value)
@@ -39,7 +57,7 @@ export function validateGameDNA(record: unknown, year?: number): string[] {
   const errors: string[] = []
   for (const [dimension, field] of Object.entries(dnaRecordFields)) {
     const value = values[field]
-    const multiple = ["genres", "mood", "gameplay", "perspective"].includes(field)
+    const multiple = ["experience", "genres", "mood", "gameplay", "perspective"].includes(field)
     const entries: unknown[] = multiple ? Array.isArray(value) ? value : [] : [value]
     if (multiple && (!Array.isArray(value) || !entries.length)) errors.push(`${field}: expected a nonempty array`)
     if (new Set(entries).size !== entries.length) errors.push(`${field}: duplicate values`)

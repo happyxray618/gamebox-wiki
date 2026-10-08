@@ -29,7 +29,7 @@ export default function GameCatalog({ advanced = false }: { advanced?: boolean }
   function setFilters(nextFilters: Filters) { searchEditing.current = false; update(nextFilters) }
   function reset() { searchEditing.current = false; window.history.pushState(null, "", pathname) }
   const fields = advanced
-    ? ["genre", "platform", "difficulty", "mood", "gameplay", "era", "pacing", "perspective", "structure"] as const
+    ? ["experience", "genre", "platform", "difficulty", "mood", "gameplay", "era", "pacing", "perspective", "structure"] as const
     : ["genre", "platform", "era"] as const
   const intent = intentFromFilters(filters)
   const results = advanced ? rankGames(games, intent, undefined, sort) :

@@ -7,7 +7,7 @@ const snapshot=JSON.stringify(games);
 const fixture=(slug,id,overrides={})=>Object.freeze({...source,slug,id,title:slug,...overrides});
 const exact=fixture('exact',1001);
 const near=fixture('near',1002,{year:1998});
-const weak=fixture('weak',1003,{genres:['Simulation'],mood:['Cozy'],gameplay:['Farming'],pacing:'Fast',structure:'Sandbox',perspective:['Top-down'],difficulty:'Easy',year:2022});
+const weak=fixture('weak',1003,{experience:['Systemic creativity'],genres:['Simulation'],mood:['Cozy'],gameplay:['Farming'],pacing:'Fast',structure:'Sandbox',perspective:['Top-down'],difficulty:'Easy',year:2022});
 assert.equal(compareDNA(source,exact).similarityPercentage,100);
 assert.ok(compareDNA(source,near).similarityPercentage>90);
 assert.equal(compareDNA(source,weak).similarityPercentage,0);
@@ -30,14 +30,14 @@ assert.equal(recommendations[0].game.slug,original[0][0]);
 assert.deepEqual(recommendations,recommendSimilarGames(source,games.slice().reverse()));
 assert.ok(!recommendations.some(match=>match.game.slug===source.slug));
 const sequel=fixture('silent-hill-3',1012,{difficulty:'Easy'});
-const fresh=fixture('fresh',1013,{year:1998,difficulty:'Easy'});
+const fresh=fixture('fresh',1013,{pacing:'Balanced',difficulty:'Easy'});
 assert.deepEqual(recommendSimilarGames(source,[exact,sequel,fresh],3).map(match=>match.game.slug),['exact','fresh','silent-hill-3'],'close fresh series may precede sequel after #1');
-const distant=fixture('distant',1014,{pacing:'Fast'});
+const distant=fixture('distant',1014,{structure:'Linear'});
 assert.deepEqual(recommendSimilarGames(source,[exact,sequel,distant],3).map(match=>match.game.slug),['exact','silent-hill-3','distant'],'diversity cannot replace clearly superior candidate');
 for(const match of recommendations) {
   for(const factor of match.breakdown) for(const value of factor.shared) assert.ok(factor.sourceValues.includes(value)&&factor.candidateValues.includes(value));
   for(const factor of match.explanationData) for(const value of factor.values) assert.ok(match.explanation.includes(value));
-  assert.ok(Math.abs(match.rawSimilarity-match.breakdown.reduce((sum,f)=>sum+f.contribution,0))<1e-9);
+  assert.ok(Math.abs(match.rawSimilarity-match.breakdown.reduce((sum,f)=>sum+f.contribution,0)/match.weightTotal*100)<1e-9);
 }
 assert.equal(JSON.stringify(games),snapshot,'all imported data stays immutable');
 assert.deepEqual(recommendSimilarGames(source,[],6),[]);

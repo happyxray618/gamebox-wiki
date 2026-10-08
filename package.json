@@ -8,8 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "validate:data": "node scripts/validate-data.cjs",
-    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs",
-    "check:links": "node scripts/check-links.cjs"
+    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs && node scripts/test-semantic-similarity.cjs",
+    "check:links": "node scripts/check-links.cjs",
+    "report:similarity": "node scripts/report-similarity.cjs"
   },
   "dependencies": {
     "next": "16.3.8",

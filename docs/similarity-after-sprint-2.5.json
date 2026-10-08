@@ -1,0 +1,666 @@
+[
+  {
+    "slug": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "top5": [
+      {
+        "slug": "soma",
+        "title": "SOMA",
+        "similarity": 72.2,
+        "explanation": "Both games share Contemplative experiences (taking time for observation, reflection and interpretation) and Survival tension experiences (sustaining vulnerability and managing threats or scarcity); Unsettling / Dark mood; Survival Horror / Horror genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Contemplative",
+              "Survival tension"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling",
+              "Dark"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Survival Horror",
+              "Horror"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "silent-hill",
+        "title": "Silent Hill",
+        "similarity": 71.7,
+        "explanation": "Both games share Survival tension experiences (sustaining vulnerability and managing threats or scarcity) and Narrative-driven experiences (following and interpreting a story-led journey); Unsettling / Dark mood; Survival Horror / Horror genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Survival tension",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling",
+              "Dark"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Survival Horror",
+              "Horror"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "silent-hill-3",
+        "title": "Silent Hill 3",
+        "similarity": 70.3,
+        "explanation": "Both games share Psychological / Unsettling mood; Survival tension experiences (sustaining vulnerability and managing threats or scarcity) and Narrative-driven experiences (following and interpreting a story-led journey); Survival Horror / Horror genre.",
+        "sharedDNA": [
+          {
+            "dimension": "mood",
+            "values": [
+              "Psychological",
+              "Unsettling"
+            ]
+          },
+          {
+            "dimension": "experience",
+            "values": [
+              "Survival tension",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Survival Horror",
+              "Horror"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "signalis",
+        "title": "Signalis",
+        "similarity": 62.1,
+        "explanation": "Both games share Unsettling / Dark mood; Survival tension experiences (sustaining vulnerability and managing threats or scarcity) and Narrative-driven experiences (following and interpreting a story-led journey); Survival Horror / Horror genre.",
+        "sharedDNA": [
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling",
+              "Dark"
+            ]
+          },
+          {
+            "dimension": "experience",
+            "values": [
+              "Survival tension",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Survival Horror",
+              "Horror"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "dino-crisis",
+        "title": "Dino Crisis",
+        "similarity": 60.3,
+        "explanation": "Both games share Unsettling / Dark mood; Survival Horror / Horror genre; Survival tension experiences (sustaining vulnerability and managing threats or scarcity).",
+        "sharedDNA": [
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling",
+              "Dark"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Survival Horror",
+              "Horror"
+            ]
+          },
+          {
+            "dimension": "experience",
+            "values": [
+              "Survival tension"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "dark-souls",
+    "title": "Dark Souls",
+    "top5": [
+      {
+        "slug": "demons-souls",
+        "title": "Demon's Souls",
+        "similarity": 84.9,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Discovery-led experiences (progressing through curiosity and finding new knowledge or spaces); Bleak / Mysterious mood; Action RPG / RPG genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Discovery-led"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Bleak",
+              "Mysterious"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action RPG",
+              "RPG"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "castlevania-symphony-of-the-night",
+        "title": "Castlevania: Symphony of the Night",
+        "similarity": 57.5,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Discovery-led experiences (progressing through curiosity and finding new knowledge or spaces); Mysterious mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Discovery-led"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "vagrant-story",
+        "title": "Vagrant Story",
+        "similarity": 51.9,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Role immersion experiences (inhabiting and developing a character within a world); Action RPG / RPG genre; Mysterious / Dark mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Role immersion"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action RPG",
+              "RPG"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious",
+              "Dark"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "hollow-knight",
+        "title": "Hollow Knight",
+        "similarity": 51.5,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Discovery-led experiences (progressing through curiosity and finding new knowledge or spaces); Mysterious mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Discovery-led"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "super-metroid",
+        "title": "Super Metroid",
+        "similarity": 49.7,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Discovery-led experiences (progressing through curiosity and finding new knowledge or spaces); Mysterious mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Discovery-led"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "deus-ex",
+    "title": "Deus Ex",
+    "top5": [
+      {
+        "slug": "thief-2",
+        "title": "Thief II: The Metal Age",
+        "similarity": 52.8,
+        "explanation": "Both games share Immersive simulation experiences (learning and exploiting interacting world systems) and Player agency experiences (shaping outcomes through consequential choices or approaches); Dark mood; Immersive Sim genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Immersive simulation",
+              "Player agency"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Dark"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Immersive Sim"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "dishonored",
+        "title": "Dishonored",
+        "similarity": 48,
+        "explanation": "Both games share Immersive simulation experiences (learning and exploiting interacting world systems) and Player agency experiences (shaping outcomes through consequential choices or approaches); Action genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Immersive simulation",
+              "Player agency"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "arx-fatalis",
+        "title": "Arx Fatalis",
+        "similarity": 45.3,
+        "explanation": "Both games share Immersive simulation experiences (learning and exploiting interacting world systems) and Player agency experiences (shaping outcomes through consequential choices or approaches); Immersive Sim / RPG genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Immersive simulation",
+              "Player agency"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Immersive Sim",
+              "RPG"
+            ]
+          }
+        ],
+        "diversityAdjusted": true
+      },
+      {
+        "slug": "prey-2017",
+        "title": "Prey",
+        "similarity": 43.6,
+        "explanation": "Both games share Immersive simulation experiences (learning and exploiting interacting world systems) and Player agency experiences (shaping outcomes through consequential choices or approaches); Immersive Sim / Action genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Immersive simulation",
+              "Player agency"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Immersive Sim",
+              "Action"
+            ]
+          }
+        ],
+        "diversityAdjusted": true
+      },
+      {
+        "slug": "dishonored-2",
+        "title": "Dishonored 2",
+        "similarity": 48,
+        "explanation": "Both games share Immersive simulation experiences (learning and exploiting interacting world systems) and Player agency experiences (shaping outcomes through consequential choices or approaches); Action genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Immersive simulation",
+              "Player agency"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "vagrant-story",
+    "title": "Vagrant Story",
+    "top5": [
+      {
+        "slug": "dark-souls",
+        "title": "Dark Souls",
+        "similarity": 51.9,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Role immersion experiences (inhabiting and developing a character within a world); Action RPG / RPG genre; Mysterious / Dark mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Role immersion"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action RPG",
+              "RPG"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious",
+              "Dark"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "demons-souls",
+        "title": "Demon's Souls",
+        "similarity": 40.8,
+        "explanation": "Both games share Mastery challenge experiences (learning through repeated attempts and improving execution) and Role immersion experiences (inhabiting and developing a character within a world); Action RPG / RPG genre; Mysterious / Dark mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Mastery challenge",
+              "Role immersion"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action RPG",
+              "RPG"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious",
+              "Dark"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "shadow-tower",
+        "title": "Shadow Tower",
+        "similarity": 37.5,
+        "explanation": "Both games share Strategic planning experiences (weighing resources and planning consequential decisions) and Role immersion experiences (inhabiting and developing a character within a world); Action RPG genre; Dark mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Strategic planning",
+              "Role immersion"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action RPG"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Dark"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "system-shock-2",
+        "title": "System Shock 2",
+        "similarity": 34.9,
+        "explanation": "Both games share Strategic planning experiences (weighing resources and planning consequential decisions) and Role immersion experiences (inhabiting and developing a character within a world); Mysterious mood; RPG genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Strategic planning",
+              "Role immersion"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Mysterious"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "RPG"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "dino-crisis",
+        "title": "Dino Crisis",
+        "similarity": 32.6,
+        "explanation": "Both games share Strategic planning experiences (weighing resources and planning consequential decisions); Dark mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Strategic planning"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Dark"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      }
+    ]
+  },
+  {
+    "slug": "killer7",
+    "title": "Killer7",
+    "top5": [
+      {
+        "slug": "silent-hill-4-the-room",
+        "title": "Silent Hill 4: The Room",
+        "similarity": 32.3,
+        "explanation": "Both games share Experimental experiences (engaging with unconventional forms of play or narrative presentation) and Narrative-driven experiences (following and interpreting a story-led journey); Unsettling mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Experimental",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "metal-gear-solid-2",
+        "title": "Metal Gear Solid 2: Sons of Liberty",
+        "similarity": 31.8,
+        "explanation": "Both games share Experimental experiences (engaging with unconventional forms of play or narrative presentation) and Narrative-driven experiences (following and interpreting a story-led journey); Action genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Experimental",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "eternal-darkness-sanity-s-requiem",
+        "title": "Eternal Darkness: Sanity's Requiem",
+        "similarity": 31.3,
+        "explanation": "Both games share Experimental experiences (engaging with unconventional forms of play or narrative presentation) and Narrative-driven experiences (following and interpreting a story-led journey); Unsettling mood.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Experimental",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "mood",
+            "values": [
+              "Unsettling"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "psychonauts",
+        "title": "Psychonauts",
+        "similarity": 28.8,
+        "explanation": "Both games share Experimental experiences (engaging with unconventional forms of play or narrative presentation) and Narrative-driven experiences (following and interpreting a story-led journey); Action genre.",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Experimental",
+              "Narrative-driven"
+            ]
+          },
+          {
+            "dimension": "genre",
+            "values": [
+              "Action"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      },
+      {
+        "slug": "earthbound",
+        "title": "EarthBound",
+        "similarity": 27.8,
+        "explanation": "Both games share Experimental experiences (engaging with unconventional forms of play or narrative presentation) and Narrative-driven experiences (following and interpreting a story-led journey).",
+        "sharedDNA": [
+          {
+            "dimension": "experience",
+            "values": [
+              "Experimental",
+              "Narrative-driven"
+            ]
+          }
+        ],
+        "diversityAdjusted": false
+      }
+    ]
+  }
+]
