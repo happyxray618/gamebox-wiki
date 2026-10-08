@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:data": "node scripts/validate-data.cjs",
+    "test": "node scripts/test-discovery.cjs",
+    "check:links": "node scripts/check-links.cjs"
   },
   "dependencies": {
     "next": "16.3.8",

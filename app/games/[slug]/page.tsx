@@ -1,7 +1,9 @@
+import SiteHeader from "@/components/site-header"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { games } from "@/data/games"
 import { pageMetadata } from "@/lib/metadata"
+import { slugify } from "@/lib/taxonomy"
 
 type Props = {
   params: Promise<{
@@ -40,34 +42,7 @@ export default async function GamePage({ params }: Props) {
   return (
     <main className="min-h-screen bg-[#09090b] text-white">
       {/* Header */}
-      <header className="border-b border-white/10">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-          <Link
-            href="/"
-            className="text-xl font-black tracking-widest"
-          >
-            GAMEBOX.WIKI
-          </Link>
-
-          <nav className="flex gap-6 text-sm text-zinc-400">
-            <Link href="/games" className="hover:text-white">
-              GAMES
-            </Link>
-
-            <Link href="/finder" className="hover:text-white">
-              FINDER
-            </Link>
-
-            <Link href="/retro" className="hover:text-white">
-              RETRO
-            </Link>
-
-            <Link href="/hidden-gems" className="hover:text-white">
-              HIDDEN GEMS
-            </Link>
-          </nav>
-        </div>
-      </header>
+      <SiteHeader active="/games" />
 
       {/* Breadcrumb */}
       <div className="mx-auto max-w-7xl px-6 pt-8">
@@ -86,17 +61,17 @@ export default async function GamePage({ params }: Props) {
             {/* Genres */}
             <div className="mb-6 flex flex-wrap gap-2">
               {game.genres.map((genre) => (
-                <span
+                <Link href={`/genres/${slugify(genre)}`}
                   key={genre}
                   className="rounded-full border border-white/10 px-4 py-2 text-xs font-bold tracking-wider text-zinc-400"
                 >
                   {genre.toUpperCase()}
-                </span>
+                </Link>
               ))}
             </div>
 
             {/* Title */}
-            <h1 className="max-w-4xl text-5xl font-black tracking-tight md:text-7xl">
+            <h1 className="max-w-4xl break-words text-4xl font-black tracking-tight sm:text-5xl md:text-7xl">
               {game.title}
             </h1>
 
@@ -118,12 +93,12 @@ export default async function GamePage({ params }: Props) {
 
               <div className="flex flex-wrap gap-2">
                 {game.platforms.map((platform) => (
-                  <span
+                  <Link href={`/platforms/${slugify(platform)}`}
                     key={platform}
                     className="rounded-lg bg-white/5 px-4 py-2 text-sm text-zinc-300"
                   >
                     {platform}
-                  </span>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -139,6 +114,7 @@ export default async function GamePage({ params }: Props) {
               <div className="mt-4 text-7xl font-black">
                 {game.gameboxScore}
               </div>
+              <p className="mt-4 text-xs leading-5 text-zinc-400">Provisional GAMEBOX editorial ratings. These are not verified facts or aggregate review scores.</p>
 
               <p className="mt-2 text-sm text-zinc-500">
                 / 100
@@ -203,6 +179,14 @@ export default async function GamePage({ params }: Props) {
       </section>
 
       {/* Main Content */}
+      <section className="mx-auto max-w-7xl px-6 pt-12">
+        <h2 className="text-xl font-black">DISCOVER BY GAME DNA</h2>
+        <p className="mt-3 text-sm text-zinc-400">Mood, gameplay, difficulty and ratings are GAMEBOX editorial classifications.</p>
+        <div className="mt-5 flex flex-wrap gap-3">
+          {game.mood.map((mood) => <Link key={`mood-${mood}`} href={`/moods/${slugify(mood)}`} className="inline-flex min-h-11 items-center rounded-full border border-white/15 px-4 text-sm text-zinc-300">{mood}</Link>)}
+          {game.gameplay.map((gameplay) => <Link key={`gameplay-${gameplay}`} href={`/gameplay/${slugify(gameplay)}`} className="inline-flex min-h-11 items-center rounded-full border border-white/15 px-4 text-sm text-zinc-300">{gameplay}</Link>)}
+        </div>
+      </section>
       <section className="mx-auto max-w-7xl px-6 py-16">
         <div className="grid gap-16 lg:grid-cols-[1fr_320px]">
           {/* Main */}
@@ -216,11 +200,7 @@ export default async function GamePage({ params }: Props) {
             </p>
 
             <p className="mt-6 max-w-3xl text-lg leading-9 text-zinc-400">
-              GAMEBOX documents the history, design identity and
-              cultural impact of games across generations. This
-              page will eventually include deeper editorial analysis,
-              screenshots, videos, development history and community
-              recommendations.
+              {game.whyPlay}
             </p>
 
             {/* Where To Play */}
@@ -247,6 +227,7 @@ export default async function GamePage({ params }: Props) {
               <h2 className="text-3xl font-black">
                 RETRO HISTORY
               </h2>
+              <p className="mt-6 leading-8 text-zinc-400">{game.retroHistory}</p>
 
               <div className="mt-6 rounded-2xl border border-white/10 bg-white/[0.03] p-6">
                 <div className="text-sm text-zinc-500">
@@ -278,6 +259,12 @@ export default async function GamePage({ params }: Props) {
 
           {/* Sidebar */}
           <aside>
+            <div className="mb-6 rounded-2xl border border-white/10 bg-white/[0.03] p-6">
+              <h2 className="text-sm font-bold tracking-widest">FACTS & SOURCES</h2>
+              <p className="mt-4 text-sm leading-6 text-zinc-400">Verified fields: title, earliest listed release year, development credits, publishing credits and listed platforms. Platform lists may include ports and remasters; current store availability is not verified.</p>
+              <p className="mt-3 text-xs text-zinc-400">Checked {game.facts.verification?.verifiedAt || "Not yet verified"}.</p>
+              <ul className="mt-4 space-y-3">{game.facts.sources?.map((source) => <li key={source.url}><a href={source.revisionId ? `https://en.wikipedia.org/w/index.php?oldid=${source.revisionId}` : source.url} className="break-words text-sm underline underline-offset-4 hover:text-zinc-300">{source.label}</a></li>)}</ul>
+            </div>
             <div className="sticky top-8">
               <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-6">
                 <p className="text-xs font-bold tracking-[0.2em] text-zinc-600">

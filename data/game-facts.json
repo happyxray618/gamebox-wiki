@@ -1,0 +1,4601 @@
+[
+  {
+    "id": 1,
+    "slug": "silent-hill-2",
+    "title": "Silent Hill 2",
+    "year": 2001,
+    "developers": [
+      "Team Silent"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379099632"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 2,
+    "slug": "silent-hill-3",
+    "title": "Silent Hill 3",
+    "year": 2003,
+    "developers": [
+      "Team Silent"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS2",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silent_Hill_3",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378423058"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 3,
+    "slug": "resident-evil-2",
+    "title": "Resident Evil 2",
+    "year": 1998,
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "platforms": [
+      "PS1",
+      "PC",
+      "N64",
+      "Dreamcast",
+      "GameCube",
+      "Game.com"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Resident_Evil_2_(1998_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378723810"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 4,
+    "slug": "fatal-frame-2",
+    "title": "Fatal Frame II: Crimson Butterfly",
+    "year": 2003,
+    "developers": [
+      "Tecmo"
+    ],
+    "publishers": [
+      "Tecmo",
+      "Ubisoft (PS2)",
+      "Microsoft Game Studios (Xbox)"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fatal_Frame_II:_Crimson_Butterfly",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1355192452"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "dark-souls",
+    "title": "Dark Souls",
+    "year": 2011,
+    "developers": [
+      "FromSoftware"
+    ],
+    "publishers": [
+      "Namco Bandai Games",
+      "FromSoftware"
+    ],
+    "platforms": [
+      "PS3",
+      "Xbox 360",
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378301405"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 6,
+    "slug": "demons-souls",
+    "title": "Demon's Souls",
+    "year": 2009,
+    "developers": [
+      "FromSoftware"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment",
+      "Atlus",
+      "Namco Bandai Partners"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Demon%27s_Souls",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1371116771"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 7,
+    "slug": "vagrant-story",
+    "title": "Vagrant Story",
+    "year": 2000,
+    "developers": [
+      "Square Product Development Division 4"
+    ],
+    "publishers": [
+      "Square",
+      "Square Electronic Arts"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vagrant_Story",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1363580083"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 8,
+    "slug": "shadow-tower",
+    "title": "Shadow Tower",
+    "year": 1998,
+    "developers": [
+      "FromSoftware"
+    ],
+    "publishers": [
+      "FromSoftware",
+      "Agetec"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Shadow_Tower",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1347609619"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 9,
+    "slug": "deus-ex",
+    "title": "Deus Ex",
+    "year": 2000,
+    "developers": [
+      "Ion Storm"
+    ],
+    "publishers": [
+      "Eidos Interactive"
+    ],
+    "platforms": [
+      "PC",
+      "Mac OS",
+      "PS2",
+      "PS5"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Deus_Ex_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377387680"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 10,
+    "slug": "system-shock-2",
+    "title": "System Shock 2",
+    "year": 1999,
+    "developers": [
+      "Irrational Games",
+      "Looking Glass Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "Nintendo Switch",
+      "Nintendo Switch 2",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/System_Shock_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1367354179"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 11,
+    "slug": "thief-2",
+    "title": "Thief II: The Metal Age",
+    "year": 2000,
+    "developers": [
+      "Looking Glass Studios"
+    ],
+    "publishers": [
+      "Eidos Interactive"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thief_II",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1365314564"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 12,
+    "slug": "prey-2017",
+    "title": "Prey",
+    "year": 2017,
+    "developers": [
+      "Arkane Austin"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Prey_(2017_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1370743562"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 13,
+    "slug": "killer7",
+    "title": "Killer7",
+    "year": 2005,
+    "developers": [
+      "Grasshopper Manufacture",
+      "Capcom Production Studio 4"
+    ],
+    "publishers": [
+      "Capcom (GC, PS2)",
+      "NIS America (PC)"
+    ],
+    "platforms": [
+      "GameCube",
+      "PS2",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Killer7",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1368420614"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 14,
+    "slug": "rule-of-rose",
+    "title": "Rule of Rose",
+    "year": 2006,
+    "developers": [
+      "Punchline"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment",
+      "Atlus USA",
+      "505 Games"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rule_of_Rose",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373617032"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 15,
+    "slug": "the-suffering",
+    "title": "The Suffering",
+    "year": 2004,
+    "developers": [
+      "Surreal Software"
+    ],
+    "publishers": [
+      "Midway Games"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Suffering_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1371954289"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 16,
+    "slug": "enslaved-odyssey-to-the-west",
+    "title": "Enslaved: Odyssey to the West",
+    "year": 2010,
+    "developers": [
+      "Ninja Theory"
+    ],
+    "publishers": [
+      "Namco Bandai Games"
+    ],
+    "platforms": [
+      "PS3",
+      "Xbox 360",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Enslaved:_Odyssey_to_the_West",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373909038"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 17,
+    "slug": "shadow-of-the-colossus",
+    "title": "Shadow of the Colossus",
+    "year": 2005,
+    "developers": [
+      "Sony Computer Entertainment Japan"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373764341"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 18,
+    "slug": "metal-gear-solid-2",
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "year": 2001,
+    "developers": [
+      "Konami Computer Entertainment Japan"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1375403665"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 19,
+    "slug": "ico",
+    "title": "Ico",
+    "year": 2001,
+    "developers": [
+      "Sony Computer Entertainment Japan"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment"
+    ],
+    "platforms": [
+      "PS2",
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ico",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373047591"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 20,
+    "slug": "shenmue",
+    "title": "Shenmue",
+    "year": 1999,
+    "developers": [
+      "AM2 of CRI"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Dreamcast",
+      "PS4",
+      "PC",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Shenmue_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377047111"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 21,
+    "slug": "portal",
+    "title": "Portal",
+    "year": 2007,
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3",
+      "macOS",
+      "Linux",
+      "Android",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Portal_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377863814"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 22,
+    "slug": "portal-2",
+    "title": "Portal 2",
+    "year": 2011,
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve",
+      "Electronic Arts (PlayStation 3, Xbox 360)"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux",
+      "PS3",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Portal_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377591133"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 23,
+    "slug": "half-life",
+    "title": "Half-Life",
+    "year": 1998,
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Sierra Studios"
+    ],
+    "platforms": [
+      "PC",
+      "PS2",
+      "macOS",
+      "Linux"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378954699"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 24,
+    "slug": "half-life-2",
+    "title": "Half-Life 2",
+    "year": 2004,
+    "developers": [
+      "Valve"
+    ],
+    "publishers": [
+      "Valve",
+      "Electronic Arts (Xbox)"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Xbox 360",
+      "PS3",
+      "macOS",
+      "Linux",
+      "Nvidia Shield"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Half-Life_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379050639"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 25,
+    "slug": "bioshock",
+    "title": "BioShock",
+    "year": 2007,
+    "developers": [
+      "2K Boston",
+      "2K Australia"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3",
+      "macOS",
+      "iOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/BioShock",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378603626"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 26,
+    "slug": "bioshock-2",
+    "title": "BioShock 2",
+    "year": 2010,
+    "developers": [
+      "2K Marin"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox 360",
+      "macOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/BioShock_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1374947114"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 27,
+    "slug": "bioshock-infinite",
+    "title": "BioShock Infinite",
+    "year": 2013,
+    "developers": [
+      "Irrational Games"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox 360",
+      "macOS",
+      "Linux"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1374947524"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 28,
+    "slug": "dishonored",
+    "title": "Dishonored",
+    "year": 2012,
+    "developers": [
+      "Arkane Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox 360",
+      "PS4",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dishonored",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373354006"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 29,
+    "slug": "dishonored-2",
+    "title": "Dishonored 2",
+    "year": 2016,
+    "developers": [
+      "Arkane Lyon"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dishonored_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1367901458"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 30,
+    "slug": "fallout",
+    "title": "Fallout",
+    "year": 1997,
+    "developers": [
+      "Interplay Productions"
+    ],
+    "publishers": [
+      "Interplay Productions"
+    ],
+    "platforms": [
+      "MS-DOS",
+      "PC",
+      "Mac OS",
+      "macOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fallout_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376980689"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 31,
+    "slug": "fallout-2",
+    "title": "Fallout 2",
+    "year": 1998,
+    "developers": [
+      "Black Isle Studios"
+    ],
+    "publishers": [
+      "Interplay Productions"
+    ],
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fallout_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1375221663"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 32,
+    "slug": "fallout-new-vegas",
+    "title": "Fallout: New Vegas",
+    "year": 2010,
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1375222392"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 33,
+    "slug": "baldur-s-gate",
+    "title": "Baldur's Gate",
+    "year": 1998,
+    "developers": [
+      "BioWare"
+    ],
+    "publishers": [
+      "Black Isle Studios",
+      "Interplay Entertainment",
+      "Sega"
+    ],
+    "platforms": [
+      "PC",
+      "Mac OS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377020083"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 34,
+    "slug": "baldur-s-gate-ii-shadows-of-amn",
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "year": 2000,
+    "developers": [
+      "BioWare"
+    ],
+    "publishers": [
+      "Black Isle Studios",
+      "Interplay Entertainment"
+    ],
+    "platforms": [
+      "PC",
+      "Mac OS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377020210"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 35,
+    "slug": "planescape-torment",
+    "title": "Planescape: Torment",
+    "year": 1999,
+    "developers": [
+      "Black Isle Studios"
+    ],
+    "publishers": [
+      "Interplay Entertainment"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "iOS",
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Planescape:_Torment",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376446274"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 36,
+    "slug": "disco-elysium",
+    "title": "Disco Elysium",
+    "year": 2019,
+    "developers": [
+      "ZA/UM"
+    ],
+    "publishers": [
+      "ZA/UM"
+    ],
+    "platforms": [
+      "PC",
+      "macOS",
+      "PS4",
+      "PS5",
+      "Stadia",
+      "Nintendo Switch",
+      "Xbox One",
+      "Xbox Series X/S",
+      "Android"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Disco_Elysium",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378431075"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 37,
+    "slug": "the-elder-scrolls-iii-morrowind",
+    "title": "The Elder Scrolls III: Morrowind",
+    "year": 2002,
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377842792"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 38,
+    "slug": "the-elder-scrolls-iv-oblivion",
+    "title": "The Elder Scrolls IV: Oblivion",
+    "year": 2006,
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks",
+      "2K (Xbox 360, Windows)",
+      "Ubisoft (PS3, Europe)"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378879805"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 39,
+    "slug": "the-elder-scrolls-v-skyrim",
+    "title": "The Elder Scrolls V: Skyrim",
+    "year": 2011,
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox 360",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PS5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378053198"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 40,
+    "slug": "the-witcher-3-wild-hunt",
+    "title": "The Witcher 3: Wild Hunt",
+    "year": 2015,
+    "developers": [
+      "CD Projekt Red"
+    ],
+    "publishers": [
+      "CD Projekt"
+    ],
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "PS5",
+      "Xbox Series X/S",
+      "Nintendo Switch 2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378538941"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 41,
+    "slug": "mass-effect",
+    "title": "Mass Effect",
+    "year": 2007,
+    "developers": [
+      "BioWare"
+    ],
+    "publishers": [
+      "Microsoft Game Studios"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1361928201"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 42,
+    "slug": "mass-effect-2",
+    "title": "Mass Effect 2",
+    "year": 2010,
+    "developers": [
+      "BioWare"
+    ],
+    "publishers": [
+      "Electronic Arts",
+      "Microsoft Game Studios"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mass_Effect_2",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376153839"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 43,
+    "slug": "dragon-age-origins",
+    "title": "Dragon Age: Origins",
+    "year": 2009,
+    "developers": [
+      "BioWare"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS3",
+      "macOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dragon_Age:_Origins",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376389501"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 44,
+    "slug": "vampire-the-masquerade-bloodlines",
+    "title": "Vampire: The Masquerade – Bloodlines",
+    "year": 2004,
+    "developers": [
+      "Troika Games"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Bloodlines",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377680975"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 45,
+    "slug": "arx-fatalis",
+    "title": "Arx Fatalis",
+    "year": 2002,
+    "developers": [
+      "Arkane Studios"
+    ],
+    "publishers": [
+      "JoWooD Productions",
+      "Arkane Studios",
+      "DreamCatcher Interactive",
+      "Mindscape"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arx_Fatalis",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1365952273"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 46,
+    "slug": "gothic",
+    "title": "Gothic",
+    "year": 2001,
+    "developers": [
+      "Piranha Bytes"
+    ],
+    "publishers": [
+      "Egmont Interactive",
+      "Xicat Interactive",
+      "THQ Nordic"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gothic_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373705269"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 47,
+    "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+    "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "year": 2007,
+    "developers": [
+      "GSC Game World"
+    ],
+    "publishers": [
+      "THQ",
+      "GSC World Publishing"
+    ],
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1374393932"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 48,
+    "slug": "metro-2033",
+    "title": "Metro 2033",
+    "year": 2010,
+    "developers": [
+      "4A Games"
+    ],
+    "publishers": [
+      "THQ",
+      "Deep Silver (Redux)"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "Linux",
+      "macOS",
+      "Stadia",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377991081"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 49,
+    "slug": "dead-space",
+    "title": "Dead Space",
+    "year": 2008,
+    "developers": [
+      "EA Redwood Shores"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "platforms": [
+      "PS3",
+      "Xbox 360",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376372151"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 50,
+    "slug": "alien-isolation",
+    "title": "Alien: Isolation",
+    "year": 2014,
+    "developers": [
+      "Creative Assembly"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox 360",
+      "Xbox One",
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "Android",
+      "iOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alien:_Isolation",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378009279"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 51,
+    "slug": "amnesia-the-dark-descent",
+    "title": "Amnesia: The Dark Descent",
+    "year": 2010,
+    "developers": [
+      "Frictional Games"
+    ],
+    "publishers": [
+      "Frictional Games"
+    ],
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377204873"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 52,
+    "slug": "soma",
+    "title": "SOMA",
+    "year": 2015,
+    "developers": [
+      "Frictional Games",
+      "Abylight Studios (Switch)"
+    ],
+    "publishers": [
+      "Frictional Games",
+      "Abylight Studios (Switch)"
+    ],
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PS4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SOMA_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1363364571"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 53,
+    "slug": "signalis",
+    "title": "Signalis",
+    "year": 2022,
+    "developers": [
+      "rose-engine"
+    ],
+    "publishers": [
+      "Humble Games",
+      "Playism"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Signalis",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377182513"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 54,
+    "slug": "resident-evil",
+    "title": "Resident Evil",
+    "year": 1996,
+    "developers": [
+      "Capcom"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "platforms": [
+      "PS1",
+      "PC",
+      "Saturn",
+      "DS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378723886"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 55,
+    "slug": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "year": 2005,
+    "developers": [
+      "Capcom Production Studio 4"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "platforms": [
+      "GameCube",
+      "PS2",
+      "PC",
+      "Wii",
+      "iOS",
+      "Zeebo",
+      "PS3",
+      "Xbox 360",
+      "Android",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "Oculus Quest 2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Resident_Evil_4_(2005_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379050642"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 56,
+    "slug": "silent-hill",
+    "title": "Silent Hill",
+    "year": 1999,
+    "developers": [
+      "Team Silent"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silent_Hill_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379044903"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 57,
+    "slug": "silent-hill-4-the-room",
+    "title": "Silent Hill 4: The Room",
+    "year": 2004,
+    "developers": [
+      "Team Silent"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS2",
+      "Xbox",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379029730"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 58,
+    "slug": "eternal-darkness-sanity-s-requiem",
+    "title": "Eternal Darkness: Sanity's Requiem",
+    "year": 2002,
+    "developers": [
+      "Silicon Knights"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "GameCube"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eternal_Darkness",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1371852555"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 59,
+    "slug": "parasite-eve",
+    "title": "Parasite Eve",
+    "year": 1998,
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square",
+      "Square Electronic Arts"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376453315"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 60,
+    "slug": "dino-crisis",
+    "title": "Dino Crisis",
+    "year": 1999,
+    "developers": [
+      "Capcom Production Studio 4"
+    ],
+    "publishers": [
+      "Capcom",
+      "Virgin Interactive"
+    ],
+    "platforms": [
+      "PS1",
+      "Dreamcast",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dino_Crisis_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373057995"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 61,
+    "slug": "chrono-trigger",
+    "title": "Chrono Trigger",
+    "year": 1995,
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square"
+    ],
+    "platforms": [
+      "SNES",
+      "PS1",
+      "DS",
+      "i-mode",
+      "iOS",
+      "Android",
+      "PC",
+      "Apple TV"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chrono_Trigger",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376216677"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 62,
+    "slug": "final-fantasy-vi",
+    "title": "Final Fantasy VI",
+    "year": 1994,
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square"
+    ],
+    "platforms": [
+      "SNES",
+      "PS1",
+      "GBA",
+      "Android",
+      "iOS",
+      "PC",
+      "Nintendo Switch",
+      "PS4",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379073476"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 63,
+    "slug": "final-fantasy-vii",
+    "title": "Final Fantasy VII",
+    "year": 1997,
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square",
+      "Sony Computer Entertainment",
+      "Eidos Interactive",
+      "Square Enix"
+    ],
+    "platforms": [
+      "PS1",
+      "PC",
+      "iOS",
+      "PS4",
+      "Android",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378270668"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 64,
+    "slug": "final-fantasy-ix",
+    "title": "Final Fantasy IX",
+    "year": 2000,
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square",
+      "Square Electronic Arts",
+      "Square Europe",
+      "Square Enix"
+    ],
+    "platforms": [
+      "PS1",
+      "Android",
+      "iOS",
+      "PC",
+      "PS4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373390234"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 65,
+    "slug": "final-fantasy-x",
+    "title": "Final Fantasy X",
+    "year": 2001,
+    "developers": [
+      "Square Product Development Division 1"
+    ],
+    "publishers": [
+      "Square",
+      "Square Electronic Arts",
+      "Sony Computer Entertainment"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378168420"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 66,
+    "slug": "suikoden-ii",
+    "title": "Suikoden II",
+    "year": 1998,
+    "developers": [
+      "Konami Computer Entertainment Tokyo"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS1",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Suikoden_II",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379071198"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 67,
+    "slug": "xenogears",
+    "title": "Xenogears",
+    "year": 1998,
+    "developers": [
+      "Square Product Development Division 3"
+    ],
+    "publishers": [
+      "Square",
+      "Square Electronic Arts"
+    ],
+    "platforms": [
+      "PS1"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Xenogears",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1374192371"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 68,
+    "slug": "earthbound",
+    "title": "EarthBound",
+    "year": 1994,
+    "developers": [
+      "Ape Inc.",
+      "HAL Laboratory"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "SNES",
+      "GBA"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/EarthBound",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376471634"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 69,
+    "slug": "paper-mario-the-thousand-year-door",
+    "title": "Paper Mario: The Thousand-Year Door",
+    "year": 2004,
+    "developers": [
+      "Intelligent Systems"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "GameCube"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Paper_Mario:_The_Thousand-Year_Door",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1359664762"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 70,
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "year": 1998,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "N64",
+      "GameCube",
+      "iQue Player"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377579443"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 71,
+    "slug": "the-legend-of-zelda-majora-s-mask",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "year": 2000,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "N64",
+      "GameCube"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378448008"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 72,
+    "slug": "the-legend-of-zelda-the-wind-waker",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "year": 2002,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "GameCube",
+      "Wii U"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378885004"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 73,
+    "slug": "super-metroid",
+    "title": "Super Metroid",
+    "year": 1994,
+    "developers": [
+      "Nintendo R&D1",
+      "Intelligent Systems"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "SNES"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Super_Metroid",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1372966654"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 74,
+    "slug": "metroid-prime",
+    "title": "Metroid Prime",
+    "year": 2002,
+    "developers": [
+      "Retro Studios"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "GameCube",
+      "Wii",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metroid_Prime",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376793529"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 75,
+    "slug": "castlevania-symphony-of-the-night",
+    "title": "Castlevania: Symphony of the Night",
+    "year": 1997,
+    "developers": [
+      "Konami Computer Entertainment Tokyo"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS1",
+      "Saturn"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378900865"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 76,
+    "slug": "super-mario-64",
+    "title": "Super Mario 64",
+    "year": 1996,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "N64",
+      "iQue Player"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377162792"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 77,
+    "slug": "super-mario-world",
+    "title": "Super Mario World",
+    "year": 1990,
+    "developers": [
+      "Nintendo EAD"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "SNES",
+      "GBA"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379089057"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 78,
+    "slug": "donkey-kong-country",
+    "title": "Donkey Kong Country",
+    "year": 1994,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo"
+    ],
+    "platforms": [
+      "SNES",
+      "GBC",
+      "GBA"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376000842"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 79,
+    "slug": "banjo-kazooie",
+    "title": "Banjo-Kazooie",
+    "year": 1998,
+    "developers": [
+      "Rare"
+    ],
+    "publishers": [
+      "Nintendo (N64)",
+      "Microsoft Game Studios (X360)"
+    ],
+    "platforms": [
+      "N64",
+      "Xbox 360",
+      "Evercade"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1375539591"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 80,
+    "slug": "psychonauts",
+    "title": "Psychonauts",
+    "year": 2005,
+    "developers": [
+      "Double Fine Productions"
+    ],
+    "publishers": [
+      "Majesco"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS2",
+      "macOS",
+      "Linux"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Psychonauts",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377913867"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 81,
+    "slug": "okami",
+    "title": "Ōkami",
+    "year": 2006,
+    "developers": [
+      "Clover Studio"
+    ],
+    "publishers": [
+      "Capcom"
+    ],
+    "platforms": [
+      "PS2",
+      "Wii",
+      "PS3",
+      "PC",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1374031364"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 82,
+    "slug": "beyond-good-evil",
+    "title": "Beyond Good & Evil",
+    "year": 2003,
+    "developers": [
+      "Ubisoft Montpellier",
+      "Ubisoft Shanghai (HD)"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "GameCube",
+      "Xbox 360",
+      "PS3",
+      "Nintendo Switch",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376355508"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 83,
+    "slug": "prince-of-persia-the-sands-of-time",
+    "title": "Prince of Persia: The Sands of Time",
+    "year": 2003,
+    "developers": [
+      "Ubisoft Montreal (PlayStation 2, Xbox, GameCube, Game Boy Advance)",
+      "Kudosoft (Windows)",
+      "Gameloft (Mobile)"
+    ],
+    "publishers": [
+      "Ubisoft",
+      "Sony Computer Entertainment (PS2)",
+      "Gameloft (Mobile)"
+    ],
+    "platforms": [
+      "GBA",
+      "PS2",
+      "GameCube",
+      "Xbox",
+      "PC",
+      "Mobile"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1375428441"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 84,
+    "slug": "jet-set-radio",
+    "title": "Jet Set Radio",
+    "year": 2000,
+    "developers": [
+      "Smilebit",
+      "BlitWorks (HD)"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Dreamcast",
+      "PS3",
+      "PC",
+      "Xbox 360",
+      "PlayStation Vita",
+      "iOS",
+      "Android"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jet_Set_Radio",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378943068"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 85,
+    "slug": "crazy-taxi",
+    "title": "Crazy Taxi",
+    "year": 1999,
+    "developers": [
+      "Sega AM3"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Arcade",
+      "Dreamcast",
+      "PS2",
+      "GameCube",
+      "PC",
+      "PS3",
+      "Xbox 360",
+      "iOS",
+      "Android"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Crazy_Taxi_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377838845"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 86,
+    "slug": "rez",
+    "title": "Rez",
+    "year": 2001,
+    "developers": [
+      "United Game Artists"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Dreamcast",
+      "PS2",
+      "Xbox 360",
+      "PS4",
+      "PC",
+      "Android",
+      "Oculus Quest",
+      "PS5"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rez_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1365952586"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 87,
+    "slug": "panzer-dragoon-saga",
+    "title": "Panzer Dragoon Saga",
+    "year": 1998,
+    "developers": [
+      "Sega (Team Andromeda)"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Saturn"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Saga",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378965901"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 88,
+    "slug": "skies-of-arcadia",
+    "title": "Skies of Arcadia",
+    "year": 2000,
+    "developers": [
+      "Overworks"
+    ],
+    "publishers": [
+      "Sega"
+    ],
+    "platforms": [
+      "Dreamcast",
+      "GameCube"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378965972"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 89,
+    "slug": "metal-gear-solid",
+    "title": "Metal Gear Solid",
+    "year": 1998,
+    "developers": [
+      "Konami Computer Entertainment Japan"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS1",
+      "PC"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376080253"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 90,
+    "slug": "metal-gear-solid-3-snake-eater",
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "year": 2004,
+    "developers": [
+      "Konami Computer Entertainment Japan"
+    ],
+    "publishers": [
+      "Konami"
+    ],
+    "platforms": [
+      "PS2",
+      "3DS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379092424"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 91,
+    "slug": "tom-clancy-s-splinter-cell-chaos-theory",
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "year": 2005,
+    "developers": [
+      "Ubisoft Montreal",
+      "Ubisoft Milan"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "platforms": [
+      "Mobile (Java)",
+      "N-Gage",
+      "PC",
+      "PS2",
+      "Xbox",
+      "GameCube",
+      "DS",
+      "3DS",
+      "PS3"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Splinter_Cell:_Chaos_Theory",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376612295"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 92,
+    "slug": "hitman-blood-money",
+    "title": "Hitman: Blood Money",
+    "year": 2006,
+    "developers": [
+      "IO Interactive"
+    ],
+    "publishers": [
+      "Eidos Interactive"
+    ],
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox",
+      "Xbox 360",
+      "PS3",
+      "PS4",
+      "Xbox One",
+      "Android",
+      "iOS",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hitman:_Blood_Money",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1376713004"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 93,
+    "slug": "hollow-knight",
+    "title": "Hollow Knight",
+    "year": 2017,
+    "developers": [
+      "Team Cherry"
+    ],
+    "publishers": [
+      "Team Cherry"
+    ],
+    "platforms": [
+      "PC",
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch 2",
+      "PS5",
+      "Xbox Series X/S"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hollow_Knight",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378702465"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 94,
+    "slug": "celeste",
+    "title": "Celeste",
+    "year": 2018,
+    "developers": [
+      "Maddy Makes Games"
+    ],
+    "publishers": [
+      "Maddy Makes Games"
+    ],
+    "platforms": [
+      "Linux",
+      "macOS",
+      "Nintendo Switch",
+      "PS4",
+      "PC",
+      "Xbox One",
+      "Stadia"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Celeste_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1377301523"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 95,
+    "slug": "hades",
+    "title": "Hades",
+    "year": 2020,
+    "developers": [
+      "Supergiant Games"
+    ],
+    "publishers": [
+      "Supergiant Games"
+    ],
+    "platforms": [
+      "macOS",
+      "Nintendo Switch",
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox One",
+      "Xbox Series X/S",
+      "iOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hades_(video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379073272"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 96,
+    "slug": "outer-wilds",
+    "title": "Outer Wilds",
+    "year": 2019,
+    "developers": [
+      "Mobius Digital"
+    ],
+    "publishers": [
+      "Annapurna Interactive"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PS4",
+      "PS5",
+      "Xbox Series X/S",
+      "Nintendo Switch"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Outer_Wilds",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1379047448"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 97,
+    "slug": "return-of-the-obra-dinn",
+    "title": "Return of the Obra Dinn",
+    "year": 2018,
+    "developers": [
+      "Lucas Pope"
+    ],
+    "publishers": [
+      "3909 LLC."
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "Nintendo Switch",
+      "PS4",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378558410"
+      },
+      {
+        "url": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
+        "label": "Developer-published Steam listing",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "developers"
+        ]
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 98,
+    "slug": "undertale",
+    "title": "Undertale",
+    "year": 2015,
+    "developers": [
+      "Toby Fox"
+    ],
+    "publishers": [
+      "Toby Fox",
+      "8-4"
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "Linux",
+      "PS4",
+      "PlayStation Vita",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Undertale",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378828439"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 99,
+    "slug": "stardew-valley",
+    "title": "Stardew Valley",
+    "year": 2016,
+    "developers": [
+      "ConcernedApe"
+    ],
+    "publishers": [
+      "ConcernedApe"
+    ],
+    "platforms": [
+      "PC",
+      "Linux",
+      "macOS",
+      "PS4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation Vita",
+      "iOS",
+      "Android",
+      "Nintendo Switch 2"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stardew_Valley",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1378845197"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  },
+  {
+    "id": 100,
+    "slug": "journey",
+    "title": "Journey",
+    "year": 2012,
+    "developers": [
+      "Thatgamecompany"
+    ],
+    "publishers": [
+      "Sony Computer Entertainment",
+      "Annapurna Interactive"
+    ],
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "iOS"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Journey_(2012_video_game)",
+        "label": "Wikipedia game infobox",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "title",
+          "year",
+          "developers",
+          "publishers",
+          "platforms"
+        ],
+        "revisionId": "1373261148"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "notes": "Factual fields cross-checked against the cited game infobox and any additional listed source. Year is the earliest listed release; platform lists include source-listed ports and may include remasters. Principal credits are used where a source separates port credits. Store availability is not verified."
+    }
+  }
+]

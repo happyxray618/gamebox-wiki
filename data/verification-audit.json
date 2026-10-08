@@ -1,0 +1,3279 @@
+[
+  {
+    "slug": "silent-hill-2",
+    "pageTitle": "Silent Hill 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379099632"
+    },
+    "extracted": {
+      "developer": "Team Silent",
+      "publisher": "Konami",
+      "release": "September 25, 2001; PlayStation 2; NA: September 25, 2001; JP: September 27, 2001; EU: November 23, 2001; Xbox; NA: December 18, 2001; JP: February 22, 2002; EU: October 4, 2002; Windows; NA: December 2, 2002; EU: February 28, 2003;",
+      "platform": "PlayStation 2; Xbox; Windows"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "PS2",
+        "Xbox",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "silent-hill-3",
+    "pageTitle": "Silent Hill 3",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_3",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378423058"
+    },
+    "extracted": {
+      "developer": "Team Silent",
+      "publisher": "Konami",
+      "release": "PlayStation 2; EU: May 23, 2003; JP: July 3, 2003; NA: August 5, 2003; Microsoft Windows; EU: October 31, 2003; NA: November 21, 2003",
+      "platform": "PlayStation 2; Microsoft Windows"
+    },
+    "normalized": {
+      "year": 2003,
+      "platforms": [
+        "PS2",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "resident-evil-2",
+    "pageTitle": "Resident Evil 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_2_(1998_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378723810"
+    },
+    "extracted": {
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release": "January 21, 1998; PlayStation; NA: January 21, 1998; JP: January 29, 1998; PAL: April 29, 1998; Dual Shock Ver.JP: August 6, 1998; NA: November 11, 1998; Windows; UK: February 18, 1999; JP: February 19, 1999; NA: March 4, 1999; Nintendo 64; NA: November 16, 1999; JP: January 28, 2000; PAL: February 9, 2000; Dreamcast; JP: December 22, 1999; PAL: April 28, 2000; NA: December 6, 2000; GameCube; NA: January 14, 2003; JP: January 23, 2003; PAL: May 30, 2003;",
+      "platform": "PlayStation; Windows; Nintendo 64; Dreamcast; GameCube; Game.com"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1",
+        "PC",
+        "N64",
+        "Dreamcast",
+        "GameCube",
+        "Game.com"
+      ]
+    }
+  },
+  {
+    "slug": "fatal-frame-2",
+    "pageTitle": "Fatal Frame II: Crimson Butterfly",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Fatal_Frame_II:_Crimson_Butterfly",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1355192452"
+    },
+    "extracted": {
+      "developer": "Tecmo",
+      "publisher": "Tecmo; Ubisoft (PS2); Microsoft Game Studios (Xbox)",
+      "release": "PlayStation 2; JP: November 27, 2003; NA: December 9, 2003; EU: April 30, 2004; Xbox; NA: November 1, 2004; JP: November 11, 2004; EU: February 4, 2005",
+      "platform": "PlayStation 2; Xbox"
+    },
+    "normalized": {
+      "year": 2003,
+      "platforms": [
+        "PS2",
+        "Xbox"
+      ]
+    }
+  },
+  {
+    "slug": "dark-souls",
+    "pageTitle": "Dark Souls (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378301405"
+    },
+    "extracted": {
+      "developer": "FromSoftware",
+      "publisher": "Namco Bandai Games; FromSoftware",
+      "release": "September 22, 2011; PlayStation 3; , Xbox 360; JP: September 22, 2011; NA: October 4, 2011; AU: October 6, 2011; EU: October 7, 2011; Windows; AU: August 23, 2012; NA/EU: August 24, 2012; JP: October 25, 2012; ; Remastered; PS4; , Windows; , Xbox One; JP: May 24, 2018; WW: May 25, 2018; Switch; WW: October 19, 2018;",
+      "platform": "PlayStation 3; Xbox 360; Windows; Remastered; Windows; PlayStation 4; Xbox One; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2011,
+      "platforms": [
+        "PS3",
+        "Xbox 360",
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "demons-souls",
+    "pageTitle": "Demon's Souls",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Demon%27s_Souls",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1371116771"
+    },
+    "extracted": {
+      "developer": "FromSoftware",
+      "publisher": "Sony Computer Entertainment; Atlus; Namco Bandai Partners",
+      "release": "JP: February 5, 2009; NA: October 6, 2009; PAL: June 25, 2010",
+      "platform": "PlayStation 3"
+    },
+    "normalized": {
+      "year": 2009,
+      "platforms": [
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "vagrant-story",
+    "pageTitle": "Vagrant Story",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Vagrant_Story",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1363580083"
+    },
+    "extracted": {
+      "developer": "Square Product Development Division 4",
+      "publisher": "Square; Square Electronic Arts",
+      "release": "JP: February 10, 2000; NA: May 16, 2000; EU: June 21, 2000",
+      "platform": "PlayStation"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "PS1"
+      ]
+    }
+  },
+  {
+    "slug": "shadow-tower",
+    "pageTitle": "Shadow Tower",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Shadow_Tower",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1347609619"
+    },
+    "extracted": {
+      "developer": "FromSoftware",
+      "publisher": "FromSoftware; Agetec",
+      "release": "JP: June 25, 1998; NA: November 23, 1999",
+      "platform": "PlayStation"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1"
+      ]
+    }
+  },
+  {
+    "slug": "deus-ex",
+    "pageTitle": "Deus Ex (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Deus_Ex_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377387680"
+    },
+    "extracted": {
+      "developer": "Ion Storm",
+      "publisher": "Eidos Interactive",
+      "release": "June 23, 2000; Microsoft Windows; NA: June 23, 2000; AU: July 27, 2000; UK: August 4, 2000; Mac OS; NA: July 13, 2000; PlayStation 2; NA: March 26, 2002; EU: June 7, 2002; AU: December 13, 2002; Remastered; Microsoft Windows; , Nintendo Switch; , PlayStation 5; & Xbox Series X/S; WW: TBA;",
+      "platform": "Windows; Mac OS; PlayStation 2; PlayStation 5"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "PC",
+        "Mac OS",
+        "PS2",
+        "PS5"
+      ]
+    }
+  },
+  {
+    "slug": "system-shock-2",
+    "pageTitle": "System Shock 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/System_Shock_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1367354179"
+    },
+    "extracted": {
+      "developer": "Irrational Games; Looking Glass Studios",
+      "publisher": "Electronic Arts",
+      "release": "August 11, 1999; Windows; NA: August 11, 1999; UK: September 18, 1999; OS X; WW: June 18, 2013; Linux; WW: April 1, 2014; ; 25th Anniversary Remaster; Windows; WW: June 26, 2025; NS; , PS4; , PS5; , XBO; , XSX/S; WW: July 10, 2025; Switch 2; WW: June 3, 2026;",
+      "platform": "Windows; OS X; Linux; Nintendo Switch; Nintendo Switch 2; PlayStation 4; PlayStation 5; Xbox One; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "PC",
+        "macOS",
+        "Linux",
+        "Nintendo Switch",
+        "Nintendo Switch 2",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "thief-2",
+    "pageTitle": "Thief II",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Thief_II",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1365314564"
+    },
+    "extracted": {
+      "developer": "Looking Glass Studios",
+      "publisher": "Eidos Interactive",
+      "release": "NA: March 23, 2000; EU: March 31, 2000",
+      "platform": "Windows"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "prey-2017",
+    "pageTitle": "Prey (2017 video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Prey_(2017_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1370743562"
+    },
+    "extracted": {
+      "developer": "Arkane Austin",
+      "publisher": "Bethesda Softworks",
+      "release": "May 5, 2017",
+      "platform": "PlayStation 4; Windows; Xbox One"
+    },
+    "normalized": {
+      "year": 2017,
+      "platforms": [
+        "PS4",
+        "PC",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "killer7",
+    "pageTitle": "Killer7",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Killer7",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1368420614"
+    },
+    "extracted": {
+      "developer": "Grasshopper Manufacture; Capcom Production Studio 4",
+      "publisher": "Capcom (GC, PS2); NIS America (PC)",
+      "release": "GameCube, PlayStation 2; JP: June 9, 2005; NA: July 5, 2005; PAL: July 15, 2005; Windows; WW: November 15, 2018",
+      "platform": "GameCube; PlayStation 2; Windows"
+    },
+    "normalized": {
+      "year": 2005,
+      "platforms": [
+        "GameCube",
+        "PS2",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "rule-of-rose",
+    "pageTitle": "Rule of Rose",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Rule_of_Rose",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373617032"
+    },
+    "extracted": {
+      "developer": "Punchline",
+      "publisher": "Sony Computer Entertainment; Atlus USA; 505 Games",
+      "release": "JP: January 19, 2006; NA: September 12, 2006; EU: November 3, 2006",
+      "platform": "PlayStation 2"
+    },
+    "normalized": {
+      "year": 2006,
+      "platforms": [
+        "PS2"
+      ]
+    }
+  },
+  {
+    "slug": "the-suffering",
+    "pageTitle": "The Suffering (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Suffering_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1371954289"
+    },
+    "extracted": {
+      "developer": "Surreal Software",
+      "publisher": "Midway Games",
+      "release": "PlayStation 2; , Xbox; NA: March 8, 2004; EU: May 14, 2004; Windows; NA: June 7, 2004; EU: July 30, 2004",
+      "platform": "PlayStation 2; Xbox; Windows"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "PS2",
+        "Xbox",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "enslaved-odyssey-to-the-west",
+    "pageTitle": "Enslaved: Odyssey to the West",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Enslaved:_Odyssey_to_the_West",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373909038"
+    },
+    "extracted": {
+      "developer": "Ninja Theory",
+      "publisher": "Namco Bandai Games",
+      "release": "PlayStation 3; & Xbox 360; NA: 5 October 2010; AU: 7 October 2010; EU: 8 October 2010; Windows; 25 October 2013",
+      "platform": "PlayStation 3; Xbox 360; Windows"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "PS3",
+        "Xbox 360",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "shadow-of-the-colossus",
+    "pageTitle": "Shadow of the Colossus",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373764341"
+    },
+    "extracted": {
+      "developer": "Sony Computer Entertainment Japan",
+      "publisher": "Sony Computer Entertainment",
+      "release": "NA: October 18, 2005; JP: October 27, 2005; AU: February 16, 2006; EU: February 17, 2006",
+      "platform": "PlayStation 2"
+    },
+    "normalized": {
+      "year": 2005,
+      "platforms": [
+        "PS2"
+      ]
+    }
+  },
+  {
+    "slug": "metal-gear-solid-2",
+    "pageTitle": "Metal Gear Solid 2: Sons of Liberty",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1375403665"
+    },
+    "extracted": {
+      "developer": "Konami Computer Entertainment Japan",
+      "publisher": "Konami",
+      "release": "November 13, 2001; PlayStation 2; NA: November 13, 2001; JP: November 29, 2001; EU: March 8, 2002; ; Substance; Xbox; NA: November 5, 2002; EU: March 7, 2003; ; PlayStation 2; JP: December 19, 2002; NA: March 4, 2003; EU: March 28, 2003; ; Windows; NA: March 27, 2003; EU: March 28, 2003;",
+      "platform": "PlayStation 2; Substance; Xbox ; Windows"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "PS2",
+        "Xbox",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "ico",
+    "pageTitle": "Ico",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Ico",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373047591"
+    },
+    "extracted": {
+      "developer": "Sony Computer Entertainment Japan",
+      "publisher": "Sony Computer Entertainment",
+      "release": "NA: September 25, 2001; JP: December 6, 2001; EU: March 22, 2002",
+      "platform": "PlayStation 2; PlayStation 3"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "PS2",
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "shenmue",
+    "pageTitle": "Shenmue (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Shenmue_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377047111"
+    },
+    "extracted": {
+      "developer": "AM2 of CRI",
+      "publisher": "Sega",
+      "release": "December 29, 1999; Dreamcast; JP: December 29, 1999; NA: November 7, 2000; EU: December 1, 2000; Windows; , Xbox One; WW: August 21, 2018; PlayStation 4; WW: August 21, 2018; JP: November 22, 2018;",
+      "platform": "Dreamcast; PlayStation 4; Windows; Xbox One"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "Dreamcast",
+        "PS4",
+        "PC",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "portal",
+    "pageTitle": "Portal (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Portal_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377863814"
+    },
+    "extracted": {
+      "developer": "Valve",
+      "publisher": "Valve",
+      "release": "October 10, 2007; Windows; , Xbox 360; NA: October 10, 2007; EU: October 18, 2007; AU: October 25, 2007; ; PlayStation 3; AU: November 22, 2007; EU: November 23, 2007; NA: December 11, 2007; ; Mac OS X; WW: May 12, 2010; ; Linux; WW: May 2, 2013; ; Android; WW: May 12, 2014; ; Nintendo Switch; WW: June 28, 2022;",
+      "platform": "Windows; Xbox 360; PlayStation 3; Mac OS X; Linux; Android; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2007,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS3",
+        "macOS",
+        "Linux",
+        "Android",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "portal-2",
+    "pageTitle": "Portal 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Portal_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377591133"
+    },
+    "extracted": {
+      "developer": "Valve",
+      "publisher": "Valve; Electronic Arts (PlayStation 3, Xbox 360)",
+      "release": "April 18, 2011; Windows, Mac OS X (digital); WW: April 18, 2011; ; Windows, Mac OS X, PlayStation 3, Xbox 360 (retail); NA: April 20, 2011; PAL: April 22, 2011; ; Linux (beta); WW: February 26, 2014; ; Nintendo Switch; WW: June 28, 2022;",
+      "platform": "Windows; macOS; Linux; PlayStation 3; Xbox 360; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2011,
+      "platforms": [
+        "PC",
+        "macOS",
+        "Linux",
+        "PS3",
+        "Xbox 360",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "half-life",
+    "pageTitle": "Half-Life (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Half-Life_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378954699"
+    },
+    "extracted": {
+      "developer": "Valve",
+      "publisher": "Sierra Studios",
+      "release": "November 19, 1998; Windows; NA: November 19, 1998; EU: November 27, 1998; ; PlayStation 2; NA: November 14, 2001; EU: November 30, 2001; ; macOS, Linux; WW: February 14, 2013;",
+      "platform": "Windows; PlayStation 2; macOS; Linux"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PC",
+        "PS2",
+        "macOS",
+        "Linux"
+      ]
+    }
+  },
+  {
+    "slug": "half-life-2",
+    "pageTitle": "Half-Life 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Half-Life_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379050639"
+    },
+    "extracted": {
+      "developer": "Valve",
+      "publisher": "Valve; Electronic Arts (Xbox)",
+      "release": "November 16, 2004; Windows; WW: November 16, 2004; Xbox; NA: November 15, 2005; EU: November 18, 2005; Xbox 360; NA: October 10, 2007; EU: October 19, 2007; AU: October 25, 2007; PlayStation 3; NA: December 11, 2007; EU: December 14, 2007; AU: December 20, 2007; Mac OS X; WW: May 26, 2010; Linux; WW: May 9, 2013; Nvidia Shield; WW: May 12, 2014;",
+      "platform": "Windows; Xbox; Xbox 360; PlayStation 3; Mac OS X; Linux; Nvidia Shield"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "PC",
+        "Xbox",
+        "Xbox 360",
+        "PS3",
+        "macOS",
+        "Linux",
+        "Nvidia Shield"
+      ]
+    }
+  },
+  {
+    "slug": "bioshock",
+    "pageTitle": "BioShock",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/BioShock",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378603626"
+    },
+    "extracted": {
+      "developer": "2K Boston; 2K Australia",
+      "publisher": "2K",
+      "release": "August 21, 2007; Windows; , Xbox 360; NA: August 21, 2007; PAL: August 24, 2007; PlayStation 3; WW: October 17, 2008; NA: October 21, 2008; Mac OS X; WW: October 7, 2009; iOS; WW: August 27, 2014;",
+      "platform": "Windows; Xbox 360; PlayStation 3; Mac OS X; iOS"
+    },
+    "normalized": {
+      "year": 2007,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS3",
+        "macOS",
+        "iOS"
+      ]
+    }
+  },
+  {
+    "slug": "bioshock-2",
+    "pageTitle": "BioShock 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/BioShock_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1374947114"
+    },
+    "extracted": {
+      "developer": "2K Marin",
+      "publisher": "2K",
+      "release": "PS3; , Windows; , Xbox 360; February 9, 2010; Mac OS X; March 29, 2012",
+      "platform": "PlayStation 3; Windows; Xbox 360; Mac OS X"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "PS3",
+        "PC",
+        "Xbox 360",
+        "macOS"
+      ]
+    }
+  },
+  {
+    "slug": "bioshock-infinite",
+    "pageTitle": "BioShock Infinite",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/BioShock_Infinite",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1374947524"
+    },
+    "extracted": {
+      "developer": "Irrational Games",
+      "publisher": "2K",
+      "release": "PS3; , Windows; , Xbox 360; March 26, 2013; OS X; August 29, 2013; Linux; March 17, 2015",
+      "platform": "PlayStation 3; Windows; Xbox 360; OS X; Linux"
+    },
+    "normalized": {
+      "year": 2013,
+      "platforms": [
+        "PS3",
+        "PC",
+        "Xbox 360",
+        "macOS",
+        "Linux"
+      ]
+    }
+  },
+  {
+    "slug": "dishonored",
+    "pageTitle": "Dishonored",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dishonored",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373354006"
+    },
+    "extracted": {
+      "developer": "Arkane Studios",
+      "publisher": "Bethesda Softworks",
+      "release": "9 October 2012; PS3; , Windows; , Xbox 360; FRA: 9 October 2012; NA: 9 October 2012; AU: 11 October 2012; EU: 12 October 2012; PlayStation 4; , Xbox One; NA: 25 August 2015; AU: 27 August 2015; EU: 28 August 2015;",
+      "platform": "PlayStation 3; Windows; Xbox 360; PlayStation 4; Xbox One"
+    },
+    "normalized": {
+      "year": 2012,
+      "platforms": [
+        "PS3",
+        "PC",
+        "Xbox 360",
+        "PS4",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "dishonored-2",
+    "pageTitle": "Dishonored 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dishonored_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1367901458"
+    },
+    "extracted": {
+      "developer": "Arkane Lyon",
+      "publisher": "Bethesda Softworks",
+      "release": "11 November 2016",
+      "platform": "PlayStation 4; Windows; Xbox One"
+    },
+    "normalized": {
+      "year": 2016,
+      "platforms": [
+        "PS4",
+        "PC",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "fallout",
+    "pageTitle": "Fallout (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Fallout_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376980689"
+    },
+    "extracted": {
+      "developer": "Interplay Productions",
+      "publisher": "Interplay Productions",
+      "release": "October 10, 1997; MS-DOS; , Windows; NA: October 10, 1997; EU: 1997; Mac OS; NA: 1997; Mac OS X; WW: 2002;",
+      "platform": "MS-DOS; Windows; Mac OS; Mac OS X"
+    },
+    "normalized": {
+      "year": 1997,
+      "platforms": [
+        "MS-DOS",
+        "PC",
+        "Mac OS",
+        "macOS"
+      ]
+    }
+  },
+  {
+    "slug": "fallout-2",
+    "pageTitle": "Fallout 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Fallout_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1375221663"
+    },
+    "extracted": {
+      "developer": "Black Isle Studios",
+      "publisher": "Interplay Productions",
+      "release": "Windows; October 29, 1998; Mac OS X; August 23, 2002",
+      "platform": "Windows; Mac OS X"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PC",
+        "macOS"
+      ]
+    }
+  },
+  {
+    "slug": "fallout-new-vegas",
+    "pageTitle": "Fallout: New Vegas",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Fallout:_New_Vegas",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1375222392"
+    },
+    "extracted": {
+      "developer": "Obsidian Entertainment",
+      "publisher": "Bethesda Softworks",
+      "release": "NA: October 19, 2010; AU: October 21, 2010; EU: October 22, 2010",
+      "platform": "Windows; PlayStation 3; Xbox 360"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "PC",
+        "PS3",
+        "Xbox 360"
+      ]
+    }
+  },
+  {
+    "slug": "baldur-s-gate",
+    "pageTitle": "Baldur's Gate (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377020083"
+    },
+    "extracted": {
+      "developer": "BioWare",
+      "publisher": "Black Isle Studios; Interplay Entertainment; Sega",
+      "release": "Microsoft Windows; NA: December 21, 1998; JP: January 30, 1999; EU: January 1999; Mac OS; NA: July 17, 2000",
+      "platform": "Microsoft Windows; Mac OS"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PC",
+        "Mac OS"
+      ]
+    }
+  },
+  {
+    "slug": "baldur-s-gate-ii-shadows-of-amn",
+    "pageTitle": "Baldur's Gate II: Shadows of Amn",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377020210"
+    },
+    "extracted": {
+      "developer": "BioWare",
+      "publisher": "Black Isle Studios; Interplay Entertainment",
+      "release": "Windows; NA: September 21, 2000; PAL: September 29, 2000; Mac OS; NA: October 15, 2001",
+      "platform": "Windows; Mac OS"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "PC",
+        "Mac OS"
+      ]
+    }
+  },
+  {
+    "slug": "planescape-torment",
+    "pageTitle": "Planescape: Torment",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Planescape:_Torment",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376446274"
+    },
+    "extracted": {
+      "developer": "Black Isle Studios",
+      "publisher": "Interplay Entertainment",
+      "release": "December 10, 1999; Windows; NA: December 10, 1999; UK: January 7, 2000; ; Enhanced Edition; Android; , iOS; , Linux; , macOS; , Windows; April 11, 2017; Switch; , PS4; , Xbox One; October 15, 2019",
+      "platform": "Windows; Android; iOS; Linux; macOS; Nintendo Switch; PlayStation 4; Xbox One"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "PC",
+        "Android",
+        "iOS",
+        "Linux",
+        "macOS",
+        "Nintendo Switch",
+        "PS4",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "disco-elysium",
+    "pageTitle": "Disco Elysium",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Disco_Elysium",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378431075"
+    },
+    "extracted": {
+      "developer": "ZA/UM",
+      "publisher": "ZA/UM",
+      "release": "15 October 2019; Windows; 15 October 2019; macOS; 27 April 2020; Android; 5 August 2025; The Final Cut; macOS; , PS4; , PS5; , Stadia; , Win; 30 March 2021; Switch; , XBO; , XSX/S; 12 October 2021",
+      "platform": "Windows; macOS; PlayStation 4; PlayStation 5; Stadia; Nintendo Switch; Xbox One; Xbox Series X/S; Android"
+    },
+    "normalized": {
+      "year": 2019,
+      "platforms": [
+        "PC",
+        "macOS",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Android"
+      ]
+    }
+  },
+  {
+    "slug": "the-elder-scrolls-iii-morrowind",
+    "pageTitle": "The Elder Scrolls III: Morrowind",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377842792"
+    },
+    "extracted": {
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "release": "Microsoft Windows; NA: May 1, 2002; EU: May 2, 2002; Xbox; NA: June 7, 2002; EU: November 22, 2002",
+      "platform": "Windows; Xbox"
+    },
+    "normalized": {
+      "year": 2002,
+      "platforms": [
+        "PC",
+        "Xbox"
+      ]
+    }
+  },
+  {
+    "slug": "the-elder-scrolls-iv-oblivion",
+    "pageTitle": "The Elder Scrolls IV: Oblivion",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378879805"
+    },
+    "extracted": {
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks; 2K (Xbox 360, Windows); Ubisoft (PS3, Europe)",
+      "release": "March 20, 2006; Windows; , Xbox 360; NA: March 20, 2006; AU: March 23, 2006; EU: March 24, 2006; Game of the Year Edition; NA: September 10, 2007; EU: September 21, 2007; AU: September 28, 2007; PlayStation 3; NA: March 20, 2007; AU: April 26, 2007; EU: April 27, 2007; Game of the Year Edition; NA: October 16, 2007; AU: December 13, 2007; EU: December 14, 2007;",
+      "platform": "Windows; Xbox 360; PlayStation 3"
+    },
+    "normalized": {
+      "year": 2006,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "the-elder-scrolls-v-skyrim",
+    "pageTitle": "The Elder Scrolls V: Skyrim",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378053198"
+    },
+    "extracted": {
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "release": "November 11, 2011; PS3; , Windows; , Xbox 360; November 11, 2011; PlayStation 4; , Xbox One; October 28, 2016; Nintendo Switch; November 17, 2017; PS5; , Xbox Series X/S; November 11, 2021; Nintendo Switch 2; December 9, 2025",
+      "platform": "Windows; PlayStation 3; Xbox 360; PlayStation 4; Xbox One; Nintendo Switch; PlayStation 5; Xbox Series X/S; Nintendo Switch 2"
+    },
+    "normalized": {
+      "year": 2011,
+      "platforms": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch",
+        "PS5",
+        "Xbox Series X/S",
+        "Nintendo Switch 2"
+      ]
+    }
+  },
+  {
+    "slug": "the-witcher-3-wild-hunt",
+    "pageTitle": "The Witcher 3: Wild Hunt",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378538941"
+    },
+    "extracted": {
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release": "PS4; , Windows; , Xbox One; 19 May 2015; Nintendo Switch; 15 October 2019; PS5; , Series X/S; 14 December 2022; Remastered; Windows, PS5, Xbox Series X/S, Nintendo Switch 2; 29 September 2026",
+      "platform": "PlayStation 4; Windows; Xbox One; Nintendo Switch; PlayStation 5; Xbox Series X/S; Nintendo Switch 2"
+    },
+    "normalized": {
+      "year": 2015,
+      "platforms": [
+        "PS4",
+        "PC",
+        "Xbox One",
+        "Nintendo Switch",
+        "PS5",
+        "Xbox Series X/S",
+        "Nintendo Switch 2"
+      ]
+    }
+  },
+  {
+    "slug": "mass-effect",
+    "pageTitle": "Mass Effect (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1361928201"
+    },
+    "extracted": {
+      "developer": "BioWare",
+      "publisher": "Microsoft Game Studios",
+      "release": "November 20, 2007; Xbox 360; NA: November 20, 2007; AU: November 22, 2007; EU: November 23, 2007; Windows; NA: May 28, 2008; AU: June 5, 2008; EU: June 6, 2008; PlayStation 3; NA: December 4, 2012; EU: December 7, 2012;",
+      "platform": "Xbox 360; ; Windows; PlayStation 3"
+    },
+    "normalized": {
+      "year": 2007,
+      "platforms": [
+        "Xbox 360",
+        "PC",
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "mass-effect-2",
+    "pageTitle": "Mass Effect 2",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Mass_Effect_2",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376153839"
+    },
+    "extracted": {
+      "developer": "BioWare",
+      "publisher": "Electronic Arts; Microsoft Game Studios",
+      "release": "January 26, 2010; Windows; , Xbox 360; NA: January 26, 2010; AU: January 28, 2010; EU: January 29, 2010; PlayStation 3; NA: January 18, 2011; EU: January 21, 2011; AU: January 27, 2011;",
+      "platform": "Windows; Xbox 360; PlayStation 3"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "dragon-age-origins",
+    "pageTitle": "Dragon Age: Origins",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dragon_Age:_Origins",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376389501"
+    },
+    "extracted": {
+      "developer": "BioWare",
+      "publisher": "Electronic Arts",
+      "release": "November 3, 2009; Windows; , Xbox 360; NA: November 3, 2009; AU: November 5, 2009; EU: November 6, 2009; PlayStation 3; NA: November 3, 2009; EU: November 6, 2009; AU: November 19, 2009; Mac OS X; NA: December 21, 2009;",
+      "platform": "Windows; Xbox 360; PlayStation 3; Mac OS X"
+    },
+    "normalized": {
+      "year": 2009,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS3",
+        "macOS"
+      ]
+    }
+  },
+  {
+    "slug": "vampire-the-masquerade-bloodlines",
+    "pageTitle": "Vampire: The Masquerade – Bloodlines",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Bloodlines",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377680975"
+    },
+    "extracted": {
+      "developer": "Troika Games",
+      "publisher": "Activision",
+      "release": "NA: November 16, 2004; EU: November 19, 2004",
+      "platform": "Microsoft Windows"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "arx-fatalis",
+    "pageTitle": "Arx Fatalis",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Arx_Fatalis",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1365952273"
+    },
+    "extracted": {
+      "developer": "Arkane Studios",
+      "publisher": "JoWooD Productions; Arkane Studios; DreamCatcher Interactive; Mindscape",
+      "release": "Windows; GER: 28 June 2002; UK: 8 November 2002; NA: 12 November 2002; AU: 2002; Xbox; GER: 12 December 2003; NA: 22 December 2003; UK: 13 February 2004",
+      "platform": "Windows, Xbox"
+    },
+    "normalized": {
+      "year": 2002,
+      "platforms": [
+        "PC",
+        "Xbox"
+      ]
+    },
+    "additionalEvidence": {
+      "publishers": [
+        "JoWooD Productions",
+        "Arkane Studios",
+        "DreamCatcher Interactive",
+        "Mindscape"
+      ],
+      "evidence": "Publisher infobox groups credits by Windows and Xbox; platform headings are not company names."
+    }
+  },
+  {
+    "slug": "gothic",
+    "pageTitle": "Gothic (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Gothic_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373705269"
+    },
+    "extracted": {
+      "developer": "Piranha Bytes",
+      "publisher": "Egmont Interactive; Xicat Interactive; THQ Nordic",
+      "release": "Windows; DE: 15 March 2001; EU: 30 October 2001; NA: 23 November 2001; PL: 28 March 2002; Nintendo Switch; WW: September 28, 2023; PlayStation 4 & 5,; Xbox One & Xbox Series; WW: July 28, 2026",
+      "platform": "Windows; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "PC",
+        "Nintendo Switch"
+      ]
+    },
+    "additionalEvidence": {
+      "publishers": [
+        "Egmont Interactive",
+        "Xicat Interactive",
+        "THQ Nordic"
+      ],
+      "evidence": "Publisher infobox includes platform headings and regional labels, removed during normalization."
+    }
+  },
+  {
+    "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+    "pageTitle": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1374393932"
+    },
+    "extracted": {
+      "developer": "GSC Game World",
+      "publisher": "THQ; GSC World Publishing",
+      "release": "Microsoft Windows; NA: 20 March 2007; AU: 22 March 2007; EU: 23 March 2007; PS4, Xbox One; WW: 6 March 2024; Nintendo Switch; WW: 31 October 2024; PS5, Xbox Series X/S; WW: 20 May 2025",
+      "platform": "Microsoft Windows; PlayStation 4; Xbox One; Nintendo Switch; PlayStation 5; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 2007,
+      "platforms": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "metro-2033",
+    "pageTitle": "Metro 2033 (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Metro_2033_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377991081"
+    },
+    "extracted": {
+      "developer": "4A Games",
+      "publisher": "THQ; Deep Silver (Redux)",
+      "release": "16 March 2010; Windows; , Xbox 360; NA: 16 March 2010; AU: 18 March 2010; EU: 19 March 2010; PlayStation 4; , Xbox One; NA: 26 August 2014; EU: 29 August 2014; AU: 4 September 2014; Linux; WW: 11 December 2014; OS X; WW: 14 April 2015; Nintendo Switch; WW: 28 February 2020; Stadia; WW: 23 June 2020; PlayStation 5; , Xbox Series X/S; WW: 29 October 2026;",
+      "platform": "Microsoft Windows; Xbox 360; PlayStation 4; Xbox One; Nintendo Switch; Linux; macOS; Stadia; PlayStation 5; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "PC",
+        "Xbox 360",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch",
+        "Linux",
+        "macOS",
+        "Stadia",
+        "PS5",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "dead-space",
+    "pageTitle": "Dead Space (2008 video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dead_Space_(2008_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376372151"
+    },
+    "extracted": {
+      "developer": "EA Redwood Shores",
+      "publisher": "Electronic Arts",
+      "release": "NA: October 13, 2008; NA: October 20, 2008 (Windows); AU: October 23, 2008; EU: October 24, 2008",
+      "platform": "PlayStation 3; Xbox 360; Windows"
+    },
+    "normalized": {
+      "year": 2008,
+      "platforms": [
+        "PS3",
+        "Xbox 360",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "alien-isolation",
+    "pageTitle": "Alien: Isolation",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Alien:_Isolation",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378009279"
+    },
+    "extracted": {
+      "developer": "Creative Assembly",
+      "publisher": "Sega",
+      "release": "7 October 2014; PS3; , PS4; , Win; , X360; , XOne; 7 October 2014; Linux; 29 September 2015; OS X; 28 October 2015; Nintendo Switch; 5 December 2019; Android; , iOS; 16 December 2021",
+      "platform": "PlayStation 3; PlayStation 4; Windows; Xbox 360; Xbox One; Linux; OS X; Nintendo Switch; Android; iOS"
+    },
+    "normalized": {
+      "year": 2014,
+      "platforms": [
+        "PS3",
+        "PS4",
+        "PC",
+        "Xbox 360",
+        "Xbox One",
+        "Linux",
+        "macOS",
+        "Nintendo Switch",
+        "Android",
+        "iOS"
+      ]
+    }
+  },
+  {
+    "slug": "amnesia-the-dark-descent",
+    "pageTitle": "Amnesia: The Dark Descent",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377204873"
+    },
+    "extracted": {
+      "developer": "Frictional Games",
+      "publisher": "Frictional Games",
+      "release": "8 September 2010; Linux; , OS X; , Windows; 8 September 2010; PlayStation 4; 22 November 2016; Xbox One; 28 September 2018; Switch; 12 September 2019;",
+      "platform": "Linux; Mac OS X; Windows; PlayStation 4; Xbox One; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2010,
+      "platforms": [
+        "Linux",
+        "macOS",
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "soma",
+    "pageTitle": "Soma (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/SOMA_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1363364571"
+    },
+    "extracted": {
+      "developer": "Frictional Games; Abylight Studios (Switch)",
+      "publisher": "Frictional Games; Abylight Studios (Switch)",
+      "release": "Linux; , macOS; , PS4; , Windows; 22 September 2015; Xbox One; 1 December 2017; Nintendo Switch; 24 July 2025",
+      "platform": "Linux; macOS; PlayStation 4; Windows; Xbox One; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2015,
+      "platforms": [
+        "Linux",
+        "macOS",
+        "PS4",
+        "PC",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "signalis",
+    "pageTitle": "Signalis",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Signalis",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377182513"
+    },
+    "extracted": {
+      "developer": "rose-engine",
+      "publisher": "Humble Games; Playism",
+      "release": "October 27, 2022",
+      "platform": "Windows; Nintendo Switch; PlayStation 4; Xbox One"
+    },
+    "normalized": {
+      "year": 2022,
+      "platforms": [
+        "PC",
+        "Nintendo Switch",
+        "PS4",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "resident-evil",
+    "pageTitle": "Resident Evil (1996 video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378723886"
+    },
+    "extracted": {
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "release": "March 22, 1996; PlayStation; JP: March 22, 1996; NA: April 1, 1996; PAL: August 16, 1996; Director's CutJP: September 25, 1997; NA: September 30, 1997; PAL: December 10, 1997; Director's Cut Dual Shock Ver.JP: August 6, 1998; NA: September 14, 1998; Windows; JP: December 6, 1996; NA/PAL: September 17, 1997; Sega Saturn; JP: July 25, 1997; EU: September 11, 1997; NA: October 1, 1997; Nintendo DS; JP: January 19, 2006; NA: February 7, 2006; AU: March 30, 2006; EU: March 31, 2006;",
+      "platform": "PlayStation; Windows; Sega Saturn; Nintendo DS"
+    },
+    "normalized": {
+      "year": 1996,
+      "platforms": [
+        "PS1",
+        "PC",
+        "Saturn",
+        "DS"
+      ]
+    }
+  },
+  {
+    "slug": "resident-evil-4",
+    "pageTitle": "Resident Evil 4",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_4_(2005_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379050642"
+    },
+    "extracted": {
+      "developer": "Capcom Production Studio 4",
+      "publisher": "Capcom",
+      "release": "January 11, 2005; GameCube; NA: January 11, 2005; JP: January 27, 2005; PAL: March 18, 2005; ; PlayStation 2; NA: October 25, 2005; EU: November 4, 2005; AU: November 9, 2005; JP: December 1, 2005; ; Windows; AU: March 1, 2007; EU: March 2, 2007; NA: May 15, 2007; JP: June 7, 2007; WW: February 27, 2014 (HD); ; Wii; JP: May 31, 2007; NA: June 19, 2007; EU: June 29, 2007; AU: July 5, 2007; ; iOS; NA: July 27, 2009; JP: July 28, 2009; NA: April 3, 2010 (iPad); JP: May 21, 2010 (iPad); ; Zeebo; BR: August 11, 2009; ; PlayStation 3; , Xbox 360; JP: September 8, 2011; NA: September 20, 2011; EU: September 21, 2011; ; Android; JP: January 23, 2013; WW: April 23, 2013 (Samsung); ; PlayStation 4; , Xbox One; WW: August 30, 2016; ; Nintendo Switch; WW: May 21, 2019; JP: May 23, 2019; ; Oculus Quest 2; WW: October 21, 2021;",
+      "platform": "GameCube; PlayStation 2; Windows; Wii; iOS; Zeebo; PlayStation 3; Xbox 360; Android; PlayStation 4; Xbox One; Nintendo Switch; Oculus Quest 2"
+    },
+    "normalized": {
+      "year": 2005,
+      "platforms": [
+        "GameCube",
+        "PS2",
+        "PC",
+        "Wii",
+        "iOS",
+        "Zeebo",
+        "PS3",
+        "Xbox 360",
+        "Android",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch",
+        "Oculus Quest 2"
+      ]
+    }
+  },
+  {
+    "slug": "silent-hill",
+    "pageTitle": "Silent Hill (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379044903"
+    },
+    "extracted": {
+      "developer": "Team Silent",
+      "publisher": "Konami",
+      "release": "NA: February 23, 1999; JP: March 4, 1999; EU: July 16, 1999",
+      "platform": "PlayStation"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "PS1"
+      ]
+    }
+  },
+  {
+    "slug": "silent-hill-4-the-room",
+    "pageTitle": "Silent Hill 4: The Room",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379029730"
+    },
+    "extracted": {
+      "developer": "Team Silent",
+      "publisher": "Konami",
+      "release": "PlayStation 2; , Xbox; JP: June 17, 2004 (PS2); NA: September 7, 2004; EU: September 17, 2004; Windows; NA: September 7, 2004; EU: September 24, 2004",
+      "platform": "PlayStation 2; Xbox; Windows"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "PS2",
+        "Xbox",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "eternal-darkness-sanity-s-requiem",
+    "pageTitle": "Eternal Darkness",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Eternal_Darkness",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1371852555"
+    },
+    "extracted": {
+      "developer": "Silicon Knights",
+      "publisher": "Nintendo",
+      "release": "NA: June 24, 2002; JP: October 25, 2002; EU: November 1, 2002; AU: November 7, 2002",
+      "platform": "GameCube"
+    },
+    "normalized": {
+      "year": 2002,
+      "platforms": [
+        "GameCube"
+      ]
+    }
+  },
+  {
+    "slug": "parasite-eve",
+    "pageTitle": "Parasite Eve (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376453315"
+    },
+    "extracted": {
+      "developer": "Square",
+      "publisher": "Square; Square Electronic Arts",
+      "release": "JP: March 29, 1998; NA: September 10, 1998",
+      "platform": "PlayStation"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1"
+      ]
+    }
+  },
+  {
+    "slug": "dino-crisis",
+    "pageTitle": "Dino Crisis (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Dino_Crisis_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373057995"
+    },
+    "extracted": {
+      "developer": "Capcom Production Studio 4",
+      "publisher": "Capcom; Virgin Interactive",
+      "release": "July 1, 1999; PlayStation; JP: July 1, 1999; NA: September 23, 1999; EU: October 29, 1999; Dreamcast; JP: September 6, 2000; NA: November 15, 2000; EU: December 22, 2000; Windows; EU: September 15, 2000; NA: December 4, 2000; JP: 2000;",
+      "platform": "PlayStation, Dreamcast, Windows"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "PS1",
+        "Dreamcast",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "chrono-trigger",
+    "pageTitle": "Chrono Trigger",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Chrono_Trigger",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376216677"
+    },
+    "extracted": {
+      "developer": "Square",
+      "publisher": "Square",
+      "release": "March 11, 1995; Super NES; JP: March 11, 1995; NA: August 22, 1995; ; PlayStation; JP: November 2, 1999; NA: June 29, 2001; ; Nintendo DS; JP: November 20, 2008; NA: November 25, 2008; AU: February 3, 2009; EU: February 6, 2009; ; i-mode; JP: April 25, 2011; ; iOS; WW: December 8, 2011; ; Android; JP: December 22, 2011; WW: October 29, 2012; ; Windows; WW: February 27, 2018;",
+      "platform": "SNES; PlayStation; Nintendo DS; i-mode; iOS; Android; Windows; Apple TV"
+    },
+    "normalized": {
+      "year": 1995,
+      "platforms": [
+        "SNES",
+        "PS1",
+        "DS",
+        "i-mode",
+        "iOS",
+        "Android",
+        "PC",
+        "Apple TV"
+      ]
+    }
+  },
+  {
+    "slug": "final-fantasy-vi",
+    "pageTitle": "Final Fantasy VI",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379073476"
+    },
+    "extracted": {
+      "developer": "Square",
+      "publisher": "Square",
+      "release": "April 2, 1994; Super NES; JP: April 2, 1994; NA: October 11, 1994; ; PlayStation; JP: March 11, 1999; NA: October 5, 1999; PAL: March 1, 2002; ; Game Boy Advance; JP: November 30, 2006; NA: February 5, 2007; EU: July 6, 2007; ; Android; WW: January 15, 2014; ; iOS; WW: February 6, 2014; ; Windows; NA/EU: December 16, 2015; ; Pixel Remaster; Android, iOS, Windows; WW: February 23, 2022; ; Nintendo Switch, PlayStation 4; WW: April 19, 2023; Xbox Series X/S; WW: September 26, 2024; ;",
+      "platform": "Super Nintendo Entertainment System; PlayStation; Game Boy Advance; Android; iOS; Windows; Nintendo Switch; PlayStation 4; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 1994,
+      "platforms": [
+        "SNES",
+        "PS1",
+        "GBA",
+        "Android",
+        "iOS",
+        "PC",
+        "Nintendo Switch",
+        "PS4",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "final-fantasy-vii",
+    "pageTitle": "Final Fantasy VII",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_VII",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378270668"
+    },
+    "extracted": {
+      "developer": "Square",
+      "publisher": "Square; Sony Computer Entertainment; Eidos Interactive; Square Enix",
+      "release": "January 31, 1997; PlayStation; JP: January 31, 1997; NA: September 7, 1997; PAL: November 17, 1997; InternationalJP: October 2, 1997; Windows; NA/PAL: June 25, 1998; Re-releaseNA/PAL: August 14, 2012; JP: May 16, 2013; iOS; WW: August 19, 2015; PlayStation 4; WW: December 5, 2015; Android; WW: July 7, 2016; Switch; , Xbox One; WW: March 26, 2019;",
+      "platform": "PlayStation; Windows; iOS; PlayStation 4; Android; Nintendo Switch; Xbox One"
+    },
+    "normalized": {
+      "year": 1997,
+      "platforms": [
+        "PS1",
+        "PC",
+        "iOS",
+        "PS4",
+        "Android",
+        "Nintendo Switch",
+        "Xbox One"
+      ]
+    },
+    "additionalEvidence": {
+      "publishers": [
+        "Square",
+        "Sony Computer Entertainment",
+        "Eidos Interactive",
+        "Square Enix"
+      ],
+      "evidence": "Publisher infobox separates PlayStation, Windows and later releases; those headings are not publishers."
+    }
+  },
+  {
+    "slug": "final-fantasy-ix",
+    "pageTitle": "Final Fantasy IX",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373390234"
+    },
+    "extracted": {
+      "developer": "Square",
+      "publisher": "Square; Square Electronic Arts; Square Europe; Square Enix",
+      "release": "July 7, 2000; PlayStation; JP: July 7, 2000; NA: November 14, 2000; EU: February 16, 2001; ; Android; , iOS; WW: February 10, 2016; ; Windows; WW: April 14, 2016; ; PlayStation 4; WW: September 19, 2017; ; Switch; , Xbox One; WW: February 13, 2019; ;",
+      "platform": "PlayStation; Android; iOS; Windows; PlayStation 4; Nintendo Switch; Xbox One"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "PS1",
+        "Android",
+        "iOS",
+        "PC",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "final-fantasy-x",
+    "pageTitle": "Final Fantasy X",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378168420"
+    },
+    "extracted": {
+      "developer": "Square Product Development Division 1",
+      "publisher": "Square; Square Electronic Arts; Sony Computer Entertainment",
+      "release": "JP: July 19, 2001; NA: December 18, 2001; AU: May 17, 2002; EU: May 24, 2002; International; JP: January 31, 2002",
+      "platform": "PlayStation 2"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "PS2"
+      ]
+    }
+  },
+  {
+    "slug": "suikoden-ii",
+    "pageTitle": "Suikoden II",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Suikoden_II",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379071198"
+    },
+    "extracted": {
+      "developer": "Konami Computer Entertainment Tokyo",
+      "publisher": "Konami",
+      "release": "PlayStation; JP: December 17, 1998; NA: September 29, 1999; EU: July 28, 2000; Windows; CHN: 2003",
+      "platform": "PlayStation; Windows"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "xenogears",
+    "pageTitle": "Xenogears",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Xenogears",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1374192371"
+    },
+    "extracted": {
+      "developer": "Square Product Development Division 3",
+      "publisher": "Square; Square Electronic Arts",
+      "release": "JP: February 11, 1998; NA: October 20, 1998",
+      "platform": "PlayStation"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1"
+      ]
+    }
+  },
+  {
+    "slug": "earthbound",
+    "pageTitle": "EarthBound",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/EarthBound",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376471634"
+    },
+    "extracted": {
+      "developer": "Ape Inc.; HAL Laboratory",
+      "publisher": "Nintendo",
+      "release": "JP: August 27, 1994; NA: June 5, 1995; Mother 1+2; JP: June 20, 2003",
+      "platform": "Super Nintendo Entertainment System ; Game Boy Advance"
+    },
+    "normalized": {
+      "year": 1994,
+      "platforms": [
+        "SNES",
+        "GBA"
+      ]
+    }
+  },
+  {
+    "slug": "paper-mario-the-thousand-year-door",
+    "pageTitle": "Paper Mario: The Thousand-Year Door",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Paper_Mario:_The_Thousand-Year_Door",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1359664762"
+    },
+    "extracted": {
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "release": "JP: July 22, 2004; NA: October 11, 2004; EU: November 12, 2004; AU: November 18, 2004",
+      "platform": "GameCube"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "GameCube"
+      ]
+    }
+  },
+  {
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "pageTitle": "The Legend of Zelda: Ocarina of Time",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377579443"
+    },
+    "extracted": {
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release": "November 21, 1998; Nintendo 64; JP: November 21, 1998; NA: November 23, 1998; EU: December 11, 1998; AU: December 18, 1998; ; GameCube; JP: November 28, 2002; NA: February 18, 2003; PAL: May 3, 2003; ; iQue Player; CHN: November 18, 2003;",
+      "platform": "Nintendo 64; GameCube; iQue Player"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "N64",
+        "GameCube",
+        "iQue Player"
+      ]
+    }
+  },
+  {
+    "slug": "the-legend-of-zelda-majora-s-mask",
+    "pageTitle": "The Legend of Zelda: Majora's Mask",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378448008"
+    },
+    "extracted": {
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release": "Nintendo 64; JP: April 27, 2000; NA: October 26, 2000; PAL: November 17, 2000; ; GameCube; JP: November 7, 2003; NA: November 17, 2003; PAL: March 19, 2004;",
+      "platform": "Nintendo 64; GameCube"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "N64",
+        "GameCube"
+      ]
+    }
+  },
+  {
+    "slug": "the-legend-of-zelda-the-wind-waker",
+    "pageTitle": "The Legend of Zelda: The Wind Waker",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_The_Wind_Waker",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378885004"
+    },
+    "extracted": {
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release": "December 13, 2002; GameCube; JP: December 13, 2002; NA: March 23, 2003; EU: May 2, 2003; AU: May 7, 2003; ; Wii U; NA: September 20, 2013; JP: September 26, 2013; EU: October 4, 2013; AU: October 5, 2013;",
+      "platform": "GameCube; Wii U"
+    },
+    "normalized": {
+      "year": 2002,
+      "platforms": [
+        "GameCube",
+        "Wii U"
+      ]
+    }
+  },
+  {
+    "slug": "super-metroid",
+    "pageTitle": "Super Metroid",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Super_Metroid",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1372966654"
+    },
+    "extracted": {
+      "developer": "Nintendo R&D1; Intelligent Systems",
+      "publisher": "Nintendo",
+      "release": "JP: March 19, 1994; NA: April 18, 1994; PAL: July 28, 1994",
+      "platform": "Super Nintendo Entertainment System"
+    },
+    "normalized": {
+      "year": 1994,
+      "platforms": [
+        "SNES"
+      ]
+    }
+  },
+  {
+    "slug": "metroid-prime",
+    "pageTitle": "Metroid Prime",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Metroid_Prime",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376793529"
+    },
+    "extracted": {
+      "developer": "Retro Studios",
+      "publisher": "Nintendo",
+      "release": "November 18, 2002; GameCube; NA: November 18, 2002; JP: February 28, 2003; EU: March 21, 2003; AU: April 3, 2003; ; Wii; JP: February 19, 2009; ; Nintendo Switch; WW: February 9, 2023;",
+      "platform": "GameCube; Wii; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2002,
+      "platforms": [
+        "GameCube",
+        "Wii",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "castlevania-symphony-of-the-night",
+    "pageTitle": "Castlevania: Symphony of the Night",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378900865"
+    },
+    "extracted": {
+      "developer": "Konami Computer Entertainment Tokyo",
+      "publisher": "Konami",
+      "release": "March 20, 1997; PlayStation; JP: March 20, 1997; NA: October 3, 1997; PAL: November 1, 1997; Saturn; JP: June 25, 1998;",
+      "platform": "PlayStation, Sega Saturn"
+    },
+    "normalized": {
+      "year": 1997,
+      "platforms": [
+        "PS1",
+        "Saturn"
+      ]
+    }
+  },
+  {
+    "slug": "super-mario-64",
+    "pageTitle": "Super Mario 64",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_64",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377162792"
+    },
+    "extracted": {
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release": "Nintendo 64; JP: June 23, 1996; NA: September 29, 1996; PAL: March 1, 1997; iQue Player; CHN: November 18, 2003",
+      "platform": "Nintendo 64; iQue Player"
+    },
+    "normalized": {
+      "year": 1996,
+      "platforms": [
+        "N64",
+        "iQue Player"
+      ]
+    }
+  },
+  {
+    "slug": "super-mario-world",
+    "pageTitle": "Super Mario World",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_World",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379089057"
+    },
+    "extracted": {
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "release": "21 November 1990; Super NES; JP: 21 November 1990; NA: 23 August 1991; EU: 11 April 1992; AU: 1 July 1992; BR: 30 August 1993; Game Boy Advance; JP: 14 December 2001; NA: 11 February 2002; AU: 2 April 2002; EU: 12 April 2002;",
+      "platform": "Super NES, Game Boy Advance"
+    },
+    "normalized": {
+      "year": 1990,
+      "platforms": [
+        "SNES",
+        "GBA"
+      ]
+    }
+  },
+  {
+    "slug": "donkey-kong-country",
+    "pageTitle": "Donkey Kong Country",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376000842"
+    },
+    "extracted": {
+      "developer": "Rare",
+      "publisher": "Nintendo",
+      "release": "18 November 1994; SNES; UK: 18 November 1994; NA: 21 November 1994; EU: 24 November 1994; JP: 26 November 1994; Game Boy Color; EU: 17 November 2000; NA: 20 November 2000; JP: 21 January 2001; Game Boy Advance; AU: 4 June 2003; EU: 6 June 2003; NA: 9 June 2003; JP: 12 December 2003;",
+      "platform": "Super Nintendo Entertainment System, Game Boy Color, Game Boy Advance"
+    },
+    "normalized": {
+      "year": 1994,
+      "platforms": [
+        "SNES",
+        "GBC",
+        "GBA"
+      ]
+    }
+  },
+  {
+    "slug": "banjo-kazooie",
+    "pageTitle": "Banjo-Kazooie (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1375539591"
+    },
+    "extracted": {
+      "developer": "Rare",
+      "publisher": "Nintendo (N64); Microsoft Game Studios (X360)",
+      "release": "Nintendo 64; NA: 29 June 1998; EU: 17 July 1998; AU: August 1998; Xbox 360; WW: 26 November 2008; Evercade; WW: 26 June 2026",
+      "platform": "Nintendo 64; Xbox 360; Evercade"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "N64",
+        "Xbox 360",
+        "Evercade"
+      ]
+    }
+  },
+  {
+    "slug": "psychonauts",
+    "pageTitle": "Psychonauts",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Psychonauts",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377913867"
+    },
+    "extracted": {
+      "developer": "Double Fine Productions",
+      "publisher": "Majesco",
+      "release": "April 19, 2005; Windows; , Xbox; NA: April 19, 2005; EU: February 10, 2006; ; PlayStation 2; NA: June 21, 2005; EU: February 10, 2006; ; Mac OS X; WW: September 29, 2011; ; Linux; WW: May 31, 2012;",
+      "platform": "Windows; Xbox; PlayStation 2; Mac OS X; Linux"
+    },
+    "normalized": {
+      "year": 2005,
+      "platforms": [
+        "PC",
+        "Xbox",
+        "PS2",
+        "macOS",
+        "Linux"
+      ]
+    }
+  },
+  {
+    "slug": "okami",
+    "pageTitle": "Ōkami",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/%C5%8Ckami",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1374031364"
+    },
+    "extracted": {
+      "developer": "Clover Studio",
+      "publisher": "Capcom",
+      "release": "20 April 2006; PlayStation 2; JP: 20 April 2006; NA: 19 September 2006; EU: 9 February 2007; AU: 14 February 2007; Wii; NA: 15 April 2008; AU: 12 June 2008; EU: 13 June 2008; JP: 15 October 2009; Ōkami HD; PlayStation 3; NA: 30 October 2012; EU: 31 October 2012; JP: 1 November 2012; Windows; WW: 12 December 2017; JP: 13 December 2017; PlayStation 4, Xbox One; WW: 12 December 2017; JP: 21 December 2017; Nintendo Switch; WW: 9 August 2018; JP: 4 September 2018; Amazon Luna; US: 20 April 2022;",
+      "platform": "PlayStation 2; Wii; Ōkami HD; PlayStation 3; Windows; PlayStation 4; Xbox One; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2006,
+      "platforms": [
+        "PS2",
+        "Wii",
+        "PS3",
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "beyond-good-evil",
+    "pageTitle": "Beyond Good & Evil (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Beyond_Good_%26_Evil_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376355508"
+    },
+    "extracted": {
+      "developer": "Ubisoft Montpellier; Ubisoft Shanghai (HD)",
+      "publisher": "Ubisoft",
+      "release": "November 11, 2003; PlayStation 2; NA: November 11, 2003; EU: November 14, 2003; Windows; NA: December 2, 2003; EU: December 5, 2003; Xbox; NA: December 2, 2003; EU: February 27, 2004; GameCube; NA: December 10, 2003; EU: February 27, 2004; Remaster; Xbox 360; WW: March 2, 2011; PlayStation 3; EU: June 8, 2011; NA: June 28, 2011; 20th Anniversary Edition; Switch, PS4, PS5, Windows, Xbox One, Xbox Series X/S; June 25, 2024",
+      "platform": "PlayStation 2; Windows; Xbox; GameCube; Xbox 360; PlayStation 3; Nintendo Switch; PlayStation 4; PlayStation 5; Xbox One; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 2003,
+      "platforms": [
+        "PS2",
+        "PC",
+        "Xbox",
+        "GameCube",
+        "Xbox 360",
+        "PS3",
+        "Nintendo Switch",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "prince-of-persia-the-sands-of-time",
+    "pageTitle": "Prince of Persia: The Sands of Time",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1375428441"
+    },
+    "extracted": {
+      "developer": "Ubisoft Montreal (PlayStation 2, Xbox, GameCube, Game Boy Advance); Kudosoft (Windows); Gameloft (Mobile)",
+      "publisher": "Ubisoft; Sony Computer Entertainment (PS2); Gameloft (Mobile)",
+      "release": "28 October 2003; Game Boy Advance; NA: 28 October 2003; EU: 14 November 2003; PlayStation 2; NA: 11 November 2003; EU: 21 November 2003; JP: 2 September 2004; Xbox; NA: 11 November 2003; EU: 20 February 2004; GameCube; NA: 18 November 2003; EU: 20 February 2004; Mobile; NA: 21 November 2003; Microsoft Windows; NA: 2 December 2003; EU: 5 December 2003;",
+      "platform": "Game Boy Advance; PlayStation 2; GameCube; Xbox; Windows; Mobile"
+    },
+    "normalized": {
+      "year": 2003,
+      "platforms": [
+        "GBA",
+        "PS2",
+        "GameCube",
+        "Xbox",
+        "PC",
+        "Mobile"
+      ]
+    }
+  },
+  {
+    "slug": "jet-set-radio",
+    "pageTitle": "Jet Set Radio",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Jet_Set_Radio",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378943068"
+    },
+    "extracted": {
+      "developer": "Smilebit; BlitWorks (HD)",
+      "publisher": "Sega",
+      "release": "June 29, 2000; Dreamcast; JP: June 29, 2000; NA: October 31, 2000; EU: November 24, 2000; AU: December 22, 2000; PlayStation 3; NA: September 18, 2012; PAL: September 19, 2012; JP: February 20, 2013; Windows; WW: September 19, 2012; Xbox 360; WW: September 19, 2012; JP: February 20, 2013; PlayStation Vita; NA: November 20, 2012; PAL: November 21, 2012; JP: February 20, 2013; iOS; WW: November 29, 2012; JP: December 20, 2012; Android; WW: November 29, 2012; JP: January 30, 2013;",
+      "platform": "Dreamcast, PlayStation 3, Windows, Xbox 360, PlayStation Vita, iOS, Android"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "Dreamcast",
+        "PS3",
+        "PC",
+        "Xbox 360",
+        "PlayStation Vita",
+        "iOS",
+        "Android"
+      ]
+    }
+  },
+  {
+    "slug": "crazy-taxi",
+    "pageTitle": "Crazy Taxi (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Crazy_Taxi_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377838845"
+    },
+    "extracted": {
+      "developer": "Sega AM3",
+      "publisher": "Sega",
+      "release": "February 1999; Arcade; JP: February 1999; NA: February 1999; Dreamcast; JP: January 27, 2000; NA: February 2, 2000; EU: February 25, 2000; PlayStation 2; NA: May 17, 2001; EU: June 1, 2001; JP: November 22, 2001; GameCube; NA: November 18, 2001; EU: May 3, 2002; JP: May 30, 2002; Windows; EU: June 28, 2002; JP: September 26, 2002; NA: September 30, 2002; PlayStation 3; NA: November 16, 2010; EU: November 17, 2010; JP: November 24, 2010; Xbox 360; WW: November 24, 2010; iOS; WW: October 10, 2012; Android; WW: July 10, 2013;",
+      "platform": "Arcade; Dreamcast; PlayStation 2; GameCube; Windows; PlayStation 3; Xbox 360; iOS; Android"
+    },
+    "normalized": {
+      "year": 1999,
+      "platforms": [
+        "Arcade",
+        "Dreamcast",
+        "PS2",
+        "GameCube",
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "iOS",
+        "Android"
+      ]
+    }
+  },
+  {
+    "slug": "rez",
+    "pageTitle": "Rez (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Rez_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1365952586"
+    },
+    "extracted": {
+      "developer": "United Game Artists",
+      "publisher": "Sega",
+      "release": "November 22, 2001; Dreamcast; JP: November 22, 2001; EU: February 20, 2002; PlayStation 2; JP: November 22, 2001; NA: January 8, 2002; EU: February 20, 2002; Xbox 360; January 30, 2008; PlayStation 4; October 13, 2016; Windows; August 9, 2017; Android; November 20, 2017; Oculus Quest; October 13, 2020; PlayStation 5; February 22, 2023",
+      "platform": "Dreamcast; PlayStation 2; Xbox 360; PlayStation 4; Windows; Android; Oculus Quest; PlayStation 5"
+    },
+    "normalized": {
+      "year": 2001,
+      "platforms": [
+        "Dreamcast",
+        "PS2",
+        "Xbox 360",
+        "PS4",
+        "PC",
+        "Android",
+        "Oculus Quest",
+        "PS5"
+      ]
+    }
+  },
+  {
+    "slug": "panzer-dragoon-saga",
+    "pageTitle": "Panzer Dragoon Saga",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Panzer_Dragoon_Saga",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378965901"
+    },
+    "extracted": {
+      "developer": "Sega (Team Andromeda)",
+      "publisher": "Sega",
+      "release": "JP: 29 January 1998; EU: 17 April 1998; NA: 5 May 1998",
+      "platform": "Sega Saturn"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "Saturn"
+      ]
+    }
+  },
+  {
+    "slug": "skies-of-arcadia",
+    "pageTitle": "Skies of Arcadia",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Skies_of_Arcadia",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378965972"
+    },
+    "extracted": {
+      "developer": "Overworks",
+      "publisher": "Sega",
+      "release": "Dreamcast; JP: October 5, 2000; NA: November 14, 2000; EU: April 27, 2001; GameCube; JP: December 26, 2002; NA: January 28, 2003; EU: May 23, 2003; AU: June 6, 2003",
+      "platform": "Dreamcast; GameCube"
+    },
+    "normalized": {
+      "year": 2000,
+      "platforms": [
+        "Dreamcast",
+        "GameCube"
+      ]
+    }
+  },
+  {
+    "slug": "metal-gear-solid",
+    "pageTitle": "Metal Gear Solid (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376080253"
+    },
+    "extracted": {
+      "developer": "Konami Computer Entertainment Japan",
+      "publisher": "Konami",
+      "release": "September 3, 1998; PlayStation; JP: September 3, 1998; NA: October 20, 1998; EU: February 22, 1999; ; Integral; PlayStation; JP: June 24, 1999; NA: October 12, 1999; EU: October 29, 1999; Windows; NA: September 22, 2000; EU: October 20, 2000;",
+      "platform": "PlayStation; Windows"
+    },
+    "normalized": {
+      "year": 1998,
+      "platforms": [
+        "PS1",
+        "PC"
+      ]
+    }
+  },
+  {
+    "slug": "metal-gear-solid-3-snake-eater",
+    "pageTitle": "Metal Gear Solid 3: Snake Eater",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379092424"
+    },
+    "extracted": {
+      "developer": "Konami Computer Entertainment Japan",
+      "publisher": "Konami",
+      "release": "November 17, 2004; PlayStation 2; NA: November 17, 2004; JP: December 16, 2004; EU: March 4, 2005; AU: March 17, 2005; ; Subsistence; PlayStation 2; JP: December 22, 2005; NA: March 14, 2006; EU: October 6, 2006; AU: October 13, 2006; ; Snake Eater 3D; Nintendo 3DS; NA: February 21, 2012; WW: March 8, 2012;",
+      "platform": "PlayStation 2; Nintendo 3DS"
+    },
+    "normalized": {
+      "year": 2004,
+      "platforms": [
+        "PS2",
+        "3DS"
+      ]
+    }
+  },
+  {
+    "slug": "tom-clancy-s-splinter-cell-chaos-theory",
+    "pageTitle": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Splinter_Cell:_Chaos_Theory",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376612295"
+    },
+    "extracted": {
+      "developer": "Ubisoft Montreal; Ubisoft Milan",
+      "publisher": "Ubisoft",
+      "release": "March 29, 2005; Windows; , PlayStation 2; , Xbox; NA: March 29, 2005; EU: April 1, 2005; GameCube; NA: March 30, 2005; EU: April 1, 2005; AU: April 14, 2005; N-Gage; NA: March 31, 2005; Mobile; WW: April 7, 2005; Nintendo DS; NA: June 28, 2005; EU: July 1, 2005; Nintendo 3DS; EU: March 25, 2011; AU: March 31, 2011; NA: April 10, 2011; PlayStation 3; EU/AUS: September 16, 2011; NA: September 27, 2011;",
+      "platform": "Mobile (Java) ; N-Gage; Windows; PlayStation 2; Xbox; GameCube; Nintendo DS; Nintendo 3DS; PlayStation 3"
+    },
+    "normalized": {
+      "year": 2005,
+      "platforms": [
+        "Mobile (Java)",
+        "N-Gage",
+        "PC",
+        "PS2",
+        "Xbox",
+        "GameCube",
+        "DS",
+        "3DS",
+        "PS3"
+      ]
+    }
+  },
+  {
+    "slug": "hitman-blood-money",
+    "pageTitle": "Hitman: Blood Money",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Hitman:_Blood_Money",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1376713004"
+    },
+    "extracted": {
+      "developer": "IO Interactive",
+      "publisher": "Eidos Interactive",
+      "release": "26 May 2006; PlayStation 2, Xbox, Xbox 360, Windows; EU: 26 May 2006; NA: 30 May 2006; AU: 1 June 2006; ; PlayStation 3; NA: 29 January 2013; AU: 31 January 2013; EU: 1 February 2013; ; PlayStation 4, Xbox One; WW: 11 January 2019; ; Android, iOS; WW: 30 November 2023; ; Nintendo Switch; WW: 25 January 2024;",
+      "platform": "Microsoft Windows; PlayStation 2; Xbox; Xbox 360; PlayStation 3; PlayStation 4; Xbox One; Android; iOS; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2006,
+      "platforms": [
+        "PC",
+        "PS2",
+        "Xbox",
+        "Xbox 360",
+        "PS3",
+        "PS4",
+        "Xbox One",
+        "Android",
+        "iOS",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "hollow-knight",
+    "pageTitle": "Hollow Knight",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Hollow_Knight",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378702465"
+    },
+    "extracted": {
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "release": "Windows; 24 February 2017; Linux; , macOS; 11 April 2017; Nintendo Switch; 12 June 2018; PlayStation 4; , Xbox One; 25 September 2018; Nintendo Switch 2; , PlayStation 5; , Xbox Series X/S; 5 February 2026",
+      "platform": "Windows; Linux; macOS; Nintendo Switch; PlayStation 4; Xbox One; Nintendo Switch 2; PlayStation 5; Xbox Series X/S"
+    },
+    "normalized": {
+      "year": 2017,
+      "platforms": [
+        "PC",
+        "Linux",
+        "macOS",
+        "Nintendo Switch",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch 2",
+        "PS5",
+        "Xbox Series X/S"
+      ]
+    }
+  },
+  {
+    "slug": "celeste",
+    "pageTitle": "Celeste (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Celeste_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1377301523"
+    },
+    "extracted": {
+      "developer": "Maddy Makes Games",
+      "publisher": "Maddy Makes Games",
+      "release": "PC, Switch, PS4; WW: January 25, 2018; ; Xbox One; WW: January 26, 2018; ; Google Stadia; WW: July 28, 2020;",
+      "platform": "Linux; macOS; Nintendo Switch; PlayStation 4; Windows; Xbox One; Google Stadia"
+    },
+    "normalized": {
+      "year": 2018,
+      "platforms": [
+        "Linux",
+        "macOS",
+        "Nintendo Switch",
+        "PS4",
+        "PC",
+        "Xbox One",
+        "Stadia"
+      ]
+    }
+  },
+  {
+    "slug": "hades",
+    "pageTitle": "Hades (video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Hades_(video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379073272"
+    },
+    "extracted": {
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "release": "macOS; , Switch; , Windows; September 17, 2020; PS4; , PS5; , Xbox One; , Series X/S; August 13, 2021; iOS; March 19, 2024",
+      "platform": "macOS; Nintendo Switch; Windows; PlayStation 4; PlayStation 5; Xbox One; Xbox Series X/S; iOS"
+    },
+    "normalized": {
+      "year": 2020,
+      "platforms": [
+        "macOS",
+        "Nintendo Switch",
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "iOS"
+      ]
+    }
+  },
+  {
+    "slug": "outer-wilds",
+    "pageTitle": "Outer Wilds",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Outer_Wilds",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1379047448"
+    },
+    "extracted": {
+      "developer": "Mobius Digital",
+      "publisher": "Annapurna Interactive",
+      "release": "May 28, 2019; Windows, Xbox One; May 28, 2019; PS4; October 15, 2019; PS5, Xbox Series X/S; September 15, 2022; Nintendo Switch; December 7, 2023",
+      "platform": "Windows; Xbox One; PlayStation 4; PlayStation 5; Xbox Series X/S; Nintendo Switch"
+    },
+    "normalized": {
+      "year": 2019,
+      "platforms": [
+        "PC",
+        "Xbox One",
+        "PS4",
+        "PS5",
+        "Xbox Series X/S",
+        "Nintendo Switch"
+      ]
+    }
+  },
+  {
+    "slug": "return-of-the-obra-dinn",
+    "pageTitle": "Return of the Obra Dinn",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378558410"
+    },
+    "extracted": {
+      "developer": "Lucas Pope",
+      "publisher": "3909 LLC.",
+      "release": "macOS; , Windows; October 18, 2018; Switch; , PS4; , Xbox One; October 18, 2019",
+      "platform": "macOS; Windows; Nintendo Switch; PlayStation 4; Xbox One"
+    },
+    "normalized": {
+      "year": 2018,
+      "platforms": [
+        "macOS",
+        "PC",
+        "Nintendo Switch",
+        "PS4",
+        "Xbox One"
+      ]
+    },
+    "additionalEvidence": {
+      "developers": [
+        "Lucas Pope"
+      ],
+      "source": {
+        "url": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
+        "label": "Developer-published Steam listing",
+        "accessedAt": "2026-10-08",
+        "fields": [
+          "developers"
+        ]
+      },
+      "evidence": "Steam listing identifies Lucas Pope as developer; the Wikipedia infobox only lists a designer."
+    }
+  },
+  {
+    "slug": "undertale",
+    "pageTitle": "Undertale",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Undertale",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378828439"
+    },
+    "extracted": {
+      "developer": "Toby Fox",
+      "publisher": "Toby Fox; 8-4",
+      "release": "September 15, 2015; OS X; , Windows; September 15, 2015 ; Linux; July 17, 2016 ; PS4, PS Vita; August 15, 2017 ; Nintendo Switch; September 18, 2018 ; Xbox One; March 16, 2021",
+      "platform": "OS X; Windows; Linux; PlayStation 4; PlayStation Vita; Nintendo Switch; Xbox One"
+    },
+    "normalized": {
+      "year": 2015,
+      "platforms": [
+        "macOS",
+        "PC",
+        "Linux",
+        "PS4",
+        "PlayStation Vita",
+        "Nintendo Switch",
+        "Xbox One"
+      ]
+    }
+  },
+  {
+    "slug": "stardew-valley",
+    "pageTitle": "Stardew Valley",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Stardew_Valley",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1378845197"
+    },
+    "extracted": {
+      "developer": "ConcernedApe",
+      "publisher": "ConcernedApe",
+      "release": "February 26, 2016; Windows; February 26, 2016 ; Linux; , macOS; July 29, 2016 ; PlayStation 4; December 14, 2016 ; Xbox One; December 14, 2016 ; Nintendo Switch; October 5, 2017 ; PlayStation Vita; May 22, 2018 ; iOS; October 24, 2018 ; Android; March 14, 2019 ; Nintendo Switch 2; NA: December 25, 2025; ; EU: March 6, 2026;",
+      "platform": "Windows; Linux; macOS; PlayStation 4; Xbox One; Nintendo Switch; PlayStation Vita; iOS; Android; Nintendo Switch 2"
+    },
+    "normalized": {
+      "year": 2016,
+      "platforms": [
+        "PC",
+        "Linux",
+        "macOS",
+        "PS4",
+        "Xbox One",
+        "Nintendo Switch",
+        "PlayStation Vita",
+        "iOS",
+        "Android",
+        "Nintendo Switch 2"
+      ]
+    }
+  },
+  {
+    "slug": "journey",
+    "pageTitle": "Journey (2012 video game)",
+    "source": {
+      "url": "https://en.wikipedia.org/wiki/Journey_(2012_video_game)",
+      "label": "Wikipedia game infobox",
+      "accessedAt": "2026-10-08",
+      "fields": [
+        "title",
+        "year",
+        "developers",
+        "publishers",
+        "platforms"
+      ],
+      "revisionId": "1373261148"
+    },
+    "extracted": {
+      "developer": "Thatgamecompany",
+      "publisher": "Sony Computer Entertainment; Annapurna Interactive",
+      "release": "PlayStation 3; NA: March 13, 2012; EU: March 14, 2012; ; PlayStation 4; NA: July 21, 2015; EU: July 21, 2015; ; Windows; WW: June 6, 2019; ; iOS; WW: August 6, 2019;",
+      "platform": "PlayStation 3; PlayStation 4; Windows; iOS"
+    },
+    "normalized": {
+      "year": 2012,
+      "platforms": [
+        "PS3",
+        "PS4",
+        "PC",
+        "iOS"
+      ]
+    }
+  }
+]

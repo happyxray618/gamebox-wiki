@@ -1,0 +1,3767 @@
+[
+  {
+    "slug": "silent-hill-2",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Atmosphere",
+      "Story"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "8–10 hours",
+    "mood": [
+      "Dark",
+      "Psychological",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Survival"
+    ],
+    "gameboxScore": 96,
+    "retroScore": 98,
+    "hiddenGemScore": 92,
+    "revivalPotential": 95,
+    "description": "A psychological survival horror masterpiece built around atmosphere, symbolism, sound design and deeply unsettling exploration.",
+    "whyPlay": "Play it for its atmosphere, psychological storytelling and exceptional environmental design.",
+    "retroHistory": "Silent Hill 2 became one of the defining psychological horror games of the PlayStation 2 generation and remains one of the most influential horror games ever made.",
+    "searchKeywords": [
+      "silent hill",
+      "silent hill 2",
+      "psychological horror",
+      "ps2 horror",
+      "survival horror"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "silent-hill-3",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Psychological Horror",
+      "Atmosphere",
+      "Story"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "7–9 hours",
+    "mood": [
+      "Dark",
+      "Psychological",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Survival",
+      "Combat"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 96,
+    "hiddenGemScore": 88,
+    "revivalPotential": 91,
+    "description": "A visually striking survival horror experience combining disturbing environments, psychological themes and memorable creature design.",
+    "whyPlay": "Play it for its disturbing atmosphere, striking art direction, memorable creatures and psychological storytelling.",
+    "retroHistory": "Silent Hill 3 is widely regarded as one of the strongest survival horror games of the PlayStation 2 era and a landmark example of psychological horror design.",
+    "searchKeywords": [
+      "silent hill",
+      "silent hill 3",
+      "psychological horror",
+      "ps2 horror",
+      "survival horror"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "resident-evil-2",
+    "genres": [
+      "Horror",
+      "Survival Horror",
+      "Action"
+    ],
+    "tags": [
+      "Zombies",
+      "Police Station",
+      "Classic"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "8–12 hours",
+    "mood": [
+      "Tense",
+      "Dark",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat",
+      "Resource Management"
+    ],
+    "gameboxScore": 97,
+    "retroScore": 99,
+    "hiddenGemScore": 85,
+    "revivalPotential": 97,
+    "description": "One of the defining survival horror games of the PlayStation era, combining exploration, puzzles, combat and cinematic storytelling.",
+    "whyPlay": "Play it for its iconic police station setting, memorable enemies, excellent pacing and foundational survival horror design.",
+    "retroHistory": "Resident Evil 2 became one of the most influential survival horror games of the late 1990s and helped establish the genre as a mainstream success.",
+    "searchKeywords": [
+      "resident evil",
+      "resident evil 2",
+      "re2",
+      "ps1 horror",
+      "survival horror",
+      "zombie game"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "fatal-frame-2",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Ghosts",
+      "Japanese Horror",
+      "Atmosphere"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "9–12 hours",
+    "mood": [
+      "Haunting",
+      "Dark",
+      "Melancholic"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Survival",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 97,
+    "hiddenGemScore": 96,
+    "revivalPotential": 94,
+    "description": "A haunting Japanese survival horror game centered around two sisters, an abandoned village and a supernatural camera.",
+    "whyPlay": "Play it for its Japanese ghost-story atmosphere, supernatural camera mechanic and deeply unsettling village setting.",
+    "retroHistory": "Fatal Frame II is widely regarded as one of the strongest Japanese survival horror games of the PS2 era and remains a cult favorite among horror fans.",
+    "searchKeywords": [
+      "fatal frame",
+      "fatal frame 2",
+      "crimson butterfly",
+      "project zero",
+      "japanese horror",
+      "ps2 horror"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dark-souls",
+    "genres": [
+      "Action RPG",
+      "RPG"
+    ],
+    "tags": [
+      "Difficult",
+      "Dark Fantasy",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "40–60 hours",
+    "mood": [
+      "Dark",
+      "Mysterious",
+      "Bleak"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Character Building",
+      "Discovery"
+    ],
+    "gameboxScore": 98,
+    "retroScore": 96,
+    "hiddenGemScore": 72,
+    "revivalPotential": 90,
+    "description": "A landmark action RPG built around interconnected world design, challenging combat, environmental storytelling and discovery.",
+    "whyPlay": "Play it for its interconnected world, precise combat, mysterious lore and extraordinary sense of discovery.",
+    "retroHistory": "Dark Souls helped popularize a new generation of challenging action RPGs and became one of the most influential games of the 2010s.",
+    "searchKeywords": [
+      "dark souls",
+      "soulslike",
+      "action rpg",
+      "fromsoftware",
+      "dark fantasy",
+      "challenging games"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "demons-souls",
+    "genres": [
+      "Action RPG",
+      "RPG"
+    ],
+    "tags": [
+      "Difficult",
+      "Dark Fantasy",
+      "Cult"
+    ],
+    "difficulty": "Very Hard",
+    "gameLength": "30–40 hours",
+    "mood": [
+      "Dark",
+      "Bleak",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Character Building",
+      "Discovery"
+    ],
+    "gameboxScore": 96,
+    "retroScore": 98,
+    "hiddenGemScore": 88,
+    "revivalPotential": 94,
+    "description": "The game that established many of the design principles that would later define the Souls genre.",
+    "whyPlay": "Play it to experience the foundation of the Souls formula, with atmospheric worlds, demanding combat and unusual multiplayer systems.",
+    "retroHistory": "Demon's Souls originated many of the design ideas that later became central to FromSoftware's globally successful Souls series.",
+    "searchKeywords": [
+      "demons souls",
+      "demon's souls",
+      "soulslike",
+      "fromsoftware",
+      "ps3 rpg",
+      "action rpg"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "vagrant-story",
+    "genres": [
+      "RPG",
+      "Action RPG"
+    ],
+    "tags": [
+      "Cult Classic",
+      "Dark Fantasy",
+      "Dungeon"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "25–35 hours",
+    "mood": [
+      "Dark",
+      "Serious",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Dungeon Crawling",
+      "Character Building"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 99,
+    "hiddenGemScore": 99,
+    "revivalPotential": 98,
+    "description": "A sophisticated cult RPG known for its intricate combat systems, dark atmosphere, dungeon design and visual direction.",
+    "whyPlay": "Play it for its unusually deep combat system, atmospheric world, memorable art direction and sophisticated storytelling.",
+    "retroHistory": "Vagrant Story became one of Square's most critically respected cult RPGs and remains a frequent subject of discussion among PlayStation RPG enthusiasts.",
+    "searchKeywords": [
+      "vagrant story",
+      "square rpg",
+      "ps1 rpg",
+      "cult rpg",
+      "dark fantasy",
+      "hidden gem rpg"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "shadow-tower",
+    "genres": [
+      "Action RPG",
+      "Dungeon Crawler"
+    ],
+    "tags": [
+      "Dark Fantasy",
+      "Cult",
+      "Atmosphere"
+    ],
+    "difficulty": "Very Hard",
+    "gameLength": "20–30 hours",
+    "mood": [
+      "Oppressive",
+      "Dark",
+      "Claustrophobic"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Dungeon Crawling",
+      "Resource Management"
+    ],
+    "gameboxScore": 89,
+    "retroScore": 96,
+    "hiddenGemScore": 99,
+    "revivalPotential": 91,
+    "description": "An obscure FromSoftware dungeon crawler featuring oppressive environments, brutal combat and an unusual first-person perspective.",
+    "whyPlay": "Play it for its oppressive atmosphere, unusual first-person perspective and glimpse into FromSoftware's early design philosophy.",
+    "retroHistory": "Shadow Tower represents an important early branch of FromSoftware's dungeon-crawler design and is often cited as a precursor to later Souls ideas.",
+    "searchKeywords": [
+      "shadow tower",
+      "fromsoftware",
+      "ps1 rpg",
+      "dungeon crawler",
+      "dark fantasy",
+      "cult game"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "deus-ex",
+    "genres": [
+      "Immersive Sim",
+      "RPG",
+      "Action"
+    ],
+    "tags": [
+      "Cyberpunk",
+      "Choices",
+      "Stealth"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "25–40 hours",
+    "mood": [
+      "Dark",
+      "Conspiratorial",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Exploration",
+      "Choices",
+      "Role Playing"
+    ],
+    "gameboxScore": 98,
+    "retroScore": 97,
+    "hiddenGemScore": 89,
+    "revivalPotential": 96,
+    "description": "A genre-defining immersive simulation combining role-playing, stealth, exploration, dialogue and player-driven problem solving.",
+    "whyPlay": "Play it for its freedom of approach, systemic level design, cyberpunk world and extraordinary player choice.",
+    "retroHistory": "Deus Ex became one of the defining immersive sims of the PC era and established design principles that continue to influence modern games.",
+    "searchKeywords": [
+      "deus ex",
+      "immersive sim",
+      "cyberpunk",
+      "stealth rpg",
+      "pc classic",
+      "ion storm"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "system-shock-2",
+    "genres": [
+      "Immersive Sim",
+      "RPG",
+      "Horror"
+    ],
+    "tags": [
+      "Sci-Fi",
+      "Horror",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "15–20 hours",
+    "mood": [
+      "Claustrophobic",
+      "Terrifying",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Character Building",
+      "Resource Management"
+    ],
+    "gameboxScore": 96,
+    "retroScore": 98,
+    "hiddenGemScore": 95,
+    "revivalPotential": 94,
+    "description": "A pioneering science-fiction immersive sim blending RPG progression, horror, exploration and systemic gameplay.",
+    "whyPlay": "Play it for its oppressive atmosphere, RPG systems, environmental storytelling and pioneering immersive-sim design.",
+    "retroHistory": "System Shock 2 became a foundational work in immersive simulation and horror, influencing games such as BioShock and later systemic titles.",
+    "searchKeywords": [
+      "system shock 2",
+      "immersive sim",
+      "sci fi horror",
+      "pc classic",
+      "looking glass",
+      "horror rpg"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "thief-2",
+    "genres": [
+      "Stealth",
+      "Immersive Sim"
+    ],
+    "tags": [
+      "Stealth",
+      "Atmosphere",
+      "Level Design"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "20–25 hours",
+    "mood": [
+      "Dark",
+      "Quiet",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Exploration",
+      "Infiltration",
+      "Resource Management"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 98,
+    "hiddenGemScore": 96,
+    "revivalPotential": 92,
+    "description": "A landmark stealth game celebrated for its systemic level design, sound-based gameplay and open-ended infiltration.",
+    "whyPlay": "Play it for some of the finest stealth level design ever created and a gameplay system built around sound, light and observation.",
+    "retroHistory": "Thief II is considered one of the most influential stealth games ever made and remains a benchmark for systemic infiltration design.",
+    "searchKeywords": [
+      "thief 2",
+      "thief ii",
+      "stealth game",
+      "immersive sim",
+      "looking glass",
+      "pc classic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "prey-2017",
+    "genres": [
+      "Immersive Sim",
+      "Action",
+      "Sci-Fi"
+    ],
+    "tags": [
+      "Sci-Fi",
+      "Exploration",
+      "Choices"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "15–25 hours",
+    "mood": [
+      "Mysterious",
+      "Tense",
+      "Isolation"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Stealth",
+      "Choices"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 78,
+    "hiddenGemScore": 93,
+    "revivalPotential": 91,
+    "description": "A highly systemic science-fiction immersive sim focused on exploration, environmental storytelling and player experimentation.",
+    "whyPlay": "Play it for its systemic environments, creative abilities, exploration and exceptional sense of player freedom.",
+    "retroHistory": "Prey is increasingly regarded as a modern cult classic and one of Arkane Studios' strongest examples of immersive-sim design.",
+    "searchKeywords": [
+      "prey 2017",
+      "prey",
+      "arkane",
+      "immersive sim",
+      "sci fi game",
+      "hidden gem"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "killer7",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "tags": [
+      "Cult",
+      "Stylized",
+      "Experimental"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "10–15 hours",
+    "mood": [
+      "Surreal",
+      "Stylish",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Puzzle",
+      "Story"
+    ],
+    "gameboxScore": 91,
+    "retroScore": 96,
+    "hiddenGemScore": 99,
+    "revivalPotential": 96,
+    "description": "A highly stylized cult game known for its surreal visual language, unconventional gameplay and distinctive narrative.",
+    "whyPlay": "Play it for its unique visual identity, strange narrative, experimental structure and unmistakable Suda51 style.",
+    "retroHistory": "Killer7 developed a strong cult following thanks to its unconventional presentation and remains one of the most distinctive games of the sixth console generation.",
+    "searchKeywords": [
+      "killer7",
+      "killer 7",
+      "suda51",
+      "grasshopper manufacture",
+      "cult games",
+      "gamecube classic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "rule-of-rose",
+    "genres": [
+      "Horror",
+      "Adventure"
+    ],
+    "tags": [
+      "Cult",
+      "Psychological Horror",
+      "Rare"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "12–15 hours",
+    "mood": [
+      "Disturbing",
+      "Psychological",
+      "Melancholic"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Story",
+      "Puzzle"
+    ],
+    "gameboxScore": 88,
+    "retroScore": 97,
+    "hiddenGemScore": 100,
+    "revivalPotential": 98,
+    "description": "A rare and controversial psychological horror title remembered for its disturbing themes, unusual storytelling and cult following.",
+    "whyPlay": "Play it for its unusual psychological themes, unsettling atmosphere and status as one of the most elusive PS2 horror games.",
+    "retroHistory": "Rule of Rose developed a major cult reputation after its limited release and became one of the most sought-after survival horror games of the PS2 era.",
+    "searchKeywords": [
+      "rule of rose",
+      "ps2 horror",
+      "psychological horror",
+      "cult horror",
+      "rare ps2 games",
+      "survival horror"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-suffering",
+    "genres": [
+      "Horror",
+      "Action"
+    ],
+    "tags": [
+      "Horror",
+      "Cult",
+      "Prison"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "8–10 hours",
+    "mood": [
+      "Dark",
+      "Brutal",
+      "Claustrophobic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Survival",
+      "Choices"
+    ],
+    "gameboxScore": 89,
+    "retroScore": 94,
+    "hiddenGemScore": 97,
+    "revivalPotential": 95,
+    "description": "A dark action-horror game combining third-person shooting, psychological themes and a disturbing prison setting.",
+    "whyPlay": "Play it for its brutal prison setting, monster designs, action-oriented horror and surprisingly interesting morality system.",
+    "retroHistory": "The Suffering gained a dedicated cult following and remains one of the more distinctive action-horror games of the PS2 and Xbox generation.",
+    "searchKeywords": [
+      "the suffering",
+      "surreal software",
+      "ps2 horror",
+      "xbox horror",
+      "action horror",
+      "cult games"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "enslaved-odyssey-to-the-west",
+    "genres": [
+      "Action Adventure",
+      "Action"
+    ],
+    "tags": [
+      "Post-Apocalyptic",
+      "Story",
+      "Character"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "12–15 hours",
+    "mood": [
+      "Cinematic",
+      "Melancholic",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration",
+      "Platforming",
+      "Story"
+    ],
+    "gameboxScore": 90,
+    "retroScore": 87,
+    "hiddenGemScore": 94,
+    "revivalPotential": 93,
+    "description": "A cinematic action adventure inspired by Journey to the West, combining strong character writing with post-apocalyptic environments.",
+    "whyPlay": "Play it for its memorable characters, cinematic presentation, post-apocalyptic world and surprisingly strong narrative.",
+    "retroHistory": "Enslaved earned critical praise but never achieved the commercial success expected of it, giving the game a lasting hidden-gem reputation.",
+    "searchKeywords": [
+      "enslaved odyssey to the west",
+      "enslaved",
+      "ninja theory",
+      "ps3 hidden gem",
+      "xbox 360 games",
+      "action adventure"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "shadow-of-the-colossus",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Colossus",
+      "Atmosphere",
+      "Minimalism"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "8–12 hours",
+    "mood": [
+      "Melancholic",
+      "Epic",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Boss Battles",
+      "Climbing"
+    ],
+    "gameboxScore": 98,
+    "retroScore": 99,
+    "hiddenGemScore": 80,
+    "revivalPotential": 91,
+    "description": "A landmark adventure game centered around gigantic creatures, environmental scale, exploration and minimalist storytelling.",
+    "whyPlay": "Play it for its breathtaking scale, memorable boss encounters, minimalist storytelling and extraordinary sense of atmosphere.",
+    "retroHistory": "Shadow of the Colossus became one of the defining artistic achievements of the PlayStation 2 era and remains highly influential in game design.",
+    "searchKeywords": [
+      "shadow of the colossus",
+      "team ico",
+      "ps2 classic",
+      "colossus",
+      "action adventure",
+      "art games"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "metal-gear-solid-2",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Story",
+      "Cyberpunk"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "12–15 hours",
+    "mood": [
+      "Political",
+      "Paranoid",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Combat",
+      "Exploration",
+      "Story"
+    ],
+    "gameboxScore": 96,
+    "retroScore": 97,
+    "hiddenGemScore": 82,
+    "revivalPotential": 90,
+    "description": "A technically ambitious stealth action game remembered for its cinematic direction, systemic gameplay and unusually ambitious themes.",
+    "whyPlay": "Play it for its stealth mechanics, cinematic direction, memorable set pieces and surprisingly prescient themes.",
+    "retroHistory": "Metal Gear Solid 2 became one of the most discussed games of its generation and remains notable for its ambitious approach to technology, information and identity.",
+    "searchKeywords": [
+      "metal gear solid 2",
+      "mgs2",
+      "sons of liberty",
+      "stealth game",
+      "ps2 classic",
+      "konami"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "ico",
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "tags": [
+      "Atmosphere",
+      "Minimalism",
+      "Art"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "7–10 hours",
+    "mood": [
+      "Quiet",
+      "Melancholic",
+      "Dreamlike"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Platforming",
+      "Companion"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 99,
+    "hiddenGemScore": 91,
+    "revivalPotential": 92,
+    "description": "A minimalist adventure game praised for its atmosphere, environmental design, puzzle mechanics and emotional presentation.",
+    "whyPlay": "Play it for its elegant environmental design, minimalist storytelling, puzzles and unique emotional atmosphere.",
+    "retroHistory": "Ico became a landmark example of atmospheric game design and helped establish Team Ico as one of the most influential artistic teams in the medium.",
+    "searchKeywords": [
+      "ico",
+      "team ico",
+      "ps2 classic",
+      "minimalist games",
+      "art games",
+      "adventure game"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "shenmue",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "tags": [
+      "Open World",
+      "Japan",
+      "Cult"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "20–30 hours",
+    "mood": [
+      "Nostalgic",
+      "Atmospheric",
+      "Melancholic"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Investigation",
+      "Combat",
+      "Life Simulation"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 99,
+    "hiddenGemScore": 90,
+    "revivalPotential": 94,
+    "description": "A pioneering open-world adventure combining detailed environments, daily-life simulation, investigation and cinematic storytelling.",
+    "whyPlay": "Play it for its pioneering open-world design, detailed environments, investigation systems and immersive everyday-life simulation.",
+    "retroHistory": "Shenmue was one of the most ambitious games of its era and helped establish many ideas that would later become standard in open-world games.",
+    "searchKeywords": [
+      "shenmue",
+      "dreamcast",
+      "sega",
+      "open world",
+      "japan game",
+      "cult classic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "portal",
+    "genres": [
+      "Puzzle"
+    ],
+    "tags": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 88,
+    "hiddenGemScore": 85,
+    "revivalPotential": 75,
+    "description": "Solve spatial puzzles with two linked portals while a dryly sarcastic machine tests your trust.",
+    "whyPlay": "Solve spatial puzzles with two linked portals while a dryly sarcastic machine tests your trust.",
+    "retroHistory": "First listed release: 2007. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Portal",
+      "Puzzle",
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "portal-2",
+    "genres": [
+      "Puzzle"
+    ],
+    "tags": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 88,
+    "hiddenGemScore": 85,
+    "revivalPotential": 75,
+    "description": "Explore abandoned test chambers and combine portals with gels, beams and cooperative problem solving.",
+    "whyPlay": "Explore abandoned test chambers and combine portals with gels, beams and cooperative problem solving.",
+    "retroHistory": "First listed release: 2011. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Portal 2",
+      "Puzzle",
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "half-life",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "tags": [
+      "Combat",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 90,
+    "hiddenGemScore": 80,
+    "revivalPotential": 80,
+    "description": "A laboratory disaster becomes a continuous journey through tightly connected encounters and environmental puzzles.",
+    "whyPlay": "A laboratory disaster becomes a continuous journey through tightly connected encounters and environmental puzzles.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Half-Life",
+      "Action",
+      "Shooter",
+      "Tense",
+      "Cinematic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "half-life-2",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "tags": [
+      "Combat",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 90,
+    "hiddenGemScore": 80,
+    "revivalPotential": 80,
+    "description": "Physics-driven combat and a journey through occupied cities turn the environment into your toolkit.",
+    "whyPlay": "Physics-driven combat and a journey through occupied cities turn the environment into your toolkit.",
+    "retroHistory": "First listed release: 2004. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Half-Life 2",
+      "Action",
+      "Shooter",
+      "Tense",
+      "Cinematic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "bioshock",
+    "genres": [
+      "Immersive Sim",
+      "RPG"
+    ],
+    "tags": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 91,
+    "revivalPotential": 82,
+    "description": "Explore an underwater city where powers, scarce resources and environmental stories shape each encounter.",
+    "whyPlay": "Explore an underwater city where powers, scarce resources and environmental stories shape each encounter.",
+    "retroHistory": "First listed release: 2007. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "BioShock",
+      "Immersive Sim",
+      "RPG",
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "bioshock-2",
+    "genres": [
+      "Immersive Sim",
+      "RPG"
+    ],
+    "tags": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 91,
+    "revivalPotential": 82,
+    "description": "Return to Rapture with heavy weapons, defensive encounters and a different perspective on its damaged society.",
+    "whyPlay": "Return to Rapture with heavy weapons, defensive encounters and a different perspective on its damaged society.",
+    "retroHistory": "First listed release: 2010. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "BioShock 2",
+      "Immersive Sim",
+      "RPG",
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "bioshock-infinite",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "tags": [
+      "Combat",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 90,
+    "hiddenGemScore": 80,
+    "revivalPotential": 80,
+    "description": "Fight through a floating city with aerial movement, strange powers and an uneasy partnership.",
+    "whyPlay": "Fight through a floating city with aerial movement, strange powers and an uneasy partnership.",
+    "retroHistory": "First listed release: 2013. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "BioShock Infinite",
+      "Action",
+      "Shooter",
+      "Tense",
+      "Cinematic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dishonored",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Choose routes through a plague-stricken city using supernatural movement, careful observation and flexible assassination tools.",
+    "whyPlay": "Choose routes through a plague-stricken city using supernatural movement, careful observation and flexible assassination tools.",
+    "retroHistory": "First listed release: 2012. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Dishonored",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dishonored-2",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Experiment with two protagonists and intricate spaces that reward patient exploration and inventive stealth.",
+    "whyPlay": "Experiment with two protagonists and intricate spaces that reward patient exploration and inventive stealth.",
+    "retroHistory": "First listed release: 2016. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Dishonored 2",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "fallout",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Leave the vault and navigate a wasteland where character choices and conversations carry lasting consequences.",
+    "whyPlay": "Leave the vault and navigate a wasteland where character choices and conversations carry lasting consequences.",
+    "retroHistory": "First listed release: 1997. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Fallout",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "fallout-2",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Build a distinct wasteland survivor and explore settlements with competing interests and unusual solutions.",
+    "whyPlay": "Build a distinct wasteland survivor and explore settlements with competing interests and unusual solutions.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Fallout 2",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "fallout-new-vegas",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Choose allegiances in the Mojave and resolve conflicts through conversation, exploration or combat.",
+    "whyPlay": "Choose allegiances in the Mojave and resolve conflicts through conversation, exploration or combat.",
+    "retroHistory": "First listed release: 2010. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Fallout: New Vegas",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "baldur-s-gate",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Lead an adventuring party through wilderness, cities and a mystery grounded in character-driven role playing.",
+    "whyPlay": "Lead an adventuring party through wilderness, cities and a mystery grounded in character-driven role playing.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Baldur's Gate",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "baldur-s-gate-ii-shadows-of-amn",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Manage a rich party of companions and explore quests that intertwine relationships with tactical combat.",
+    "whyPlay": "Manage a rich party of companions and explore quests that intertwine relationships with tactical combat.",
+    "retroHistory": "First listed release: 2000. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Baldur's Gate II: Shadows of Amn",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "planescape-torment",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Investigate identity and memory through unusual companions, philosophical conversations and a strange city of portals.",
+    "whyPlay": "Investigate identity and memory through unusual companions, philosophical conversations and a strange city of portals.",
+    "retroHistory": "First listed release: 1999. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Planescape: Torment",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "disco-elysium",
+    "genres": [
+      "RPG",
+      "Adventure"
+    ],
+    "tags": [
+      "Investigation",
+      "Choices",
+      "Story"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Melancholic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Investigation",
+      "Choices",
+      "Story"
+    ],
+    "gameboxScore": 96,
+    "retroScore": 85,
+    "hiddenGemScore": 90,
+    "revivalPotential": 70,
+    "description": "Investigate a murder while your own competing thoughts reshape conversations, clues and your sense of self.",
+    "whyPlay": "Investigate a murder while your own competing thoughts reshape conversations, clues and your sense of self.",
+    "retroHistory": "First listed release: 2019. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Disco Elysium",
+      "RPG",
+      "Adventure",
+      "Melancholic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-elder-scrolls-iii-morrowind",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Explore an unfamiliar island through directions, faction rivalries and a character you develop at your own pace.",
+    "whyPlay": "Explore an unfamiliar island through directions, faction rivalries and a character you develop at your own pace.",
+    "retroHistory": "First listed release: 2002. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Elder Scrolls III: Morrowind",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-elder-scrolls-iv-oblivion",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Wander Cyrodiil, join guilds and follow a collection of quests ranging from intimate mysteries to large-scale threats.",
+    "whyPlay": "Wander Cyrodiil, join guilds and follow a collection of quests ranging from intimate mysteries to large-scale threats.",
+    "retroHistory": "First listed release: 2006. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Elder Scrolls IV: Oblivion",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-elder-scrolls-v-skyrim",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Build your own route through a mountainous open world filled with dungeons, factions and dragon encounters.",
+    "whyPlay": "Build your own route through a mountainous open world filled with dungeons, factions and dragon encounters.",
+    "retroHistory": "First listed release: 2011. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Elder Scrolls V: Skyrim",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-witcher-3-wild-hunt",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Track monsters and people through an open world of difficult choices and carefully written side stories.",
+    "whyPlay": "Track monsters and people through an open world of difficult choices and carefully written side stories.",
+    "retroHistory": "First listed release: 2015. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Witcher 3: Wild Hunt",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "mass-effect",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Assemble a crew and investigate a galactic threat through conversation, exploration and squad combat.",
+    "whyPlay": "Assemble a crew and investigate a galactic threat through conversation, exploration and squad combat.",
+    "retroHistory": "First listed release: 2007. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Mass Effect",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "mass-effect-2",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Recruit specialists and build their trust before undertaking a dangerous mission with your assembled crew.",
+    "whyPlay": "Recruit specialists and build their trust before undertaking a dangerous mission with your assembled crew.",
+    "retroHistory": "First listed release: 2010. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Mass Effect 2",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dragon-age-origins",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Shape a party and an alliance through tactical encounters, origin stories and difficult political choices.",
+    "whyPlay": "Shape a party and an alliance through tactical encounters, origin stories and difficult political choices.",
+    "retroHistory": "First listed release: 2009. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Dragon Age: Origins",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "vampire-the-masquerade-bloodlines",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Navigate nocturnal Los Angeles with clan-specific abilities, social choices and a tangled supernatural hierarchy.",
+    "whyPlay": "Navigate nocturnal Los Angeles with clan-specific abilities, social choices and a tangled supernatural hierarchy.",
+    "retroHistory": "First listed release: 2004. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Vampire: The Masquerade – Bloodlines",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "arx-fatalis",
+    "genres": [
+      "Immersive Sim",
+      "RPG"
+    ],
+    "tags": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Choices",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 91,
+    "revivalPotential": 82,
+    "description": "Explore an underground world with rune-casting magic, practical experimentation and interconnected spaces.",
+    "whyPlay": "Explore an underground world with rune-casting magic, practical experimentation and interconnected spaces.",
+    "retroHistory": "First listed release: 2002. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Arx Fatalis",
+      "Immersive Sim",
+      "RPG",
+      "Atmospheric",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "gothic",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Earn a place in a prison colony whose factions and dangerous wilderness make early survival feel tangible.",
+    "whyPlay": "Earn a place in a prison colony whose factions and dangerous wilderness make early survival feel tangible.",
+    "retroHistory": "First listed release: 2001. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Gothic",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "tags": [
+      "Combat",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 90,
+    "hiddenGemScore": 80,
+    "revivalPotential": 80,
+    "description": "Explore a hazardous zone where tense gunfights, strange anomalies and scavenging create an uncertain journey.",
+    "whyPlay": "Explore a hazardous zone where tense gunfights, strange anomalies and scavenging create an uncertain journey.",
+    "retroHistory": "First listed release: 2007. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "Action",
+      "Shooter",
+      "Tense",
+      "Cinematic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "metro-2033",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "tags": [
+      "Combat",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Cinematic"
+    ],
+    "gameplay": [
+      "Combat",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 90,
+    "hiddenGemScore": 80,
+    "revivalPotential": 80,
+    "description": "Travel through underground settlements and dangerous surface routes with limited supplies and an oppressive atmosphere.",
+    "whyPlay": "Travel through underground settlements and dangerous surface routes with limited supplies and an oppressive atmosphere.",
+    "retroHistory": "First listed release: 2010. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Metro 2033",
+      "Action",
+      "Shooter",
+      "Tense",
+      "Cinematic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dead-space",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Navigate a failing spacecraft and carefully dismember threats while sound and cramped spaces keep pressure high.",
+    "whyPlay": "Navigate a failing spacecraft and carefully dismember threats while sound and cramped spaces keep pressure high.",
+    "retroHistory": "First listed release: 2008. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Dead Space",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "alien-isolation",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Hide, improvise and manage noise aboard a station where a persistent alien changes your plans.",
+    "whyPlay": "Hide, improvise and manage noise aboard a station where a persistent alien changes your plans.",
+    "retroHistory": "First listed release: 2014. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Alien: Isolation",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "amnesia-the-dark-descent",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Explore a decaying castle with limited means of defense and a growing uncertainty about your past.",
+    "whyPlay": "Explore a decaying castle with limited means of defense and a growing uncertainty about your past.",
+    "retroHistory": "First listed release: 2010. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Amnesia: The Dark Descent",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "soma",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Investigate an underwater facility where unsettling encounters frame questions about consciousness and identity.",
+    "whyPlay": "Investigate an underwater facility where unsettling encounters frame questions about consciousness and identity.",
+    "retroHistory": "First listed release: 2015. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "SOMA",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "signalis",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Balance inventory, puzzles and scarce resources in a surreal science-fiction world built around memory and longing.",
+    "whyPlay": "Balance inventory, puzzles and scarce resources in a surreal science-fiction world built around memory and longing.",
+    "retroHistory": "First listed release: 2022. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Signalis",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "resident-evil",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Explore a mansion through locked routes, limited supplies and discoveries that slowly reveal the disaster inside.",
+    "whyPlay": "Explore a mansion through locked routes, limited supplies and discoveries that slowly reveal the disaster inside.",
+    "retroHistory": "First listed release: 1996. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Resident Evil",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "resident-evil-4",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Manage space and ammunition in tense encounters that combine precision shooting with constant forward pressure.",
+    "whyPlay": "Manage space and ammunition in tense encounters that combine precision shooting with constant forward pressure.",
+    "retroHistory": "First listed release: 2005. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Resident Evil 4",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "silent-hill",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Search a fog-bound town for a missing child while ordinary streets give way to disturbing spaces.",
+    "whyPlay": "Search a fog-bound town for a missing child while ordinary streets give way to disturbing spaces.",
+    "retroHistory": "First listed release: 1999. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Silent Hill",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "silent-hill-4-the-room",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Investigate a locked apartment and unsettling alternate spaces in a horror story about intrusion and isolation.",
+    "whyPlay": "Investigate a locked apartment and unsettling alternate spaces in a horror story about intrusion and isolation.",
+    "retroHistory": "First listed release: 2004. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Silent Hill 4: The Room",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "eternal-darkness-sanity-s-requiem",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Follow interwoven historical stories while a sanity system questions what you can trust on screen.",
+    "whyPlay": "Follow interwoven historical stories while a sanity system questions what you can trust on screen.",
+    "retroHistory": "First listed release: 2002. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Eternal Darkness: Sanity's Requiem",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "parasite-eve",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Investigate a biological nightmare in New York with a compact blend of role playing and positional combat.",
+    "whyPlay": "Investigate a biological nightmare in New York with a compact blend of role playing and positional combat.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Parasite Eve",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "dino-crisis",
+    "genres": [
+      "Horror",
+      "Survival Horror"
+    ],
+    "tags": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Dark",
+      "Unsettling"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Survival",
+      "Puzzle"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 91,
+    "hiddenGemScore": 89,
+    "revivalPotential": 84,
+    "description": "Investigate an isolated research facility where swift dinosaurs turn resource decisions and corridors into immediate threats.",
+    "whyPlay": "Investigate an isolated research facility where swift dinosaurs turn resource decisions and corridors into immediate threats.",
+    "retroHistory": "First listed release: 1999. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Dino Crisis",
+      "Horror",
+      "Survival Horror",
+      "Dark",
+      "Unsettling"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "chrono-trigger",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Travel through eras with a memorable party and connected events that reshape a time-spanning adventure.",
+    "whyPlay": "Travel through eras with a memorable party and connected events that reshape a time-spanning adventure.",
+    "retroHistory": "First listed release: 1995. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Chrono Trigger",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "final-fantasy-vi",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Follow an ensemble cast through a world where personal stories and large-scale upheaval reshape your party.",
+    "whyPlay": "Follow an ensemble cast through a world where personal stories and large-scale upheaval reshape your party.",
+    "retroHistory": "First listed release: 1994. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Final Fantasy VI",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "final-fantasy-vii",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Explore a planet under industrial pressure and customize a party through a flexible materia system.",
+    "whyPlay": "Explore a planet under industrial pressure and customize a party through a flexible materia system.",
+    "retroHistory": "First listed release: 1997. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Final Fantasy VII",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "final-fantasy-ix",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Journey with a varied cast through a storybook world concerned with identity, belonging and mortality.",
+    "whyPlay": "Journey with a varied cast through a storybook world concerned with identity, belonging and mortality.",
+    "retroHistory": "First listed release: 2000. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Final Fantasy IX",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "final-fantasy-x",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Follow a pilgrimage through Spira with turn-based battles that emphasize party switching and tactical decisions.",
+    "whyPlay": "Follow a pilgrimage through Spira with turn-based battles that emphasize party switching and tactical decisions.",
+    "retroHistory": "First listed release: 2001. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Final Fantasy X",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "suikoden-ii",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Recruit a large cast and build a base while friendship and political conflict drive a war story.",
+    "whyPlay": "Recruit a large cast and build a base while friendship and political conflict drive a war story.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Suikoden II",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "xenogears",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Alternate martial-arts battles and giant-machine combat through an ambitious story of identity, power and belief.",
+    "whyPlay": "Alternate martial-arts battles and giant-machine combat through an ambitious story of identity, power and belief.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Xenogears",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "earthbound",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Explore an everyday world made strange by humor, psychic powers and an unusually warm sense of adventure.",
+    "whyPlay": "Explore an everyday world made strange by humor, psychic powers and an unusually warm sense of adventure.",
+    "retroHistory": "First listed release: 1994. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "EarthBound",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "paper-mario-the-thousand-year-door",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Combine theatrical turn-based combat, paper transformations and distinctive companions in a playful treasure hunt.",
+    "whyPlay": "Combine theatrical turn-based combat, paper transformations and distinctive companions in a playful treasure hunt.",
+    "retroHistory": "First listed release: 2004. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Paper Mario: The Thousand-Year Door",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Explore Hyrule across two periods and solve dungeons that connect tools, music and spatial understanding.",
+    "whyPlay": "Explore Hyrule across two periods and solve dungeons that connect tools, music and spatial understanding.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Legend of Zelda: Ocarina of Time",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-legend-of-zelda-majora-s-mask",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Learn a town's repeating routines and use transformations to resolve stories within a three-day cycle.",
+    "whyPlay": "Learn a town's repeating routines and use transformations to resolve stories within a three-day cycle.",
+    "retroHistory": "First listed release: 2000. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Legend of Zelda: Majora's Mask",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "the-legend-of-zelda-the-wind-waker",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Sail between islands in a colorful world whose small discoveries connect to larger dungeon adventures.",
+    "whyPlay": "Sail between islands in a colorful world whose small discoveries connect to larger dungeon adventures.",
+    "retroHistory": "First listed release: 2002. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "The Legend of Zelda: The Wind Waker",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "super-metroid",
+    "genres": [
+      "Metroidvania",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Isolation",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 94,
+    "hiddenGemScore": 88,
+    "revivalPotential": 85,
+    "description": "Read an interconnected alien world and use new abilities to uncover routes with minimal explicit guidance.",
+    "whyPlay": "Read an interconnected alien world and use new abilities to uncover routes with minimal explicit guidance.",
+    "retroHistory": "First listed release: 1994. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Super Metroid",
+      "Metroidvania",
+      "Adventure",
+      "Isolation",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "metroid-prime",
+    "genres": [
+      "Metroidvania",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Isolation",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 94,
+    "hiddenGemScore": 88,
+    "revivalPotential": 85,
+    "description": "Investigate an alien environment through scanning, first-person exploration and abilities that open interconnected routes.",
+    "whyPlay": "Investigate an alien environment through scanning, first-person exploration and abilities that open interconnected routes.",
+    "retroHistory": "First listed release: 2002. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Metroid Prime",
+      "Metroidvania",
+      "Adventure",
+      "Isolation",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "castlevania-symphony-of-the-night",
+    "genres": [
+      "Metroidvania",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Isolation",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 94,
+    "hiddenGemScore": 88,
+    "revivalPotential": 85,
+    "description": "Explore an expanding castle with new movement abilities, varied equipment and secrets behind familiar rooms.",
+    "whyPlay": "Explore an expanding castle with new movement abilities, varied equipment and secrets behind familiar rooms.",
+    "retroHistory": "First listed release: 1997. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Castlevania: Symphony of the Night",
+      "Metroidvania",
+      "Adventure",
+      "Isolation",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "super-mario-64",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Experiment with expressive movement across compact three-dimensional playgrounds filled with stars and secret routes.",
+    "whyPlay": "Experiment with expressive movement across compact three-dimensional playgrounds filled with stars and secret routes.",
+    "retroHistory": "First listed release: 1996. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Super Mario 64",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "super-mario-world",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Explore branching stages with precise jumps, rideable companions and exits that reward experimentation.",
+    "whyPlay": "Explore branching stages with precise jumps, rideable companions and exits that reward experimentation.",
+    "retroHistory": "First listed release: 1990. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Super Mario World",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "donkey-kong-country",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Navigate rhythmic platforming stages with distinct environments, animal companions and carefully hidden bonuses.",
+    "whyPlay": "Navigate rhythmic platforming stages with distinct environments, animal companions and carefully hidden bonuses.",
+    "retroHistory": "First listed release: 1994. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Donkey Kong Country",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "banjo-kazooie",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Explore themed worlds using an expanding moveset and a playful collection of characters, puzzles and collectibles.",
+    "whyPlay": "Explore themed worlds using an expanding moveset and a playful collection of characters, puzzles and collectibles.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Banjo-Kazooie",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "psychonauts",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Enter imaginative mental worlds whose visual ideas and platforming challenges reflect the characters who inhabit them.",
+    "whyPlay": "Enter imaginative mental worlds whose visual ideas and platforming challenges reflect the characters who inhabit them.",
+    "retroHistory": "First listed release: 2005. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Psychonauts",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "okami",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Restore a stylized world with brush techniques that connect combat, puzzles and expressive interactions.",
+    "whyPlay": "Restore a stylized world with brush techniques that connect combat, puzzles and expressive interactions.",
+    "retroHistory": "First listed release: 2006. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Ōkami",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "beyond-good-evil",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Investigate a conspiracy through photography, exploration and stealth alongside a small group of allies.",
+    "whyPlay": "Investigate a conspiracy through photography, exploration and stealth alongside a small group of allies.",
+    "retroHistory": "First listed release: 2003. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Beyond Good & Evil",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "prince-of-persia-the-sands-of-time",
+    "genres": [
+      "Action Adventure",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Puzzle",
+      "Combat"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 84,
+    "revivalPotential": 85,
+    "description": "Cross intricate spaces with acrobatic movement and a rewind mechanic that encourages careful experimentation.",
+    "whyPlay": "Cross intricate spaces with acrobatic movement and a rewind mechanic that encourages careful experimentation.",
+    "retroHistory": "First listed release: 2003. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Prince of Persia: The Sands of Time",
+      "Action Adventure",
+      "Adventure",
+      "Atmospheric",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "jet-set-radio",
+    "genres": [
+      "Arcade",
+      "Action"
+    ],
+    "tags": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Stylish",
+      "Energetic"
+    ],
+    "gameplay": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "gameboxScore": 90,
+    "retroScore": 94,
+    "hiddenGemScore": 92,
+    "revivalPotential": 87,
+    "description": "Skate through a stylized city and paint graffiti while balancing movement, routes and pursuit.",
+    "whyPlay": "Skate through a stylized city and paint graffiti while balancing movement, routes and pursuit.",
+    "retroHistory": "First listed release: 2000. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Jet Set Radio",
+      "Arcade",
+      "Action",
+      "Stylish",
+      "Energetic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "crazy-taxi",
+    "genres": [
+      "Arcade",
+      "Action"
+    ],
+    "tags": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Stylish",
+      "Energetic"
+    ],
+    "gameplay": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "gameboxScore": 90,
+    "retroScore": 94,
+    "hiddenGemScore": 92,
+    "revivalPotential": 87,
+    "description": "Turn a city into a timed driving challenge by finding passengers and taking inventive routes.",
+    "whyPlay": "Turn a city into a timed driving challenge by finding passengers and taking inventive routes.",
+    "retroHistory": "First listed release: 1999. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Crazy Taxi",
+      "Arcade",
+      "Action",
+      "Stylish",
+      "Energetic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "rez",
+    "genres": [
+      "Arcade",
+      "Action"
+    ],
+    "tags": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Stylish",
+      "Energetic"
+    ],
+    "gameplay": [
+      "Reflexes",
+      "Score Attack"
+    ],
+    "gameboxScore": 90,
+    "retroScore": 94,
+    "hiddenGemScore": 92,
+    "revivalPotential": 87,
+    "description": "Match shooting and movement to an evolving audiovisual rhythm in abstract on-rails environments.",
+    "whyPlay": "Match shooting and movement to an evolving audiovisual rhythm in abstract on-rails environments.",
+    "retroHistory": "First listed release: 2001. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Rez",
+      "Arcade",
+      "Action",
+      "Stylish",
+      "Energetic"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "panzer-dragoon-saga",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Explore a strange world through flight and tactical battles built around positioning a dragon.",
+    "whyPlay": "Explore a strange world through flight and tactical battles built around positioning a dragon.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Panzer Dragoon Saga",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "skies-of-arcadia",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Explore floating islands with sky pirates, recruit allies and combine party battles with airship encounters.",
+    "whyPlay": "Explore floating islands with sky pirates, recruit allies and combine party battles with airship encounters.",
+    "retroHistory": "First listed release: 2000. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Skies of Arcadia",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "metal-gear-solid",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Infiltrate a military facility through observation, unusual encounters and a story that repeatedly questions your mission.",
+    "whyPlay": "Infiltrate a military facility through observation, unusual encounters and a story that repeatedly questions your mission.",
+    "retroHistory": "First listed release: 1998. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Metal Gear Solid",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "metal-gear-solid-3-snake-eater",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Blend into jungle environments, manage survival and adapt to stealth encounters with varied equipment.",
+    "whyPlay": "Blend into jungle environments, manage survival and adapt to stealth encounters with varied equipment.",
+    "retroHistory": "First listed release: 2004. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Metal Gear Solid 3: Snake Eater",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "tom-clancy-s-splinter-cell-chaos-theory",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Use light, sound and flexible routes to infiltrate spaces that reward patient observation.",
+    "whyPlay": "Use light, sound and flexible routes to infiltrate spaces that reward patient observation.",
+    "retroHistory": "First listed release: 2005. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Tom Clancy's Splinter Cell: Chaos Theory",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "hitman-blood-money",
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
+    "tags": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Tense",
+      "Atmospheric"
+    ],
+    "gameplay": [
+      "Stealth",
+      "Infiltration",
+      "Exploration"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 91,
+    "hiddenGemScore": 87,
+    "revivalPotential": 80,
+    "description": "Read social spaces and arrange elaborate assassinations through disguises, accidents and carefully timed opportunities.",
+    "whyPlay": "Read social spaces and arrange elaborate assassinations through disguises, accidents and carefully timed opportunities.",
+    "retroHistory": "First listed release: 2006. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Hitman: Blood Money",
+      "Stealth",
+      "Action",
+      "Tense",
+      "Atmospheric"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "hollow-knight",
+    "genres": [
+      "Metroidvania",
+      "Adventure"
+    ],
+    "tags": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Isolation",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Combat",
+      "Discovery"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 94,
+    "hiddenGemScore": 88,
+    "revivalPotential": 85,
+    "description": "Explore a ruined underground kingdom whose demanding fights and hidden paths gradually reveal its history.",
+    "whyPlay": "Explore a ruined underground kingdom whose demanding fights and hidden paths gradually reveal its history.",
+    "retroHistory": "First listed release: 2017. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Hollow Knight",
+      "Metroidvania",
+      "Adventure",
+      "Isolation",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "celeste",
+    "genres": [
+      "Platformer",
+      "Action"
+    ],
+    "tags": [
+      "Platforming",
+      "Discovery"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Playful",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Platforming",
+      "Discovery"
+    ],
+    "gameboxScore": 93,
+    "retroScore": 94,
+    "hiddenGemScore": 85,
+    "revivalPotential": 85,
+    "description": "Climb a mountain through precise, rapidly retryable platforming challenges paired with a story of self-acceptance.",
+    "whyPlay": "Climb a mountain through precise, rapidly retryable platforming challenges paired with a story of self-acceptance.",
+    "retroHistory": "First listed release: 2018. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Celeste",
+      "Platformer",
+      "Action",
+      "Playful",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "hades",
+    "genres": [
+      "Roguelike",
+      "Action RPG"
+    ],
+    "tags": [
+      "Combat",
+      "Character Building",
+      "Replayability"
+    ],
+    "difficulty": "Hard",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Energetic",
+      "Stylish"
+    ],
+    "gameplay": [
+      "Combat",
+      "Character Building",
+      "Replayability"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 82,
+    "hiddenGemScore": 82,
+    "revivalPotential": 70,
+    "description": "Build changing combat combinations across escape attempts while repeated conversations deepen relationships in the underworld.",
+    "whyPlay": "Build changing combat combinations across escape attempts while repeated conversations deepen relationships in the underworld.",
+    "retroHistory": "First listed release: 2020. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Hades",
+      "Roguelike",
+      "Action RPG",
+      "Energetic",
+      "Stylish"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "outer-wilds",
+    "genres": [
+      "Adventure",
+      "Exploration"
+    ],
+    "tags": [
+      "Exploration",
+      "Discovery",
+      "Puzzle"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Quiet",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Discovery",
+      "Puzzle"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 85,
+    "hiddenGemScore": 91,
+    "revivalPotential": 70,
+    "description": "Investigate a small solar system where knowledge and curiosity unlock a mystery across repeating cycles.",
+    "whyPlay": "Investigate a small solar system where knowledge and curiosity unlock a mystery across repeating cycles.",
+    "retroHistory": "First listed release: 2019. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Outer Wilds",
+      "Adventure",
+      "Exploration",
+      "Quiet",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "return-of-the-obra-dinn",
+    "genres": [
+      "Puzzle"
+    ],
+    "tags": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Puzzle",
+      "Exploration"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 88,
+    "hiddenGemScore": 85,
+    "revivalPotential": 75,
+    "description": "Reconstruct a ship's fate by connecting frozen scenes, identities and evidence through careful deduction.",
+    "whyPlay": "Reconstruct a ship's fate by connecting frozen scenes, identities and evidence through careful deduction.",
+    "retroHistory": "First listed release: 2018. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Return of the Obra Dinn",
+      "Puzzle",
+      "Thoughtful",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "undertale",
+    "genres": [
+      "RPG"
+    ],
+    "tags": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Epic",
+      "Thoughtful"
+    ],
+    "gameplay": [
+      "Role Playing",
+      "Character Building",
+      "Exploration"
+    ],
+    "gameboxScore": 92,
+    "retroScore": 92,
+    "hiddenGemScore": 85,
+    "revivalPotential": 82,
+    "description": "Meet unusual monsters and choose how to handle encounters in a story responsive to your decisions.",
+    "whyPlay": "Meet unusual monsters and choose how to handle encounters in a story responsive to your decisions.",
+    "retroHistory": "First listed release: 2015. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Undertale",
+      "RPG",
+      "Epic",
+      "Thoughtful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "stardew-valley",
+    "genres": [
+      "Simulation",
+      "RPG"
+    ],
+    "tags": [
+      "Farming",
+      "Life Simulation",
+      "Exploration"
+    ],
+    "difficulty": "Easy",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Cozy",
+      "Hopeful"
+    ],
+    "gameplay": [
+      "Farming",
+      "Life Simulation",
+      "Exploration"
+    ],
+    "gameboxScore": 94,
+    "retroScore": 83,
+    "hiddenGemScore": 80,
+    "revivalPotential": 70,
+    "description": "Build a farm, learn local routines and balance friendships, exploration and small daily goals.",
+    "whyPlay": "Build a farm, learn local routines and balance friendships, exploration and small daily goals.",
+    "retroHistory": "First listed release: 2016. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Stardew Valley",
+      "Simulation",
+      "RPG",
+      "Cozy",
+      "Hopeful"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  },
+  {
+    "slug": "journey",
+    "genres": [
+      "Adventure",
+      "Exploration"
+    ],
+    "tags": [
+      "Exploration",
+      "Discovery",
+      "Puzzle"
+    ],
+    "difficulty": "Medium",
+    "gameLength": "Not assessed",
+    "mood": [
+      "Quiet",
+      "Mysterious"
+    ],
+    "gameplay": [
+      "Exploration",
+      "Discovery",
+      "Puzzle"
+    ],
+    "gameboxScore": 95,
+    "retroScore": 85,
+    "hiddenGemScore": 91,
+    "revivalPotential": 70,
+    "description": "Travel through a vast desert toward a distant mountain with wordless encounters and expressive movement.",
+    "whyPlay": "Travel through a vast desert toward a distant mountain with wordless encounters and expressive movement.",
+    "retroHistory": "First listed release: 2012. Explore the cited source for the game's release and development history.",
+    "searchKeywords": [
+      "Journey",
+      "Adventure",
+      "Exploration",
+      "Quiet",
+      "Mysterious"
+    ],
+    "scorePolicy": "provisional-editorial-v1"
+  }
+]

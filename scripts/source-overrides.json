@@ -1,0 +1,24 @@
+{
+  "arx-fatalis": {
+    "publishers": ["JoWooD Productions", "Arkane Studios", "DreamCatcher Interactive", "Mindscape"],
+    "evidence": "Publisher infobox groups credits by Windows and Xbox; platform headings are not company names."
+  },
+  "gothic": {
+    "publishers": ["Egmont Interactive", "Xicat Interactive", "THQ Nordic"],
+    "evidence": "Publisher infobox includes platform headings and regional labels, removed during normalization."
+  },
+  "final-fantasy-vii": {
+    "publishers": ["Square", "Sony Computer Entertainment", "Eidos Interactive", "Square Enix"],
+    "evidence": "Publisher infobox separates PlayStation, Windows and later releases; those headings are not publishers."
+  },
+  "return-of-the-obra-dinn": {
+    "developers": ["Lucas Pope"],
+    "source": {
+      "url": "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
+      "label": "Developer-published Steam listing",
+      "accessedAt": "2026-10-08",
+      "fields": ["developers"]
+    },
+    "evidence": "Steam listing identifies Lucas Pope as developer; the Wikipedia infobox only lists a designer."
+  }
+}

@@ -1,3 +1,4 @@
+import SiteHeader from "@/components/site-header"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { games } from "@/data/games"
@@ -63,34 +64,7 @@ const memorableGames = [...platformGames]
 
   return (
     <main className="min-h-screen bg-[#09090b] text-white">
-      <header className="border-b border-white/10">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-          <Link
-            href="/"
-            className="text-xl font-black tracking-widest"
-          >
-            GAMEBOX.WIKI
-          </Link>
-
-          <nav className="hidden gap-6 text-sm text-zinc-400 md:flex">
-            <Link href="/games" className="hover:text-white">
-              GAMES
-            </Link>
-
-            <Link href="/finder" className="hover:text-white">
-              FINDER
-            </Link>
-
-            <Link href="/retro" className="text-white">
-              RETRO
-            </Link>
-
-            <Link href="/hidden-gems" className="hover:text-white">
-              HIDDEN GEMS
-            </Link>
-          </nav>
-        </div>
-      </header>
+      <SiteHeader active="/retro" />
 
       <section className="border-b border-white/10">
         <div className="mx-auto max-w-7xl px-6 pb-20 pt-24 md:pb-28 md:pt-32">
@@ -105,7 +79,7 @@ const memorableGames = [...platformGames]
             RETRO PLATFORM ARCHIVE
           </p>
 
-          <h1 className="mt-5 text-6xl font-black leading-[0.95] tracking-tight md:text-8xl">
+          <h1 className="mt-5 text-4xl font-black leading-[0.95] tracking-tight sm:text-6xl md:text-8xl">
             {platformName}
             <br />
             GAMES.

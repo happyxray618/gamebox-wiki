@@ -1,79 +1,23 @@
 "use client"
 
+import SiteHeader from "@/components/site-header"
+
 import { useState } from "react"
 import Link from "next/link"
 import { games } from "@/data/games"
+import { emptyFilters, filterGames } from "@/lib/discovery"
 
 export default function Home() {
   const [search, setSearch] = useState("")
 
   const searchResults = search.trim()
-  ? games
-      .filter((game) => {
-        const keyword = search.toLowerCase().trim()
-
-        return (
-          game.title.toLowerCase().includes(keyword) ||
-          game.developer.toLowerCase().includes(keyword) ||
-          game.publisher.toLowerCase().includes(keyword) ||
-          game.genres.some((genre) =>
-            genre.toLowerCase().includes(keyword)
-          ) ||
-          game.tags.some((tag) =>
-            tag.toLowerCase().includes(keyword)
-          ) ||
-          game.platforms.some((platform) =>
-            platform.toLowerCase().includes(keyword)
-          ) ||
-          (game.mood ?? []).some((mood) =>
-  mood.toLowerCase().includes(keyword)
-) ||
-(game.gameplay ?? []).some((gameplay) =>
-  gameplay.toLowerCase().includes(keyword)
-) ||
-(game.searchKeywords ?? []).some((item) =>
-  item.toLowerCase().includes(keyword)
-)
-        )
-      })
-      .slice(0, 6)
-  : []
+    ? filterGames(games, { ...emptyFilters, query: search }).slice(0, 6)
+    : []
 
   return (
     <main className="min-h-screen bg-[#09090b] text-white">
       {/* Header */}
-      <header className="border-b border-white/10">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-          <Link
-            href="/"
-            className="text-xl font-black tracking-widest"
-          >
-            GAMEBOX.WIKI
-          </Link>
-
-          <nav className="hidden gap-6 text-sm text-zinc-400 md:flex">
-            <Link href="/games" className="hover:text-white">
-              GAMES
-            </Link>
-
-            <Link href="/finder" className="hover:text-white">
-              FINDER
-            </Link>
-
-            <Link href="/retro" className="hover:text-white">
-              RETRO
-            </Link>
-
-            <Link href="/hidden-gems" className="hover:text-white">
-              HIDDEN GEMS
-            </Link>
-
-            <a href="#newsletter" className="hover:text-white">
-              NEWSLETTER
-            </a>
-          </nav>
-        </div>
-      </header>
+      <SiteHeader />
 
       {/* Hero */}
       <section className="relative border-b border-white/10">
@@ -82,7 +26,7 @@ export default function Home() {
             GLOBAL GAME DISCOVERY
           </p>
 
-          <h1 className="max-w-5xl text-6xl font-black leading-[0.95] tracking-tight md:text-8xl">
+          <h1 className="max-w-5xl text-4xl font-black leading-[0.95] tracking-tight sm:text-6xl md:text-8xl">
             DISCOVER.
             <br />
             REMEMBER.
@@ -150,7 +94,7 @@ export default function Home() {
 
       {/* Featured */}
       <section className="mx-auto max-w-7xl px-6 py-20">
-        <div className="flex items-end justify-between">
+        <div className="flex flex-wrap items-end justify-between gap-4">
           <div>
             <p className="text-xs font-bold tracking-[0.25em] text-zinc-600">
               FEATURED

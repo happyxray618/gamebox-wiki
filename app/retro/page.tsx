@@ -1,3 +1,4 @@
+import SiteHeader from "@/components/site-header"
 import Link from "next/link"
 import { games } from "@/data/games"
 import { pageMetadata } from "@/lib/metadata"
@@ -21,36 +22,7 @@ export default function RetroPage() {
     <main className="min-h-screen bg-[#09090b] text-white">
 
       {/* Header */}
-      <header className="border-b border-white/10">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5">
-
-          <Link
-            href="/"
-            className="text-xl font-black tracking-widest"
-          >
-            GAMEBOX.WIKI
-          </Link>
-
-          <nav className="hidden gap-6 text-sm text-zinc-400 md:flex">
-            <Link href="/games" className="hover:text-white">
-              GAMES
-            </Link>
-
-            <Link href="/finder" className="hover:text-white">
-              FINDER
-            </Link>
-
-            <Link href="/retro" className="text-white">
-              RETRO
-            </Link>
-
-            <Link href="/hidden-gems" className="hover:text-white">
-              HIDDEN GEMS
-            </Link>
-          </nav>
-
-        </div>
-      </header>
+      <SiteHeader active="/retro" />
 
 
       {/* Hero */}
@@ -119,7 +91,7 @@ export default function RetroPage() {
 
         <div className="mx-auto max-w-7xl px-6 py-20">
 
-          <div className="flex items-end justify-between">
+          <div className="flex flex-wrap items-end justify-between gap-4">
 
             <div>
 

@@ -24,3 +24,8 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Long game and platform names must wrap inside narrow editorial layouts. */
+h1, h2, h3 {
+  overflow-wrap: anywhere;
+}
