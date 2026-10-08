@@ -86,6 +86,10 @@ Followed [official get-started playbook](https://vercel.com/get-started.md). CLI
 3. Review Production environment scopes and formal origin/contact; keep Preview protected/noindex.
 4. Obtain separate explicit Production authorization. Only then configure gamebox.wiki DNS/TLS and deploy Production. RC2 does not authorize those actions.
 5. Verify real Production indexability, robots sitemap advertising, canonical/OG, 404, links, mobile/console and logs. Preview noindex success is not a Production indexing test.
-6. Reload Codex to expose installed Vercel tools, then finish read-only MCP setup checks. Provider analytics implementation remains outside RC.
+6. Resolve the connector account/team access discrepancy described below before relying on MCP for project management. Provider analytics implementation remains outside RC.
+
+## Connector verification after plugin load
+
+The installed Vercel connector tools became available and both read-only calls completed without tool errors. Documentation search returned official Vercel documentation. However, connector list_teams returned an empty team list, while the separately authenticated CLI had verified the deployment team above. Therefore documentation access passes, but connector access to the intended team is not verified. The cause could be account or authorization scope and has not been established. No connector mutation or redeployment was attempted. This supersedes the earlier pending-tool-reload status; CLI deployment evidence remains valid.
 
 See [RC1 release review](mvp-1.1-release-review.md) and [Vercel readiness](vercel-production-readiness.md). RC2 is ready for protected Preview review; public launch remains on hold.
