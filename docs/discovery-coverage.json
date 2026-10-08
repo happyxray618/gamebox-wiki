@@ -1,0 +1,3050 @@
+{
+  "datasetSize": 100,
+  "model": "semantic-dna-1.0",
+  "definitions": {
+    "sparse": "0–3 games including unused canonical values",
+    "overrepresented": ">=30 of 100 games",
+    "goodEdge": "rounded similarity >=50; symmetric undirected graph",
+    "isolated": "best displayed similarity <35 or no neighbor"
+  },
+  "frequencies": {
+    "experience": [
+      {
+        "value": "Systemic creativity",
+        "count": 2
+      },
+      {
+        "value": "Arcade flow",
+        "count": 5
+      },
+      {
+        "value": "Immersive simulation",
+        "count": 10
+      },
+      {
+        "value": "Contemplative",
+        "count": 11
+      },
+      {
+        "value": "Strategic planning",
+        "count": 13
+      },
+      {
+        "value": "Experimental",
+        "count": 14
+      },
+      {
+        "value": "Mastery challenge",
+        "count": 18
+      },
+      {
+        "value": "Companion journey",
+        "count": 20
+      },
+      {
+        "value": "Discovery-led",
+        "count": 26
+      },
+      {
+        "value": "Player agency",
+        "count": 28
+      },
+      {
+        "value": "Survival tension",
+        "count": 29
+      },
+      {
+        "value": "Role immersion",
+        "count": 38
+      },
+      {
+        "value": "Narrative-driven",
+        "count": 50
+      }
+    ],
+    "genre": [
+      {
+        "value": "Dungeon Crawler",
+        "count": 1
+      },
+      {
+        "value": "Roguelike",
+        "count": 1
+      },
+      {
+        "value": "Sci-Fi",
+        "count": 1
+      },
+      {
+        "value": "Simulation",
+        "count": 1
+      },
+      {
+        "value": "Exploration",
+        "count": 2
+      },
+      {
+        "value": "Arcade",
+        "count": 3
+      },
+      {
+        "value": "Metroidvania",
+        "count": 4
+      },
+      {
+        "value": "Puzzle",
+        "count": 4
+      },
+      {
+        "value": "Action RPG",
+        "count": 5
+      },
+      {
+        "value": "Shooter",
+        "count": 5
+      },
+      {
+        "value": "Platformer",
+        "count": 6
+      },
+      {
+        "value": "Immersive Sim",
+        "count": 7
+      },
+      {
+        "value": "Action Adventure",
+        "count": 8
+      },
+      {
+        "value": "Stealth",
+        "count": 8
+      },
+      {
+        "value": "Survival Horror",
+        "count": 15
+      },
+      {
+        "value": "Adventure",
+        "count": 18
+      },
+      {
+        "value": "Horror",
+        "count": 18
+      },
+      {
+        "value": "Action",
+        "count": 28
+      },
+      {
+        "value": "RPG",
+        "count": 38
+      }
+    ],
+    "mood": [
+      {
+        "value": "Brutal",
+        "count": 1
+      },
+      {
+        "value": "Conspiratorial",
+        "count": 1
+      },
+      {
+        "value": "Cozy",
+        "count": 1
+      },
+      {
+        "value": "Disturbing",
+        "count": 1
+      },
+      {
+        "value": "Dreamlike",
+        "count": 1
+      },
+      {
+        "value": "Haunting",
+        "count": 1
+      },
+      {
+        "value": "Nostalgic",
+        "count": 1
+      },
+      {
+        "value": "Oppressive",
+        "count": 1
+      },
+      {
+        "value": "Paranoid",
+        "count": 1
+      },
+      {
+        "value": "Political",
+        "count": 1
+      },
+      {
+        "value": "Serious",
+        "count": 1
+      },
+      {
+        "value": "Surreal",
+        "count": 1
+      },
+      {
+        "value": "Terrifying",
+        "count": 1
+      },
+      {
+        "value": "Bleak",
+        "count": 2
+      },
+      {
+        "value": "Claustrophobic",
+        "count": 3
+      },
+      {
+        "value": "Psychological",
+        "count": 3
+      },
+      {
+        "value": "Energetic",
+        "count": 4
+      },
+      {
+        "value": "Quiet",
+        "count": 4
+      },
+      {
+        "value": "Isolation",
+        "count": 5
+      },
+      {
+        "value": "Stylish",
+        "count": 5
+      },
+      {
+        "value": "Playful",
+        "count": 6
+      },
+      {
+        "value": "Melancholic",
+        "count": 7
+      },
+      {
+        "value": "Cinematic",
+        "count": 8
+      },
+      {
+        "value": "Tense",
+        "count": 13
+      },
+      {
+        "value": "Hopeful",
+        "count": 14
+      },
+      {
+        "value": "Unsettling",
+        "count": 14
+      },
+      {
+        "value": "Atmospheric",
+        "count": 17
+      },
+      {
+        "value": "Mysterious",
+        "count": 18
+      },
+      {
+        "value": "Dark",
+        "count": 22
+      },
+      {
+        "value": "Epic",
+        "count": 29
+      },
+      {
+        "value": "Thoughtful",
+        "count": 33
+      }
+    ],
+    "gameplay": [
+      {
+        "value": "Boss Battles",
+        "count": 1
+      },
+      {
+        "value": "Climbing",
+        "count": 1
+      },
+      {
+        "value": "Companion",
+        "count": 1
+      },
+      {
+        "value": "Farming",
+        "count": 1
+      },
+      {
+        "value": "Replayability",
+        "count": 1
+      },
+      {
+        "value": "Dungeon Crawling",
+        "count": 2
+      },
+      {
+        "value": "Investigation",
+        "count": 2
+      },
+      {
+        "value": "Life Simulation",
+        "count": 2
+      },
+      {
+        "value": "Reflexes",
+        "count": 3
+      },
+      {
+        "value": "Score Attack",
+        "count": 3
+      },
+      {
+        "value": "Resource Management",
+        "count": 4
+      },
+      {
+        "value": "Story",
+        "count": 5
+      },
+      {
+        "value": "Choices",
+        "count": 7
+      },
+      {
+        "value": "Infiltration",
+        "count": 7
+      },
+      {
+        "value": "Platforming",
+        "count": 8
+      },
+      {
+        "value": "Stealth",
+        "count": 10
+      },
+      {
+        "value": "Discovery",
+        "count": 14
+      },
+      {
+        "value": "Survival",
+        "count": 15
+      },
+      {
+        "value": "Role Playing",
+        "count": 29
+      },
+      {
+        "value": "Puzzle",
+        "count": 30
+      },
+      {
+        "value": "Character Building",
+        "count": 33
+      },
+      {
+        "value": "Combat",
+        "count": 34
+      },
+      {
+        "value": "Exploration",
+        "count": 89
+      }
+    ],
+    "difficulty": [
+      {
+        "value": "Easy",
+        "count": 1
+      },
+      {
+        "value": "Very Hard",
+        "count": 2
+      },
+      {
+        "value": "Hard",
+        "count": 27
+      },
+      {
+        "value": "Medium",
+        "count": 70
+      }
+    ],
+    "era": [
+      {
+        "value": "Before 1990",
+        "count": 0
+      },
+      {
+        "value": "2020s",
+        "count": 2
+      },
+      {
+        "value": "2010s",
+        "count": 24
+      },
+      {
+        "value": "1990s",
+        "count": 29
+      },
+      {
+        "value": "2000s",
+        "count": 45
+      }
+    ],
+    "pacing": [
+      {
+        "value": "Fast",
+        "count": 14
+      },
+      {
+        "value": "Balanced",
+        "count": 36
+      },
+      {
+        "value": "Slow",
+        "count": 50
+      }
+    ],
+    "perspective": [
+      {
+        "value": "Fixed-camera",
+        "count": 5
+      },
+      {
+        "value": "Side-view",
+        "count": 6
+      },
+      {
+        "value": "Top-down",
+        "count": 7
+      },
+      {
+        "value": "Isometric",
+        "count": 8
+      },
+      {
+        "value": "First-person",
+        "count": 36
+      },
+      {
+        "value": "Third-person",
+        "count": 52
+      }
+    ],
+    "structure": [
+      {
+        "value": "Sandbox",
+        "count": 1
+      },
+      {
+        "value": "Run-based",
+        "count": 2
+      },
+      {
+        "value": "Mission-based",
+        "count": 9
+      },
+      {
+        "value": "Hub-based",
+        "count": 13
+      },
+      {
+        "value": "Interconnected",
+        "count": 20
+      },
+      {
+        "value": "Open world",
+        "count": 20
+      },
+      {
+        "value": "Linear",
+        "count": 35
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "slug": "silent-hill-2",
+      "title": "Silent Hill 2",
+      "goodNeighbors": [
+        "soma",
+        "silent-hill",
+        "silent-hill-3",
+        "signalis",
+        "dino-crisis",
+        "dead-space",
+        "amnesia-the-dark-descent",
+        "eternal-darkness-sanity-s-requiem",
+        "alien-isolation",
+        "resident-evil",
+        "fatal-frame-2",
+        "silent-hill-4-the-room"
+      ],
+      "best": {
+        "slug": "soma",
+        "score": 72.2461631917514,
+        "displayed": 72,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "silent-hill-3",
+      "title": "Silent Hill 3",
+      "goodNeighbors": [
+        "dead-space",
+        "amnesia-the-dark-descent",
+        "silent-hill-2",
+        "silent-hill",
+        "eternal-darkness-sanity-s-requiem",
+        "soma",
+        "resident-evil-4",
+        "rule-of-rose",
+        "fatal-frame-2",
+        "silent-hill-4-the-room",
+        "the-suffering",
+        "signalis"
+      ],
+      "best": {
+        "slug": "dead-space",
+        "score": 82.99636667932249,
+        "displayed": 83,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "rule-of-rose"
+    },
+    {
+      "slug": "resident-evil-2",
+      "title": "Resident Evil 2",
+      "goodNeighbors": [
+        "resident-evil",
+        "dino-crisis"
+      ],
+      "best": {
+        "slug": "resident-evil",
+        "score": 69.05095683444648,
+        "displayed": 69,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "shadow-tower"
+    },
+    {
+      "slug": "fatal-frame-2",
+      "title": "Fatal Frame II: Crimson Butterfly",
+      "goodNeighbors": [
+        "silent-hill",
+        "amnesia-the-dark-descent",
+        "dead-space",
+        "signalis",
+        "silent-hill-2",
+        "silent-hill-3",
+        "dino-crisis",
+        "alien-isolation",
+        "silent-hill-4-the-room",
+        "eternal-darkness-sanity-s-requiem"
+      ],
+      "best": {
+        "slug": "silent-hill",
+        "score": 69.7600746957148,
+        "displayed": 70,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "rule-of-rose"
+    },
+    {
+      "slug": "dark-souls",
+      "title": "Dark Souls",
+      "goodNeighbors": [
+        "demons-souls",
+        "castlevania-symphony-of-the-night",
+        "vagrant-story",
+        "hollow-knight",
+        "super-metroid"
+      ],
+      "best": {
+        "slug": "demons-souls",
+        "score": 84.85549243123985,
+        "displayed": 85,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "vagrant-story"
+    },
+    {
+      "slug": "demons-souls",
+      "title": "Demon's Souls",
+      "goodNeighbors": [
+        "dark-souls"
+      ],
+      "best": {
+        "slug": "dark-souls",
+        "score": 84.85549243123985,
+        "displayed": 85,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "vagrant-story",
+      "title": "Vagrant Story",
+      "goodNeighbors": [
+        "dark-souls"
+      ],
+      "best": {
+        "slug": "dark-souls",
+        "score": 51.879080537185,
+        "displayed": 52,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "shadow-tower"
+    },
+    {
+      "slug": "shadow-tower",
+      "title": "Shadow Tower",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "system-shock-2",
+        "score": 44.63559395254734,
+        "displayed": 45,
+        "confidence": "PARTIAL MATCH"
+      },
+      "hiddenGem": "vagrant-story"
+    },
+    {
+      "slug": "deus-ex",
+      "title": "Deus Ex",
+      "goodNeighbors": [
+        "thief-2"
+      ],
+      "best": {
+        "slug": "thief-2",
+        "score": 52.77955757691161,
+        "displayed": 53,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "prey-2017"
+    },
+    {
+      "slug": "system-shock-2",
+      "title": "System Shock 2",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "shadow-tower",
+        "score": 44.63559395254734,
+        "displayed": 45,
+        "confidence": "PARTIAL MATCH"
+      },
+      "hiddenGem": "prey-2017"
+    },
+    {
+      "slug": "thief-2",
+      "title": "Thief II: The Metal Age",
+      "goodNeighbors": [
+        "dishonored",
+        "dishonored-2",
+        "hitman-blood-money",
+        "deus-ex"
+      ],
+      "best": {
+        "slug": "dishonored",
+        "score": 69.06458171698604,
+        "displayed": 69,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "deus-ex"
+    },
+    {
+      "slug": "prey-2017",
+      "title": "Prey",
+      "goodNeighbors": [
+        "arx-fatalis"
+      ],
+      "best": {
+        "slug": "arx-fatalis",
+        "score": 54.13547341561339,
+        "displayed": 54,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "system-shock-2"
+    },
+    {
+      "slug": "killer7",
+      "title": "Killer7",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "silent-hill-4-the-room",
+        "score": 32.2796919106397,
+        "displayed": 32,
+        "confidence": "LIMITED MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "rule-of-rose",
+      "title": "Rule of Rose",
+      "goodNeighbors": [
+        "silent-hill-3"
+      ],
+      "best": {
+        "slug": "silent-hill-3",
+        "score": 55.939207566556995,
+        "displayed": 56,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "the-suffering"
+    },
+    {
+      "slug": "the-suffering",
+      "title": "The Suffering",
+      "goodNeighbors": [
+        "silent-hill-3",
+        "half-life-2",
+        "dead-space",
+        "half-life"
+      ],
+      "best": {
+        "slug": "silent-hill-3",
+        "score": 51.81750048623637,
+        "displayed": 52,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "rule-of-rose"
+    },
+    {
+      "slug": "enslaved-odyssey-to-the-west",
+      "title": "Enslaved: Odyssey to the West",
+      "goodNeighbors": [
+        "bioshock-infinite"
+      ],
+      "best": {
+        "slug": "bioshock-infinite",
+        "score": 53.12724116883687,
+        "displayed": 53,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "final-fantasy-x"
+    },
+    {
+      "slug": "shadow-of-the-colossus",
+      "title": "Shadow of the Colossus",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "journey",
+        "score": 40.90292073577247,
+        "displayed": 41,
+        "confidence": "PARTIAL MATCH"
+      },
+      "hiddenGem": "ico"
+    },
+    {
+      "slug": "metal-gear-solid-2",
+      "title": "Metal Gear Solid 2: Sons of Liberty",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "metal-gear-solid",
+        "score": 45.46949827032398,
+        "displayed": 45,
+        "confidence": "PARTIAL MATCH"
+      },
+      "hiddenGem": "metal-gear-solid-3-snake-eater"
+    },
+    {
+      "slug": "ico",
+      "title": "Ico",
+      "goodNeighbors": [
+        "journey"
+      ],
+      "best": {
+        "slug": "journey",
+        "score": 51.78589017524984,
+        "displayed": 52,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "shenmue",
+      "title": "Shenmue",
+      "goodNeighbors": [
+        "disco-elysium"
+      ],
+      "best": {
+        "slug": "disco-elysium",
+        "score": 49.690145570962684,
+        "displayed": 50,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "portal",
+      "title": "Portal",
+      "goodNeighbors": [
+        "portal-2",
+        "return-of-the-obra-dinn"
+      ],
+      "best": {
+        "slug": "portal-2",
+        "score": 77.17973934132533,
+        "displayed": 77,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "return-of-the-obra-dinn"
+    },
+    {
+      "slug": "portal-2",
+      "title": "Portal 2",
+      "goodNeighbors": [
+        "portal",
+        "return-of-the-obra-dinn"
+      ],
+      "best": {
+        "slug": "portal",
+        "score": 77.17973934132533,
+        "displayed": 77,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "return-of-the-obra-dinn"
+    },
+    {
+      "slug": "half-life",
+      "title": "Half-Life",
+      "goodNeighbors": [
+        "half-life-2",
+        "metro-2033",
+        "bioshock-infinite",
+        "s-t-a-l-k-e-r-shadow-of-chernobyl",
+        "the-suffering"
+      ],
+      "best": {
+        "slug": "half-life-2",
+        "score": 98.29462422595901,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "half-life-2",
+      "title": "Half-Life 2",
+      "goodNeighbors": [
+        "half-life",
+        "metro-2033",
+        "bioshock-infinite",
+        "s-t-a-l-k-e-r-shadow-of-chernobyl",
+        "the-suffering"
+      ],
+      "best": {
+        "slug": "half-life",
+        "score": 98.29462422595901,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "bioshock",
+      "title": "BioShock",
+      "goodNeighbors": [
+        "bioshock-2",
+        "arx-fatalis",
+        "metal-gear-solid-3-snake-eater"
+      ],
+      "best": {
+        "slug": "bioshock-2",
+        "score": 98.15268454386026,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "arx-fatalis"
+    },
+    {
+      "slug": "bioshock-2",
+      "title": "BioShock 2",
+      "goodNeighbors": [
+        "bioshock",
+        "arx-fatalis"
+      ],
+      "best": {
+        "slug": "bioshock",
+        "score": 98.15268454386026,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "arx-fatalis"
+    },
+    {
+      "slug": "bioshock-infinite",
+      "title": "BioShock Infinite",
+      "goodNeighbors": [
+        "half-life-2",
+        "half-life",
+        "metro-2033",
+        "enslaved-odyssey-to-the-west",
+        "s-t-a-l-k-e-r-shadow-of-chernobyl"
+      ],
+      "best": {
+        "slug": "half-life-2",
+        "score": 77.93857246399841,
+        "displayed": 78,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "enslaved-odyssey-to-the-west"
+    },
+    {
+      "slug": "dishonored",
+      "title": "Dishonored",
+      "goodNeighbors": [
+        "dishonored-2",
+        "hitman-blood-money",
+        "tom-clancy-s-splinter-cell-chaos-theory",
+        "thief-2",
+        "metal-gear-solid",
+        "metal-gear-solid-3-snake-eater"
+      ],
+      "best": {
+        "slug": "dishonored-2",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "thief-2"
+    },
+    {
+      "slug": "dishonored-2",
+      "title": "Dishonored 2",
+      "goodNeighbors": [
+        "dishonored",
+        "hitman-blood-money",
+        "tom-clancy-s-splinter-cell-chaos-theory",
+        "thief-2",
+        "metal-gear-solid",
+        "metal-gear-solid-3-snake-eater"
+      ],
+      "best": {
+        "slug": "dishonored",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "thief-2"
+    },
+    {
+      "slug": "fallout",
+      "title": "Fallout",
+      "goodNeighbors": [
+        "fallout-2",
+        "baldur-s-gate",
+        "fallout-new-vegas",
+        "dragon-age-origins",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "the-witcher-3-wild-hunt",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "suikoden-ii",
+        "planescape-torment",
+        "vampire-the-masquerade-bloodlines",
+        "chrono-trigger",
+        "skies-of-arcadia",
+        "panzer-dragoon-saga",
+        "xenogears",
+        "parasite-eve",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "earthbound"
+      ],
+      "best": {
+        "slug": "fallout-2",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "baldur-s-gate"
+    },
+    {
+      "slug": "fallout-2",
+      "title": "Fallout 2",
+      "goodNeighbors": [
+        "fallout",
+        "baldur-s-gate",
+        "fallout-new-vegas",
+        "dragon-age-origins",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "the-witcher-3-wild-hunt",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "suikoden-ii",
+        "planescape-torment",
+        "vampire-the-masquerade-bloodlines",
+        "chrono-trigger",
+        "skies-of-arcadia",
+        "panzer-dragoon-saga",
+        "xenogears",
+        "parasite-eve",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "earthbound"
+      ],
+      "best": {
+        "slug": "fallout",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "baldur-s-gate"
+    },
+    {
+      "slug": "fallout-new-vegas",
+      "title": "Fallout: New Vegas",
+      "goodNeighbors": [
+        "the-elder-scrolls-iii-morrowind",
+        "gothic",
+        "the-witcher-3-wild-hunt",
+        "the-elder-scrolls-v-skyrim",
+        "the-elder-scrolls-iv-oblivion",
+        "fallout",
+        "fallout-2",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "skies-of-arcadia",
+        "panzer-dragoon-saga",
+        "chrono-trigger",
+        "dragon-age-origins",
+        "planescape-torment",
+        "xenogears",
+        "parasite-eve",
+        "mass-effect-2",
+        "suikoden-ii",
+        "final-fantasy-x",
+        "undertale",
+        "mass-effect",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "paper-mario-the-thousand-year-door",
+        "final-fantasy-vi",
+        "final-fantasy-ix",
+        "final-fantasy-vii",
+        "earthbound"
+      ],
+      "best": {
+        "slug": "the-elder-scrolls-iii-morrowind",
+        "score": 86.22077089841517,
+        "displayed": 86,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "gothic"
+    },
+    {
+      "slug": "baldur-s-gate",
+      "title": "Baldur's Gate",
+      "goodNeighbors": [
+        "baldur-s-gate-ii-shadows-of-amn",
+        "fallout",
+        "fallout-2",
+        "dragon-age-origins",
+        "chrono-trigger",
+        "skies-of-arcadia",
+        "fallout-new-vegas",
+        "suikoden-ii",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "the-witcher-3-wild-hunt",
+        "final-fantasy-x",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "final-fantasy-ix",
+        "paper-mario-the-thousand-year-door",
+        "planescape-torment",
+        "panzer-dragoon-saga",
+        "xenogears",
+        "parasite-eve",
+        "vampire-the-masquerade-bloodlines"
+      ],
+      "best": {
+        "slug": "baldur-s-gate-ii-shadows-of-amn",
+        "score": 86.00238922046839,
+        "displayed": 86,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fallout"
+    },
+    {
+      "slug": "baldur-s-gate-ii-shadows-of-amn",
+      "title": "Baldur's Gate II: Shadows of Amn",
+      "goodNeighbors": [
+        "dragon-age-origins",
+        "baldur-s-gate",
+        "suikoden-ii",
+        "paper-mario-the-thousand-year-door",
+        "planescape-torment",
+        "fallout",
+        "fallout-2",
+        "vampire-the-masquerade-bloodlines",
+        "mass-effect",
+        "final-fantasy-x",
+        "final-fantasy-ix",
+        "skies-of-arcadia",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "chrono-trigger",
+        "panzer-dragoon-saga",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout-new-vegas",
+        "xenogears",
+        "parasite-eve"
+      ],
+      "best": {
+        "slug": "dragon-age-origins",
+        "score": 90.20948415921865,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "baldur-s-gate"
+    },
+    {
+      "slug": "planescape-torment",
+      "title": "Planescape: Torment",
+      "goodNeighbors": [
+        "vampire-the-masquerade-bloodlines",
+        "dragon-age-origins",
+        "suikoden-ii",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "mass-effect",
+        "paper-mario-the-thousand-year-door",
+        "fallout",
+        "fallout-2",
+        "panzer-dragoon-saga",
+        "the-witcher-3-wild-hunt",
+        "fallout-new-vegas",
+        "xenogears",
+        "parasite-eve",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "baldur-s-gate",
+        "final-fantasy-vi",
+        "the-elder-scrolls-iv-oblivion",
+        "final-fantasy-vii",
+        "the-elder-scrolls-v-skyrim",
+        "earthbound",
+        "chrono-trigger",
+        "final-fantasy-x",
+        "undertale",
+        "mass-effect-2",
+        "final-fantasy-ix",
+        "disco-elysium"
+      ],
+      "best": {
+        "slug": "vampire-the-masquerade-bloodlines",
+        "score": 82.20485268969061,
+        "displayed": 82,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "disco-elysium"
+    },
+    {
+      "slug": "disco-elysium",
+      "title": "Disco Elysium",
+      "goodNeighbors": [
+        "planescape-torment",
+        "shenmue"
+      ],
+      "best": {
+        "slug": "planescape-torment",
+        "score": 50.58669149232908,
+        "displayed": 51,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "shenmue"
+    },
+    {
+      "slug": "the-elder-scrolls-iii-morrowind",
+      "title": "The Elder Scrolls III: Morrowind",
+      "goodNeighbors": [
+        "gothic",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "fallout-new-vegas",
+        "the-witcher-3-wild-hunt",
+        "skies-of-arcadia",
+        "fallout",
+        "fallout-2",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "dragon-age-origins",
+        "chrono-trigger",
+        "panzer-dragoon-saga",
+        "planescape-torment",
+        "xenogears",
+        "parasite-eve",
+        "final-fantasy-x",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "mass-effect",
+        "suikoden-ii",
+        "paper-mario-the-thousand-year-door",
+        "final-fantasy-ix",
+        "mass-effect-2",
+        "undertale",
+        "final-fantasy-vi",
+        "final-fantasy-vii"
+      ],
+      "best": {
+        "slug": "gothic",
+        "score": 98.1595651163628,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-iv-oblivion"
+    },
+    {
+      "slug": "the-elder-scrolls-iv-oblivion",
+      "title": "The Elder Scrolls IV: Oblivion",
+      "goodNeighbors": [
+        "the-elder-scrolls-v-skyrim",
+        "the-elder-scrolls-iii-morrowind",
+        "gothic",
+        "fallout-new-vegas",
+        "the-witcher-3-wild-hunt",
+        "skies-of-arcadia",
+        "fallout",
+        "fallout-2",
+        "chrono-trigger",
+        "vampire-the-masquerade-bloodlines",
+        "final-fantasy-x",
+        "baldur-s-gate",
+        "mass-effect",
+        "paper-mario-the-thousand-year-door",
+        "final-fantasy-ix",
+        "dragon-age-origins",
+        "mass-effect-2",
+        "undertale",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "earthbound",
+        "panzer-dragoon-saga",
+        "planescape-torment",
+        "xenogears",
+        "parasite-eve"
+      ],
+      "best": {
+        "slug": "the-elder-scrolls-v-skyrim",
+        "score": 98.00790795633274,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-iii-morrowind"
+    },
+    {
+      "slug": "the-elder-scrolls-v-skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "goodNeighbors": [
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-iii-morrowind",
+        "gothic",
+        "fallout-new-vegas",
+        "the-witcher-3-wild-hunt",
+        "skies-of-arcadia",
+        "fallout",
+        "fallout-2",
+        "chrono-trigger",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "mass-effect-2",
+        "final-fantasy-x",
+        "undertale",
+        "mass-effect",
+        "paper-mario-the-thousand-year-door",
+        "final-fantasy-vi",
+        "final-fantasy-ix",
+        "final-fantasy-vii",
+        "dragon-age-origins",
+        "earthbound",
+        "panzer-dragoon-saga",
+        "planescape-torment",
+        "xenogears",
+        "parasite-eve"
+      ],
+      "best": {
+        "slug": "the-elder-scrolls-iv-oblivion",
+        "score": 98.00790795633274,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-iii-morrowind"
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "goodNeighbors": [
+        "fallout-new-vegas",
+        "the-elder-scrolls-v-skyrim",
+        "the-elder-scrolls-iv-oblivion",
+        "vampire-the-masquerade-bloodlines",
+        "gothic",
+        "chrono-trigger",
+        "the-elder-scrolls-iii-morrowind",
+        "skies-of-arcadia",
+        "fallout",
+        "fallout-2",
+        "mass-effect-2",
+        "panzer-dragoon-saga",
+        "final-fantasy-x",
+        "mass-effect",
+        "paper-mario-the-thousand-year-door",
+        "undertale",
+        "planescape-torment",
+        "final-fantasy-vi",
+        "final-fantasy-ix",
+        "final-fantasy-vii",
+        "earthbound",
+        "xenogears",
+        "baldur-s-gate",
+        "parasite-eve",
+        "dragon-age-origins",
+        "suikoden-ii"
+      ],
+      "best": {
+        "slug": "fallout-new-vegas",
+        "score": 83.65139164089192,
+        "displayed": 84,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-v-skyrim"
+    },
+    {
+      "slug": "mass-effect",
+      "title": "Mass Effect",
+      "goodNeighbors": [
+        "paper-mario-the-thousand-year-door",
+        "mass-effect-2",
+        "vampire-the-masquerade-bloodlines",
+        "dragon-age-origins",
+        "final-fantasy-x",
+        "the-witcher-3-wild-hunt",
+        "final-fantasy-ix",
+        "planescape-torment",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "chrono-trigger",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "undertale",
+        "skies-of-arcadia",
+        "suikoden-ii",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "gothic",
+        "panzer-dragoon-saga",
+        "fallout-new-vegas",
+        "the-elder-scrolls-iii-morrowind",
+        "earthbound",
+        "xenogears"
+      ],
+      "best": {
+        "slug": "paper-mario-the-thousand-year-door",
+        "score": 84.03877329587182,
+        "displayed": 84,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "mass-effect-2"
+    },
+    {
+      "slug": "mass-effect-2",
+      "title": "Mass Effect 2",
+      "goodNeighbors": [
+        "mass-effect",
+        "the-witcher-3-wild-hunt",
+        "final-fantasy-x",
+        "paper-mario-the-thousand-year-door",
+        "final-fantasy-vi",
+        "final-fantasy-ix",
+        "final-fantasy-vii",
+        "chrono-trigger",
+        "undertale",
+        "vampire-the-masquerade-bloodlines",
+        "skies-of-arcadia",
+        "the-elder-scrolls-v-skyrim",
+        "dragon-age-origins",
+        "the-elder-scrolls-iv-oblivion",
+        "fallout-new-vegas",
+        "panzer-dragoon-saga",
+        "gothic",
+        "earthbound",
+        "planescape-torment",
+        "xenogears",
+        "the-elder-scrolls-iii-morrowind"
+      ],
+      "best": {
+        "slug": "mass-effect",
+        "score": 83.414768935997,
+        "displayed": 83,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-witcher-3-wild-hunt"
+    },
+    {
+      "slug": "dragon-age-origins",
+      "title": "Dragon Age: Origins",
+      "goodNeighbors": [
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "fallout",
+        "fallout-2",
+        "suikoden-ii",
+        "mass-effect",
+        "planescape-torment",
+        "paper-mario-the-thousand-year-door",
+        "fallout-new-vegas",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "final-fantasy-x",
+        "skies-of-arcadia",
+        "final-fantasy-ix",
+        "mass-effect-2",
+        "the-elder-scrolls-iv-oblivion",
+        "the-witcher-3-wild-hunt",
+        "panzer-dragoon-saga",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "the-elder-scrolls-v-skyrim",
+        "chrono-trigger",
+        "xenogears",
+        "parasite-eve"
+      ],
+      "best": {
+        "slug": "baldur-s-gate-ii-shadows-of-amn",
+        "score": 90.20948415921865,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "vampire-the-masquerade-bloodlines"
+    },
+    {
+      "slug": "vampire-the-masquerade-bloodlines",
+      "title": "Vampire: The Masquerade – Bloodlines",
+      "goodNeighbors": [
+        "planescape-torment",
+        "the-witcher-3-wild-hunt",
+        "dragon-age-origins",
+        "mass-effect",
+        "fallout-new-vegas",
+        "paper-mario-the-thousand-year-door",
+        "suikoden-ii",
+        "panzer-dragoon-saga",
+        "the-elder-scrolls-iii-morrowind",
+        "gothic",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "the-elder-scrolls-iv-oblivion",
+        "xenogears",
+        "the-elder-scrolls-v-skyrim",
+        "parasite-eve",
+        "fallout",
+        "fallout-2",
+        "final-fantasy-x",
+        "mass-effect-2",
+        "final-fantasy-ix",
+        "undertale",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "earthbound",
+        "chrono-trigger",
+        "skies-of-arcadia",
+        "baldur-s-gate"
+      ],
+      "best": {
+        "slug": "planescape-torment",
+        "score": 82.20485268969061,
+        "displayed": 82,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-witcher-3-wild-hunt"
+    },
+    {
+      "slug": "arx-fatalis",
+      "title": "Arx Fatalis",
+      "goodNeighbors": [
+        "bioshock",
+        "bioshock-2",
+        "prey-2017"
+      ],
+      "best": {
+        "slug": "bioshock",
+        "score": 59.79452799335686,
+        "displayed": 60,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "thief-2"
+    },
+    {
+      "slug": "gothic",
+      "title": "Gothic",
+      "goodNeighbors": [
+        "the-elder-scrolls-iii-morrowind",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "fallout-new-vegas",
+        "the-witcher-3-wild-hunt",
+        "skies-of-arcadia",
+        "fallout",
+        "fallout-2",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "dragon-age-origins",
+        "panzer-dragoon-saga",
+        "chrono-trigger",
+        "planescape-torment",
+        "xenogears",
+        "final-fantasy-x",
+        "parasite-eve",
+        "mass-effect",
+        "paper-mario-the-thousand-year-door",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "suikoden-ii",
+        "mass-effect-2",
+        "final-fantasy-ix",
+        "undertale",
+        "final-fantasy-vi",
+        "final-fantasy-vii"
+      ],
+      "best": {
+        "slug": "the-elder-scrolls-iii-morrowind",
+        "score": 98.1595651163628,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-iv-oblivion"
+    },
+    {
+      "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
+      "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+      "goodNeighbors": [
+        "metro-2033",
+        "half-life-2",
+        "half-life",
+        "bioshock-infinite"
+      ],
+      "best": {
+        "slug": "metro-2033",
+        "score": 65.85813727928557,
+        "displayed": 66,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "metro-2033",
+      "title": "Metro 2033",
+      "goodNeighbors": [
+        "half-life-2",
+        "half-life",
+        "bioshock-infinite",
+        "s-t-a-l-k-e-r-shadow-of-chernobyl"
+      ],
+      "best": {
+        "slug": "half-life-2",
+        "score": 91.84806480385518,
+        "displayed": 92,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "dead-space",
+      "title": "Dead Space",
+      "goodNeighbors": [
+        "amnesia-the-dark-descent",
+        "silent-hill-3",
+        "silent-hill",
+        "eternal-darkness-sanity-s-requiem",
+        "soma",
+        "resident-evil-4",
+        "silent-hill-4-the-room",
+        "signalis",
+        "dino-crisis",
+        "alien-isolation",
+        "resident-evil",
+        "silent-hill-2",
+        "fatal-frame-2",
+        "the-suffering"
+      ],
+      "best": {
+        "slug": "amnesia-the-dark-descent",
+        "score": 89.80662816884457,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-suffering"
+    },
+    {
+      "slug": "alien-isolation",
+      "title": "Alien: Isolation",
+      "goodNeighbors": [
+        "silent-hill",
+        "dino-crisis",
+        "resident-evil",
+        "amnesia-the-dark-descent",
+        "signalis",
+        "soma",
+        "silent-hill-4-the-room",
+        "eternal-darkness-sanity-s-requiem",
+        "dead-space",
+        "silent-hill-2",
+        "resident-evil-4",
+        "fatal-frame-2"
+      ],
+      "best": {
+        "slug": "silent-hill",
+        "score": 73.4297507767606,
+        "displayed": 73,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "amnesia-the-dark-descent",
+      "title": "Amnesia: The Dark Descent",
+      "goodNeighbors": [
+        "dead-space",
+        "soma",
+        "silent-hill",
+        "eternal-darkness-sanity-s-requiem",
+        "silent-hill-4-the-room",
+        "silent-hill-3",
+        "signalis",
+        "resident-evil-4",
+        "alien-isolation",
+        "dino-crisis",
+        "resident-evil",
+        "fatal-frame-2",
+        "silent-hill-2"
+      ],
+      "best": {
+        "slug": "dead-space",
+        "score": 89.80662816884457,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-suffering"
+    },
+    {
+      "slug": "soma",
+      "title": "SOMA",
+      "goodNeighbors": [
+        "amnesia-the-dark-descent",
+        "dead-space",
+        "eternal-darkness-sanity-s-requiem",
+        "silent-hill-2",
+        "silent-hill",
+        "silent-hill-4-the-room",
+        "resident-evil-4",
+        "alien-isolation",
+        "signalis",
+        "silent-hill-3",
+        "dino-crisis",
+        "resident-evil"
+      ],
+      "best": {
+        "slug": "amnesia-the-dark-descent",
+        "score": 86.57651576645166,
+        "displayed": 87,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "signalis",
+      "title": "Signalis",
+      "goodNeighbors": [
+        "eternal-darkness-sanity-s-requiem",
+        "silent-hill-4-the-room",
+        "silent-hill",
+        "amnesia-the-dark-descent",
+        "dino-crisis",
+        "alien-isolation",
+        "resident-evil",
+        "dead-space",
+        "soma",
+        "silent-hill-2",
+        "fatal-frame-2",
+        "resident-evil-4",
+        "silent-hill-3"
+      ],
+      "best": {
+        "slug": "eternal-darkness-sanity-s-requiem",
+        "score": 83.35049034917236,
+        "displayed": 83,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "resident-evil",
+      "title": "Resident Evil",
+      "goodNeighbors": [
+        "dino-crisis",
+        "silent-hill",
+        "resident-evil-2",
+        "alien-isolation",
+        "signalis",
+        "amnesia-the-dark-descent",
+        "eternal-darkness-sanity-s-requiem",
+        "soma",
+        "dead-space",
+        "silent-hill-4-the-room",
+        "silent-hill-2",
+        "resident-evil-4"
+      ],
+      "best": {
+        "slug": "dino-crisis",
+        "score": 95.62809279520202,
+        "displayed": 96,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "silent-hill-2"
+    },
+    {
+      "slug": "resident-evil-4",
+      "title": "Resident Evil 4",
+      "goodNeighbors": [
+        "dead-space",
+        "eternal-darkness-sanity-s-requiem",
+        "amnesia-the-dark-descent",
+        "soma",
+        "silent-hill",
+        "dino-crisis",
+        "silent-hill-4-the-room",
+        "silent-hill-3",
+        "alien-isolation",
+        "resident-evil",
+        "signalis"
+      ],
+      "best": {
+        "slug": "dead-space",
+        "score": 73.50591673657793,
+        "displayed": 74,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "silent-hill-2"
+    },
+    {
+      "slug": "silent-hill",
+      "title": "Silent Hill",
+      "goodNeighbors": [
+        "amnesia-the-dark-descent",
+        "dead-space",
+        "signalis",
+        "dino-crisis",
+        "eternal-darkness-sanity-s-requiem",
+        "resident-evil",
+        "alien-isolation",
+        "silent-hill-4-the-room",
+        "silent-hill-2",
+        "soma",
+        "fatal-frame-2",
+        "silent-hill-3",
+        "resident-evil-4"
+      ],
+      "best": {
+        "slug": "amnesia-the-dark-descent",
+        "score": 84.36330754323322,
+        "displayed": 84,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "silent-hill-4-the-room",
+      "title": "Silent Hill 4: The Room",
+      "goodNeighbors": [
+        "eternal-darkness-sanity-s-requiem",
+        "signalis",
+        "amnesia-the-dark-descent",
+        "silent-hill",
+        "dead-space",
+        "soma",
+        "dino-crisis",
+        "alien-isolation",
+        "resident-evil-4",
+        "resident-evil",
+        "silent-hill-2",
+        "silent-hill-3",
+        "fatal-frame-2"
+      ],
+      "best": {
+        "slug": "eternal-darkness-sanity-s-requiem",
+        "score": 87.6801848957873,
+        "displayed": 88,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "eternal-darkness-sanity-s-requiem",
+      "title": "Eternal Darkness: Sanity's Requiem",
+      "goodNeighbors": [
+        "silent-hill-4-the-room",
+        "signalis",
+        "dead-space",
+        "amnesia-the-dark-descent",
+        "soma",
+        "silent-hill",
+        "resident-evil-4",
+        "silent-hill-3",
+        "dino-crisis",
+        "alien-isolation",
+        "resident-evil",
+        "silent-hill-2",
+        "fatal-frame-2"
+      ],
+      "best": {
+        "slug": "silent-hill-4-the-room",
+        "score": 87.6801848957873,
+        "displayed": 88,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "fatal-frame-2"
+    },
+    {
+      "slug": "parasite-eve",
+      "title": "Parasite Eve",
+      "goodNeighbors": [
+        "panzer-dragoon-saga",
+        "final-fantasy-vii",
+        "xenogears",
+        "final-fantasy-ix",
+        "final-fantasy-vi",
+        "final-fantasy-x",
+        "earthbound",
+        "vampire-the-masquerade-bloodlines",
+        "suikoden-ii",
+        "planescape-torment",
+        "chrono-trigger",
+        "the-witcher-3-wild-hunt",
+        "undertale",
+        "paper-mario-the-thousand-year-door",
+        "fallout-new-vegas",
+        "fallout",
+        "fallout-2",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "baldur-s-gate",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "dragon-age-origins",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "skies-of-arcadia"
+      ],
+      "best": {
+        "slug": "panzer-dragoon-saga",
+        "score": 82.89127818392565,
+        "displayed": 83,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-vii"
+    },
+    {
+      "slug": "dino-crisis",
+      "title": "Dino Crisis",
+      "goodNeighbors": [
+        "resident-evil",
+        "silent-hill",
+        "alien-isolation",
+        "signalis",
+        "resident-evil-2",
+        "amnesia-the-dark-descent",
+        "eternal-darkness-sanity-s-requiem",
+        "dead-space",
+        "silent-hill-4-the-room",
+        "silent-hill-2",
+        "soma",
+        "resident-evil-4",
+        "fatal-frame-2"
+      ],
+      "best": {
+        "slug": "resident-evil",
+        "score": 95.62809279520202,
+        "displayed": 96,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "silent-hill-2"
+    },
+    {
+      "slug": "chrono-trigger",
+      "title": "Chrono Trigger",
+      "goodNeighbors": [
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "final-fantasy-x",
+        "final-fantasy-ix",
+        "paper-mario-the-thousand-year-door",
+        "skies-of-arcadia",
+        "the-witcher-3-wild-hunt",
+        "baldur-s-gate",
+        "earthbound",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "panzer-dragoon-saga",
+        "mass-effect",
+        "mass-effect-2",
+        "suikoden-ii",
+        "fallout-new-vegas",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout",
+        "fallout-2",
+        "undertale",
+        "parasite-eve",
+        "xenogears",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "dragon-age-origins",
+        "planescape-torment"
+      ],
+      "best": {
+        "slug": "final-fantasy-vi",
+        "score": 89.09535872704552,
+        "displayed": 89,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-vii"
+    },
+    {
+      "slug": "final-fantasy-vi",
+      "title": "Final Fantasy VI",
+      "goodNeighbors": [
+        "final-fantasy-x",
+        "final-fantasy-vii",
+        "final-fantasy-ix",
+        "chrono-trigger",
+        "paper-mario-the-thousand-year-door",
+        "earthbound",
+        "panzer-dragoon-saga",
+        "undertale",
+        "parasite-eve",
+        "xenogears",
+        "skies-of-arcadia",
+        "mass-effect",
+        "mass-effect-2",
+        "suikoden-ii",
+        "the-witcher-3-wild-hunt",
+        "baldur-s-gate",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "dragon-age-origins",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "planescape-torment",
+        "fallout-new-vegas",
+        "fallout",
+        "fallout-2",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind"
+      ],
+      "best": {
+        "slug": "final-fantasy-x",
+        "score": 92.9640936012768,
+        "displayed": 93,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-vii"
+    },
+    {
+      "slug": "final-fantasy-vii",
+      "title": "Final Fantasy VII",
+      "goodNeighbors": [
+        "final-fantasy-ix",
+        "final-fantasy-vi",
+        "final-fantasy-x",
+        "chrono-trigger",
+        "paper-mario-the-thousand-year-door",
+        "parasite-eve",
+        "panzer-dragoon-saga",
+        "earthbound",
+        "xenogears",
+        "skies-of-arcadia",
+        "mass-effect",
+        "mass-effect-2",
+        "the-witcher-3-wild-hunt",
+        "undertale",
+        "baldur-s-gate",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "suikoden-ii",
+        "dragon-age-origins",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "planescape-torment",
+        "fallout-new-vegas",
+        "fallout",
+        "fallout-2",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind"
+      ],
+      "best": {
+        "slug": "final-fantasy-ix",
+        "score": 98.08637622885261,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-vi"
+    },
+    {
+      "slug": "final-fantasy-ix",
+      "title": "Final Fantasy IX",
+      "goodNeighbors": [
+        "final-fantasy-vii",
+        "final-fantasy-x",
+        "final-fantasy-vi",
+        "paper-mario-the-thousand-year-door",
+        "chrono-trigger",
+        "parasite-eve",
+        "panzer-dragoon-saga",
+        "earthbound",
+        "skies-of-arcadia",
+        "xenogears",
+        "mass-effect",
+        "mass-effect-2",
+        "the-witcher-3-wild-hunt",
+        "undertale",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate",
+        "dragon-age-origins",
+        "the-elder-scrolls-iv-oblivion",
+        "suikoden-ii",
+        "the-elder-scrolls-v-skyrim",
+        "planescape-torment",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout-new-vegas"
+      ],
+      "best": {
+        "slug": "final-fantasy-vii",
+        "score": 98.08637622885261,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-x"
+    },
+    {
+      "slug": "final-fantasy-x",
+      "title": "Final Fantasy X",
+      "goodNeighbors": [
+        "final-fantasy-ix",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "paper-mario-the-thousand-year-door",
+        "chrono-trigger",
+        "panzer-dragoon-saga",
+        "earthbound",
+        "skies-of-arcadia",
+        "xenogears",
+        "mass-effect",
+        "mass-effect-2",
+        "parasite-eve",
+        "the-witcher-3-wild-hunt",
+        "undertale",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "baldur-s-gate",
+        "the-elder-scrolls-iv-oblivion",
+        "dragon-age-origins",
+        "the-elder-scrolls-v-skyrim",
+        "suikoden-ii",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout-new-vegas",
+        "planescape-torment"
+      ],
+      "best": {
+        "slug": "final-fantasy-ix",
+        "score": 94.64595891892404,
+        "displayed": 95,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "final-fantasy-vi"
+    },
+    {
+      "slug": "suikoden-ii",
+      "title": "Suikoden II",
+      "goodNeighbors": [
+        "baldur-s-gate-ii-shadows-of-amn",
+        "vampire-the-masquerade-bloodlines",
+        "dragon-age-origins",
+        "planescape-torment",
+        "paper-mario-the-thousand-year-door",
+        "panzer-dragoon-saga",
+        "fallout",
+        "fallout-2",
+        "baldur-s-gate",
+        "final-fantasy-vi",
+        "earthbound",
+        "chrono-trigger",
+        "parasite-eve",
+        "xenogears",
+        "mass-effect",
+        "final-fantasy-vii",
+        "final-fantasy-x",
+        "the-witcher-3-wild-hunt",
+        "final-fantasy-ix",
+        "fallout-new-vegas",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "undertale"
+      ],
+      "best": {
+        "slug": "baldur-s-gate-ii-shadows-of-amn",
+        "score": 76.46655209368348,
+        "displayed": 76,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "vampire-the-masquerade-bloodlines"
+    },
+    {
+      "slug": "xenogears",
+      "title": "Xenogears",
+      "goodNeighbors": [
+        "earthbound",
+        "panzer-dragoon-saga",
+        "parasite-eve",
+        "final-fantasy-x",
+        "undertale",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "final-fantasy-ix",
+        "vampire-the-masquerade-bloodlines",
+        "suikoden-ii",
+        "the-witcher-3-wild-hunt",
+        "paper-mario-the-thousand-year-door",
+        "planescape-torment",
+        "chrono-trigger",
+        "gothic",
+        "fallout-new-vegas",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout",
+        "fallout-2",
+        "baldur-s-gate",
+        "dragon-age-origins",
+        "skies-of-arcadia",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "mass-effect",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "mass-effect-2"
+      ],
+      "best": {
+        "slug": "earthbound",
+        "score": 89.658964722718,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "panzer-dragoon-saga"
+    },
+    {
+      "slug": "earthbound",
+      "title": "EarthBound",
+      "goodNeighbors": [
+        "xenogears",
+        "undertale",
+        "final-fantasy-vi",
+        "panzer-dragoon-saga",
+        "final-fantasy-vii",
+        "final-fantasy-x",
+        "final-fantasy-ix",
+        "chrono-trigger",
+        "parasite-eve",
+        "suikoden-ii",
+        "the-witcher-3-wild-hunt",
+        "paper-mario-the-thousand-year-door",
+        "vampire-the-masquerade-bloodlines",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "skies-of-arcadia",
+        "planescape-torment",
+        "mass-effect",
+        "mass-effect-2",
+        "fallout-new-vegas",
+        "fallout",
+        "fallout-2"
+      ],
+      "best": {
+        "slug": "xenogears",
+        "score": 89.658964722718,
+        "displayed": 90,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "undertale"
+    },
+    {
+      "slug": "paper-mario-the-thousand-year-door",
+      "title": "Paper Mario: The Thousand-Year Door",
+      "goodNeighbors": [
+        "final-fantasy-x",
+        "mass-effect",
+        "final-fantasy-ix",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "chrono-trigger",
+        "vampire-the-masquerade-bloodlines",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "dragon-age-origins",
+        "skies-of-arcadia",
+        "suikoden-ii",
+        "mass-effect-2",
+        "panzer-dragoon-saga",
+        "the-witcher-3-wild-hunt",
+        "planescape-torment",
+        "earthbound",
+        "xenogears",
+        "baldur-s-gate",
+        "the-elder-scrolls-iv-oblivion",
+        "parasite-eve",
+        "the-elder-scrolls-v-skyrim",
+        "gothic",
+        "undertale",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout-new-vegas"
+      ],
+      "best": {
+        "slug": "final-fantasy-x",
+        "score": 87.76405485855221,
+        "displayed": 88,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "mass-effect"
+    },
+    {
+      "slug": "the-legend-of-zelda-ocarina-of-time",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "goodNeighbors": [
+        "the-legend-of-zelda-the-wind-waker",
+        "beyond-good-evil",
+        "okami",
+        "the-legend-of-zelda-majora-s-mask",
+        "prince-of-persia-the-sands-of-time"
+      ],
+      "best": {
+        "slug": "the-legend-of-zelda-the-wind-waker",
+        "score": 98.3542292994638,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "the-legend-of-zelda-majora-s-mask",
+      "title": "The Legend of Zelda: Majora's Mask",
+      "goodNeighbors": [
+        "okami",
+        "the-legend-of-zelda-the-wind-waker",
+        "the-legend-of-zelda-ocarina-of-time",
+        "beyond-good-evil",
+        "prince-of-persia-the-sands-of-time",
+        "outer-wilds"
+      ],
+      "best": {
+        "slug": "okami",
+        "score": 75.5611805162097,
+        "displayed": 76,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "outer-wilds"
+    },
+    {
+      "slug": "the-legend-of-zelda-the-wind-waker",
+      "title": "The Legend of Zelda: The Wind Waker",
+      "goodNeighbors": [
+        "the-legend-of-zelda-ocarina-of-time",
+        "beyond-good-evil",
+        "okami",
+        "the-legend-of-zelda-majora-s-mask",
+        "prince-of-persia-the-sands-of-time"
+      ],
+      "best": {
+        "slug": "the-legend-of-zelda-ocarina-of-time",
+        "score": 98.3542292994638,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "super-metroid",
+      "title": "Super Metroid",
+      "goodNeighbors": [
+        "hollow-knight",
+        "castlevania-symphony-of-the-night",
+        "metroid-prime",
+        "dark-souls"
+      ],
+      "best": {
+        "slug": "hollow-knight",
+        "score": 98.29611732427529,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "castlevania-symphony-of-the-night"
+    },
+    {
+      "slug": "metroid-prime",
+      "title": "Metroid Prime",
+      "goodNeighbors": [
+        "super-metroid",
+        "hollow-knight",
+        "castlevania-symphony-of-the-night"
+      ],
+      "best": {
+        "slug": "super-metroid",
+        "score": 70.2046634728298,
+        "displayed": 70,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "prey-2017"
+    },
+    {
+      "slug": "castlevania-symphony-of-the-night",
+      "title": "Castlevania: Symphony of the Night",
+      "goodNeighbors": [
+        "super-metroid",
+        "hollow-knight",
+        "metroid-prime",
+        "dark-souls"
+      ],
+      "best": {
+        "slug": "super-metroid",
+        "score": 91.91310693769076,
+        "displayed": 92,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "hollow-knight"
+    },
+    {
+      "slug": "super-mario-64",
+      "title": "Super Mario 64",
+      "goodNeighbors": [
+        "banjo-kazooie",
+        "psychonauts",
+        "celeste",
+        "donkey-kong-country",
+        "super-mario-world"
+      ],
+      "best": {
+        "slug": "banjo-kazooie",
+        "score": 94.6985395166514,
+        "displayed": 95,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "psychonauts"
+    },
+    {
+      "slug": "super-mario-world",
+      "title": "Super Mario World",
+      "goodNeighbors": [
+        "donkey-kong-country",
+        "celeste",
+        "super-mario-64",
+        "banjo-kazooie",
+        "psychonauts"
+      ],
+      "best": {
+        "slug": "donkey-kong-country",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "celeste"
+    },
+    {
+      "slug": "donkey-kong-country",
+      "title": "Donkey Kong Country",
+      "goodNeighbors": [
+        "super-mario-world",
+        "celeste",
+        "super-mario-64",
+        "banjo-kazooie",
+        "psychonauts"
+      ],
+      "best": {
+        "slug": "super-mario-world",
+        "score": 100,
+        "displayed": 100,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "celeste"
+    },
+    {
+      "slug": "banjo-kazooie",
+      "title": "Banjo-Kazooie",
+      "goodNeighbors": [
+        "super-mario-64",
+        "psychonauts",
+        "celeste",
+        "donkey-kong-country",
+        "super-mario-world"
+      ],
+      "best": {
+        "slug": "super-mario-64",
+        "score": 94.6985395166514,
+        "displayed": 95,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "psychonauts"
+    },
+    {
+      "slug": "psychonauts",
+      "title": "Psychonauts",
+      "goodNeighbors": [
+        "banjo-kazooie",
+        "super-mario-64",
+        "celeste",
+        "donkey-kong-country",
+        "super-mario-world"
+      ],
+      "best": {
+        "slug": "banjo-kazooie",
+        "score": 77.11350498335209,
+        "displayed": 77,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "super-mario-64"
+    },
+    {
+      "slug": "okami",
+      "title": "Ōkami",
+      "goodNeighbors": [
+        "the-legend-of-zelda-the-wind-waker",
+        "the-legend-of-zelda-ocarina-of-time",
+        "beyond-good-evil",
+        "the-legend-of-zelda-majora-s-mask",
+        "prince-of-persia-the-sands-of-time"
+      ],
+      "best": {
+        "slug": "the-legend-of-zelda-the-wind-waker",
+        "score": 80.45445344808108,
+        "displayed": 80,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "beyond-good-evil",
+      "title": "Beyond Good & Evil",
+      "goodNeighbors": [
+        "the-legend-of-zelda-the-wind-waker",
+        "the-legend-of-zelda-ocarina-of-time",
+        "okami",
+        "the-legend-of-zelda-majora-s-mask",
+        "prince-of-persia-the-sands-of-time"
+      ],
+      "best": {
+        "slug": "the-legend-of-zelda-the-wind-waker",
+        "score": 80.57902449002913,
+        "displayed": 81,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "prince-of-persia-the-sands-of-time",
+      "title": "Prince of Persia: The Sands of Time",
+      "goodNeighbors": [
+        "okami",
+        "beyond-good-evil",
+        "the-legend-of-zelda-the-wind-waker",
+        "celeste",
+        "the-legend-of-zelda-majora-s-mask",
+        "the-legend-of-zelda-ocarina-of-time"
+      ],
+      "best": {
+        "slug": "okami",
+        "score": 62.06457634408456,
+        "displayed": 62,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "resident-evil-4"
+    },
+    {
+      "slug": "jet-set-radio",
+      "title": "Jet Set Radio",
+      "goodNeighbors": [
+        "crazy-taxi",
+        "rez"
+      ],
+      "best": {
+        "slug": "crazy-taxi",
+        "score": 87.42203947004288,
+        "displayed": 87,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "rez"
+    },
+    {
+      "slug": "crazy-taxi",
+      "title": "Crazy Taxi",
+      "goodNeighbors": [
+        "jet-set-radio",
+        "rez",
+        "hades"
+      ],
+      "best": {
+        "slug": "jet-set-radio",
+        "score": 87.42203947004288,
+        "displayed": 87,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "rez"
+    },
+    {
+      "slug": "rez",
+      "title": "Rez",
+      "goodNeighbors": [
+        "jet-set-radio",
+        "crazy-taxi"
+      ],
+      "best": {
+        "slug": "jet-set-radio",
+        "score": 73.05039247339855,
+        "displayed": 73,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "crazy-taxi"
+    },
+    {
+      "slug": "panzer-dragoon-saga",
+      "title": "Panzer Dragoon Saga",
+      "goodNeighbors": [
+        "xenogears",
+        "parasite-eve",
+        "final-fantasy-x",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "earthbound",
+        "final-fantasy-ix",
+        "vampire-the-masquerade-bloodlines",
+        "suikoden-ii",
+        "the-witcher-3-wild-hunt",
+        "paper-mario-the-thousand-year-door",
+        "chrono-trigger",
+        "planescape-torment",
+        "fallout-new-vegas",
+        "gothic",
+        "undertale",
+        "the-elder-scrolls-iii-morrowind",
+        "fallout",
+        "fallout-2",
+        "baldur-s-gate",
+        "skies-of-arcadia",
+        "dragon-age-origins",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "mass-effect",
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "mass-effect-2"
+      ],
+      "best": {
+        "slug": "xenogears",
+        "score": 85.54208097605968,
+        "displayed": 86,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "parasite-eve"
+    },
+    {
+      "slug": "skies-of-arcadia",
+      "title": "Skies of Arcadia",
+      "goodNeighbors": [
+        "the-elder-scrolls-iv-oblivion",
+        "the-elder-scrolls-v-skyrim",
+        "chrono-trigger",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind",
+        "final-fantasy-x",
+        "paper-mario-the-thousand-year-door",
+        "the-witcher-3-wild-hunt",
+        "baldur-s-gate",
+        "final-fantasy-ix",
+        "final-fantasy-vi",
+        "final-fantasy-vii",
+        "fallout-new-vegas",
+        "mass-effect",
+        "fallout",
+        "fallout-2",
+        "mass-effect-2",
+        "baldur-s-gate-ii-shadows-of-amn",
+        "dragon-age-origins",
+        "panzer-dragoon-saga",
+        "earthbound",
+        "xenogears",
+        "vampire-the-masquerade-bloodlines",
+        "parasite-eve"
+      ],
+      "best": {
+        "slug": "the-elder-scrolls-iv-oblivion",
+        "score": 80.26548687153439,
+        "displayed": 80,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "the-elder-scrolls-v-skyrim"
+    },
+    {
+      "slug": "metal-gear-solid",
+      "title": "Metal Gear Solid",
+      "goodNeighbors": [
+        "metal-gear-solid-3-snake-eater",
+        "tom-clancy-s-splinter-cell-chaos-theory",
+        "dishonored",
+        "dishonored-2",
+        "hitman-blood-money"
+      ],
+      "best": {
+        "slug": "metal-gear-solid-3-snake-eater",
+        "score": 88.35328617538843,
+        "displayed": 88,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "tom-clancy-s-splinter-cell-chaos-theory"
+    },
+    {
+      "slug": "metal-gear-solid-3-snake-eater",
+      "title": "Metal Gear Solid 3: Snake Eater",
+      "goodNeighbors": [
+        "metal-gear-solid",
+        "tom-clancy-s-splinter-cell-chaos-theory",
+        "dishonored",
+        "dishonored-2",
+        "hitman-blood-money",
+        "bioshock"
+      ],
+      "best": {
+        "slug": "metal-gear-solid",
+        "score": 88.35328617538843,
+        "displayed": 88,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "bioshock"
+    },
+    {
+      "slug": "tom-clancy-s-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "goodNeighbors": [
+        "dishonored",
+        "dishonored-2",
+        "hitman-blood-money",
+        "metal-gear-solid",
+        "metal-gear-solid-3-snake-eater"
+      ],
+      "best": {
+        "slug": "dishonored",
+        "score": 72.96656215144012,
+        "displayed": 73,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "thief-2"
+    },
+    {
+      "slug": "hitman-blood-money",
+      "title": "Hitman: Blood Money",
+      "goodNeighbors": [
+        "dishonored",
+        "dishonored-2",
+        "tom-clancy-s-splinter-cell-chaos-theory",
+        "metal-gear-solid-3-snake-eater",
+        "metal-gear-solid",
+        "thief-2"
+      ],
+      "best": {
+        "slug": "dishonored",
+        "score": 81.54574433853367,
+        "displayed": 82,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "thief-2"
+    },
+    {
+      "slug": "hollow-knight",
+      "title": "Hollow Knight",
+      "goodNeighbors": [
+        "super-metroid",
+        "castlevania-symphony-of-the-night",
+        "metroid-prime",
+        "dark-souls"
+      ],
+      "best": {
+        "slug": "super-metroid",
+        "score": 98.29611732427529,
+        "displayed": 98,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "castlevania-symphony-of-the-night"
+    },
+    {
+      "slug": "celeste",
+      "title": "Celeste",
+      "goodNeighbors": [
+        "donkey-kong-country",
+        "super-mario-world",
+        "super-mario-64",
+        "banjo-kazooie",
+        "psychonauts",
+        "prince-of-persia-the-sands-of-time"
+      ],
+      "best": {
+        "slug": "donkey-kong-country",
+        "score": 77.98563999558725,
+        "displayed": 78,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "super-mario-world"
+    },
+    {
+      "slug": "hades",
+      "title": "Hades",
+      "goodNeighbors": [
+        "crazy-taxi"
+      ],
+      "best": {
+        "slug": "crazy-taxi",
+        "score": 50.92392808679468,
+        "displayed": 51,
+        "confidence": "GOOD MATCH"
+      },
+      "hiddenGem": "jet-set-radio"
+    },
+    {
+      "slug": "outer-wilds",
+      "title": "Outer Wilds",
+      "goodNeighbors": [
+        "journey",
+        "the-legend-of-zelda-majora-s-mask"
+      ],
+      "best": {
+        "slug": "journey",
+        "score": 65.23601261504353,
+        "displayed": 65,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "return-of-the-obra-dinn"
+    },
+    {
+      "slug": "return-of-the-obra-dinn",
+      "title": "Return of the Obra Dinn",
+      "goodNeighbors": [
+        "portal",
+        "portal-2"
+      ],
+      "best": {
+        "slug": "portal",
+        "score": 71.91250655977342,
+        "displayed": 72,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "portal-2"
+    },
+    {
+      "slug": "undertale",
+      "title": "Undertale",
+      "goodNeighbors": [
+        "earthbound",
+        "xenogears",
+        "final-fantasy-vi",
+        "the-witcher-3-wild-hunt",
+        "final-fantasy-x",
+        "mass-effect-2",
+        "final-fantasy-ix",
+        "final-fantasy-vii",
+        "mass-effect",
+        "panzer-dragoon-saga",
+        "chrono-trigger",
+        "parasite-eve",
+        "vampire-the-masquerade-bloodlines",
+        "the-elder-scrolls-v-skyrim",
+        "the-elder-scrolls-iv-oblivion",
+        "fallout-new-vegas",
+        "paper-mario-the-thousand-year-door",
+        "suikoden-ii",
+        "planescape-torment",
+        "gothic",
+        "the-elder-scrolls-iii-morrowind"
+      ],
+      "best": {
+        "slug": "earthbound",
+        "score": 81.88695371896324,
+        "displayed": 82,
+        "confidence": "VERY STRONG MATCH"
+      },
+      "hiddenGem": "xenogears"
+    },
+    {
+      "slug": "stardew-valley",
+      "title": "Stardew Valley",
+      "goodNeighbors": [],
+      "best": {
+        "slug": "shenmue",
+        "score": 20.182078444656888,
+        "displayed": 20,
+        "confidence": "LIMITED MATCH"
+      },
+      "hiddenGem": null
+    },
+    {
+      "slug": "journey",
+      "title": "Journey",
+      "goodNeighbors": [
+        "outer-wilds",
+        "ico"
+      ],
+      "best": {
+        "slug": "outer-wilds",
+        "score": 65.23601261504353,
+        "displayed": 65,
+        "confidence": "STRONG MATCH"
+      },
+      "hiddenGem": "ico"
+    }
+  ],
+  "components": [
+    [
+      "baldur-s-gate",
+      "baldur-s-gate-ii-shadows-of-amn",
+      "chrono-trigger",
+      "disco-elysium",
+      "dragon-age-origins",
+      "earthbound",
+      "fallout",
+      "fallout-2",
+      "fallout-new-vegas",
+      "final-fantasy-ix",
+      "final-fantasy-vi",
+      "final-fantasy-vii",
+      "final-fantasy-x",
+      "gothic",
+      "mass-effect",
+      "mass-effect-2",
+      "panzer-dragoon-saga",
+      "paper-mario-the-thousand-year-door",
+      "parasite-eve",
+      "planescape-torment",
+      "shenmue",
+      "skies-of-arcadia",
+      "suikoden-ii",
+      "the-elder-scrolls-iii-morrowind",
+      "the-elder-scrolls-iv-oblivion",
+      "the-elder-scrolls-v-skyrim",
+      "the-witcher-3-wild-hunt",
+      "undertale",
+      "vampire-the-masquerade-bloodlines",
+      "xenogears"
+    ],
+    [
+      "alien-isolation",
+      "amnesia-the-dark-descent",
+      "bioshock-infinite",
+      "dead-space",
+      "dino-crisis",
+      "enslaved-odyssey-to-the-west",
+      "eternal-darkness-sanity-s-requiem",
+      "fatal-frame-2",
+      "half-life",
+      "half-life-2",
+      "metro-2033",
+      "resident-evil",
+      "resident-evil-2",
+      "resident-evil-4",
+      "rule-of-rose",
+      "s-t-a-l-k-e-r-shadow-of-chernobyl",
+      "signalis",
+      "silent-hill",
+      "silent-hill-2",
+      "silent-hill-3",
+      "silent-hill-4-the-room",
+      "soma",
+      "the-suffering"
+    ],
+    [
+      "banjo-kazooie",
+      "beyond-good-evil",
+      "celeste",
+      "donkey-kong-country",
+      "ico",
+      "journey",
+      "okami",
+      "outer-wilds",
+      "prince-of-persia-the-sands-of-time",
+      "psychonauts",
+      "super-mario-64",
+      "super-mario-world",
+      "the-legend-of-zelda-majora-s-mask",
+      "the-legend-of-zelda-ocarina-of-time",
+      "the-legend-of-zelda-the-wind-waker"
+    ],
+    [
+      "arx-fatalis",
+      "bioshock",
+      "bioshock-2",
+      "deus-ex",
+      "dishonored",
+      "dishonored-2",
+      "hitman-blood-money",
+      "metal-gear-solid",
+      "metal-gear-solid-3-snake-eater",
+      "prey-2017",
+      "thief-2",
+      "tom-clancy-s-splinter-cell-chaos-theory"
+    ],
+    [
+      "castlevania-symphony-of-the-night",
+      "dark-souls",
+      "demons-souls",
+      "hollow-knight",
+      "metroid-prime",
+      "super-metroid",
+      "vagrant-story"
+    ],
+    [
+      "crazy-taxi",
+      "hades",
+      "jet-set-radio",
+      "rez"
+    ],
+    [
+      "portal",
+      "portal-2",
+      "return-of-the-obra-dinn"
+    ],
+    [
+      "killer7"
+    ],
+    [
+      "metal-gear-solid-2"
+    ],
+    [
+      "shadow-of-the-colossus"
+    ],
+    [
+      "shadow-tower"
+    ],
+    [
+      "stardew-valley"
+    ],
+    [
+      "system-shock-2"
+    ]
+  ],
+  "noGood": [
+    "shadow-tower",
+    "system-shock-2",
+    "killer7",
+    "shadow-of-the-colossus",
+    "metal-gear-solid-2",
+    "stardew-valley"
+  ],
+  "noHiddenGem": [
+    "demons-souls",
+    "killer7",
+    "ico",
+    "shenmue",
+    "half-life",
+    "half-life-2",
+    "s-t-a-l-k-e-r-shadow-of-chernobyl",
+    "metro-2033",
+    "the-legend-of-zelda-ocarina-of-time",
+    "the-legend-of-zelda-the-wind-waker",
+    "okami",
+    "beyond-good-evil",
+    "stardew-valley"
+  ],
+  "isolated": [
+    "killer7",
+    "stardew-valley"
+  ],
+  "overrepresented": [
+    {
+      "dimension": "gameplay",
+      "value": "Exploration",
+      "count": 89
+    },
+    {
+      "dimension": "difficulty",
+      "value": "Medium",
+      "count": 70
+    },
+    {
+      "dimension": "perspective",
+      "value": "Third-person",
+      "count": 52
+    },
+    {
+      "dimension": "experience",
+      "value": "Narrative-driven",
+      "count": 50
+    },
+    {
+      "dimension": "pacing",
+      "value": "Slow",
+      "count": 50
+    },
+    {
+      "dimension": "era",
+      "value": "2000s",
+      "count": 45
+    },
+    {
+      "dimension": "experience",
+      "value": "Role immersion",
+      "count": 38
+    },
+    {
+      "dimension": "genre",
+      "value": "RPG",
+      "count": 38
+    },
+    {
+      "dimension": "pacing",
+      "value": "Balanced",
+      "count": 36
+    },
+    {
+      "dimension": "perspective",
+      "value": "First-person",
+      "count": 36
+    },
+    {
+      "dimension": "structure",
+      "value": "Linear",
+      "count": 35
+    },
+    {
+      "dimension": "gameplay",
+      "value": "Combat",
+      "count": 34
+    },
+    {
+      "dimension": "gameplay",
+      "value": "Character Building",
+      "count": 33
+    },
+    {
+      "dimension": "mood",
+      "value": "Thoughtful",
+      "count": 33
+    },
+    {
+      "dimension": "gameplay",
+      "value": "Puzzle",
+      "count": 30
+    }
+  ]
+}

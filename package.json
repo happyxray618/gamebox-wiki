@@ -8,10 +8,12 @@
     "start": "next start",
     "lint": "eslint",
     "validate:data": "node scripts/validate-data.cjs",
-    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs && node scripts/test-semantic-similarity.cjs && node scripts/test-discovery-experience.cjs",
+    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs && node scripts/test-semantic-similarity.cjs && node scripts/test-discovery-experience.cjs && node scripts/test-public-config.cjs",
     "check:links": "node scripts/check-links.cjs",
     "report:similarity": "node scripts/report-similarity.cjs",
-    "report:discovery": "node scripts/report-discovery-experience.cjs"
+    "report:discovery": "node scripts/report-discovery-experience.cjs",
+    "report:coverage": "node scripts/report-coverage.cjs",
+    "audit:performance": "node scripts/audit-performance.cjs"
   },
   "dependencies": {
     "next": "16.3.8",
@@ -27,5 +29,8 @@
     "eslint-config-next": "16.3.8",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }

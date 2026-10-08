@@ -1,0 +1,93 @@
+{
+  "environment": "local next start; production build; Node 24 on Windows; not Vercel CDN or Core Web Vitals",
+  "results": [
+    {
+      "route": "/",
+      "warmMedianResponseMs": 2.91,
+      "htmlBytes": 22809,
+      "htmlGzipEstimate": 4860,
+      "jsGzipEstimate": 202733,
+      "scripts": 10
+    },
+    {
+      "route": "/games",
+      "warmMedianResponseMs": 1.46,
+      "htmlBytes": 18442,
+      "htmlGzipEstimate": 3703,
+      "jsGzipEstimate": 203950,
+      "scripts": 10
+    },
+    {
+      "route": "/finder",
+      "warmMedianResponseMs": 1.5,
+      "htmlBytes": 19082,
+      "htmlGzipEstimate": 3898,
+      "jsGzipEstimate": 203950,
+      "scripts": 10
+    },
+    {
+      "route": "/games/silent-hill-2",
+      "warmMedianResponseMs": 2.56,
+      "htmlBytes": 84292,
+      "htmlGzipEstimate": 9847,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/games-like/killer7",
+      "warmMedianResponseMs": 2.8,
+      "htmlBytes": 108701,
+      "htmlGzipEstimate": 10272,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/retro",
+      "warmMedianResponseMs": 5.12,
+      "htmlBytes": 235801,
+      "htmlGzipEstimate": 25523,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/retro/ps1",
+      "warmMedianResponseMs": 2.23,
+      "htmlBytes": 60546,
+      "htmlGzipEstimate": 7616,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/genres/rpg",
+      "warmMedianResponseMs": 2.58,
+      "htmlBytes": 80581,
+      "htmlGzipEstimate": 12044,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/platforms/ps2",
+      "warmMedianResponseMs": 2.46,
+      "htmlBytes": 69508,
+      "htmlGzipEstimate": 10319,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/moods/psychological",
+      "warmMedianResponseMs": 1.71,
+      "htmlBytes": 35266,
+      "htmlGzipEstimate": 5396,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    },
+    {
+      "route": "/gameplay/exploration",
+      "warmMedianResponseMs": 3.88,
+      "htmlBytes": 156510,
+      "htmlGzipEstimate": 21518,
+      "jsGzipEstimate": 177595,
+      "scripts": 8
+    }
+  ]
+}

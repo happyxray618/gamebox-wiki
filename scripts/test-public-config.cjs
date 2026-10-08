@@ -1,0 +1,10 @@
+require('./load-ts.cjs');const assert=require('node:assert/strict');
+const {resolveSiteUrl,resolveContact,isIndexableDeployment}=require('../lib/public-config.ts');
+assert.equal(resolveSiteUrl(undefined,true),'https://gamebox.wiki');
+assert.equal(resolveSiteUrl('https://gamebox.wiki/',true),'https://gamebox.wiki');
+assert.throws(()=>resolveSiteUrl('https://example.vercel.app',true));
+for(const value of ['http://example.com','https://localhost','https://127.0.0.1','https://example.com/path','https://user:pass@example.com','https://example.com?q=x','https://example.com/#x','file:///tmp'])assert.throws(()=>resolveSiteUrl(value,true));
+assert.equal(resolveSiteUrl('http://localhost:3000',false),'http://localhost:3000');
+assert.equal(resolveContact(),null);assert.equal(resolveContact('mailto:owner@example.com'),'mailto:owner@example.com');assert.throws(()=>resolveContact('javascript:alert(1)'));
+assert.equal(isIndexableDeployment('production'),true);assert.equal(isIndexableDeployment('preview'),false);assert.equal(isIndexableDeployment('development'),false);
+console.log('PASS: production origins, local-development separation and contact URL protocols');

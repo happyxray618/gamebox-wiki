@@ -13,7 +13,7 @@ export default function FinderPage() {
         <p className="text-sm font-bold tracking-[0.3em] text-zinc-500">GAME DISCOVERY ENGINE</p>
         <h1 className="mt-4 text-5xl font-black tracking-tight md:text-7xl">FIND YOUR<br />NEXT GAME.</h1>
         <p className="mt-6 max-w-2xl text-lg leading-8 text-zinc-400">Choose the Game DNA you want to play. Discover exact and partial matches, with a clear reason for every recommendation.</p>
-        <p className="mt-3 max-w-2xl text-sm leading-6 text-zinc-400">Search and platform narrow the archive. Game DNA expresses your preferences; match scores show how closely each game fits them.</p>
+        <p className="mt-3 max-w-2xl text-sm leading-6 text-zinc-400">Search and platform narrow the archive. Game DNA is GAMEBOX editorial interpretation; MATCH % measures algorithmic coverage of your preferences, not quality or a probability of enjoyment.</p>
       </section>
       <Suspense fallback={<p className="mx-auto max-w-7xl px-6 py-10 text-zinc-400">Loading game finder…</p>}><GameCatalog advanced /></Suspense>
       <footer className="border-t border-white/10 px-6 py-10 text-center text-sm text-zinc-500">GAMEBOX.WIKI — DISCOVER. REMEMBER. PLAY.</footer>

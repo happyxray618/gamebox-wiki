@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { siteUrl } from "@/lib/metadata";
+import PublicPolicyLinks from "@/components/public-policy-links";
+import { isIndexableDeployment } from "@/lib/public-config";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -15,6 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  robots: isIndexableDeployment() ? { index: true, follow: true } : { index: false, follow: false },
+  twitter: { card: "summary_large_image", images: ["/opengraph-image"] },
   title: { default: "GAMEBOX.WIKI — Discover. Remember. Play.", template: "%s | GAMEBOX.WIKI" },
   description: "Discover great games across generations. Explore classics, cult favorites and hidden gems in the GAMEBOX game database and retro archive.",
   alternates: { canonical: "/" },
@@ -27,7 +31,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">{children}<PublicPolicyLinks /></body>
     </html>
   );
 }

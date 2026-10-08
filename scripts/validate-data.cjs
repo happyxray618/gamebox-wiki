@@ -3,6 +3,7 @@ const assert = require('node:assert/strict');
 const { games, gameFacts, gameEditorial } = require('../data/games.ts');
 const { discoveryKinds, discoveryValues, slugify } = require('../lib/taxonomy.ts');
 const audit = require('../data/verification-audit.json');
+const manifest = require('./source-manifest.json');
 const { assertGameDNA, dnaVocabulary } = require('../lib/game-dna.ts');
 
 assert.equal(games.length, 100, 'Discovery MVP must have exactly 100 games');
@@ -29,6 +30,10 @@ for (const game of games) {
   assert.match(game.facts.verification.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
   const evidence = audit.find(record=>record.slug === game.slug);
   assert.ok(evidence?.pageTitle,`${game.slug}: no source title`);
+  assert.equal(game.title,manifest.find(record=>record.slug===game.slug)?.title,`${game.slug}: title conflicts with source manifest`);
+  assert.equal(game.facts.developers.join('; '),evidence.extracted.developer,`${game.slug}: development credits conflict with evidence`);
+  assert.equal(game.facts.publishers.join('; '),evidence.extracted.publisher,`${game.slug}: publishing credits conflict with evidence`);
+  assert.ok(game.facts.sources.some(source=>source.url===evidence.source.url && source.revisionId===evidence.source.revisionId),`${game.slug}: source revision is not traceable to audit`);
   assert.equal(evidence.normalized.year,game.year,`${game.slug}: year conflicts with source`);
   assert.deepEqual(evidence.normalized.platforms,game.platforms,`${game.slug}: platforms conflict with source`);
   for (const key of ['title','year','developers','publishers','platforms']) {

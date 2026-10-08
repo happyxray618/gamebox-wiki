@@ -4,14 +4,16 @@ const {parse}=require('next/dist/compiled/node-html-parser');
 const {games}=require('../data/games.ts');
 const {discoveryPaths}=require('../lib/taxonomy.ts');
 const {discoveryJourney}=require('../lib/discovery-experience.ts');
+const {siteUrl}=require('../lib/metadata.ts');
 const origin=process.env.CHECK_BASE_URL || 'http://localhost:3100';
 
 async function main() {
   const sitemap=await fetch(`${origin}/sitemap.xml`);
   assert.equal(sitemap.status,200);
   const xml=await sitemap.text();
+  for(const match of xml.matchAll(/<loc>(.*?)<\/loc>/g)) assert.equal(new URL(match[1]).origin,siteUrl,'sitemap origin');
   const paths=[...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map(match=>new URL(match[1]).pathname);
-  const expected=['/','/games','/finder','/retro','/hidden-gems',...games.map(game=>`/games/${game.slug}`),...games.map(game=>`/games-like/${game.slug}`),...['ps1','ps2','dreamcast','xbox','gamecube','arcade'].map(platform=>`/retro/${platform}`),...discoveryPaths()];
+  const expected=['/','/games','/finder','/retro','/hidden-gems','/about','/data-policy','/privacy','/contact',...games.map(game=>`/games/${game.slug}`),...games.map(game=>`/games-like/${game.slug}`),...['ps1','ps2','dreamcast','xbox','gamecube','arcade'].map(platform=>`/retro/${platform}`),...discoveryPaths()];
   assert.deepEqual(new Set(paths),new Set(expected),'sitemap does not match every indexable page');
   const checked=new Map();
   const links=new Set();
@@ -27,7 +29,12 @@ async function main() {
       assert.ok(tree.querySelector('h1'),`${path}: missing page heading`);
       assert.ok(tree.querySelector('nav[aria-label="Main navigation"]'),`${path}: missing shared navigation`);
       const canonical=tree.querySelector('link[rel="canonical"]')?.getAttribute('href');
-      assert.ok(canonical && new URL(canonical).pathname===path,`${path}: wrong canonical ${canonical}`);
+      assert.ok(canonical && new URL(canonical).pathname===path && new URL(canonical).origin===siteUrl,`${path}: wrong canonical ${canonical}`);
+      assert.ok(tree.querySelector('meta[name="description"]')?.getAttribute('content'),`${path}: missing description`);
+      assert.equal(new URL(tree.querySelector('meta[property="og:url"]')?.getAttribute('content')).href,new URL(path,siteUrl).href,`${path}: wrong OG URL`);
+      assert.equal(new URL(tree.querySelector('meta[property="og:image"]')?.getAttribute('content')).origin,siteUrl,`${path}: wrong OG image origin`);
+      assert.ok(!tree.querySelector('meta[name="robots"]')?.getAttribute('content')?.includes('noindex'),`${path}: production page excludes indexing`);
+      assert.ok(tree.querySelector('nav[aria-label="Site information"]'),`${path}: missing public policy links`);
       if(discoveryPaths().includes(path)) assert.ok(tree.querySelector('title')?.textContent.includes('Games | GAMEBOX.WIKI'),`${path}: missing discovery metadata`);
       if(path.startsWith('/games-like/')) {
         const slug=path.slice('/games-like/'.length);
@@ -64,11 +71,18 @@ async function main() {
     }
     if(url.hash) assert.ok(checked.get(url.pathname).querySelector(`[id="${decodeURIComponent(url.hash.slice(1))}"]`),`Broken anchor: ${href}`);
   }
-  for(const path of ['/games-like/missing','/games-like/__proto__','/games/missing','/retro/missing','/genres/missing','/platforms/missing','/moods/missing','/gameplay/missing','/retro/__proto__']) assert.equal((await fetch(origin+path)).status,404,`${path}: should be 404`);
+  for(const path of ['/games-like/missing','/games-like/__proto__','/games/missing','/retro/missing','/genres/missing','/platforms/missing','/moods/missing','/gameplay/missing','/retro/__proto__']) {
+    const response=await fetch(origin+path);
+    assert.equal(response.status,404,`${path}: should be 404`);
+    assert.ok(parse(await response.text()).querySelectorAll('meta[name="robots"]').some(meta=>meta.getAttribute('content')?.includes('noindex')),`${path}: missing 404 noindex`);
+  }
   const finder=await fetch(`${origin}/finder?genre=invalid&sort=invalid&q=%3Cscript%3E`);
   assert.equal(finder.status,200,'invalid Finder parameters should remain safe and usable');
   const robots=await fetch(`${origin}/robots.txt`);
   assert.equal(robots.status,200);
+  assert.ok((await robots.text()).includes(new URL('/sitemap.xml',siteUrl).href),'robots sitemap origin');
+  const image=await fetch(origin+'/opengraph-image');assert.equal(image.status,200);assert.ok(image.headers.get('content-type').includes('image/png'));
+  const query=await fetch(origin+'/finder?mood=Psychological');assert.ok((await query.text()).includes(new URL('/finder',siteUrl).href),'Finder query canonical');
   console.log(`PASS: ${paths.length} sitemap pages, ${links.size} internal links/anchors, metadata, shared navigation, invalid routes and safe Finder parameters`);
 }
 main().catch(error=>{console.error(error);process.exitCode=1;});
