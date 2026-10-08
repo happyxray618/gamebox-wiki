@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "validate:data": "node scripts/validate-data.cjs",
-    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs",
+    "test": "node scripts/test-discovery.cjs && node scripts/test-ranking.cjs && node scripts/test-similarity.cjs",
     "check:links": "node scripts/check-links.cjs"
   },
   "dependencies": {

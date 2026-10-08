@@ -10,7 +10,7 @@ async function main() {
   assert.equal(sitemap.status,200);
   const xml=await sitemap.text();
   const paths=[...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map(match=>new URL(match[1]).pathname);
-  const expected=['/','/games','/finder','/retro','/hidden-gems',...games.map(game=>`/games/${game.slug}`),...['ps1','ps2','dreamcast','xbox','gamecube','arcade'].map(platform=>`/retro/${platform}`),...discoveryPaths()];
+  const expected=['/','/games','/finder','/retro','/hidden-gems',...games.map(game=>`/games/${game.slug}`),...games.map(game=>`/games-like/${game.slug}`),...['ps1','ps2','dreamcast','xbox','gamecube','arcade'].map(platform=>`/retro/${platform}`),...discoveryPaths()];
   assert.deepEqual(new Set(paths),new Set(expected),'sitemap does not match every indexable page');
   const checked=new Map();
   const links=new Set();
@@ -28,6 +28,18 @@ async function main() {
       const canonical=tree.querySelector('link[rel="canonical"]')?.getAttribute('href');
       assert.ok(canonical && new URL(canonical).pathname===path,`${path}: wrong canonical ${canonical}`);
       if(discoveryPaths().includes(path)) assert.ok(tree.querySelector('title')?.textContent.includes('Games | GAMEBOX.WIKI'),`${path}: missing discovery metadata`);
+      if(path.startsWith('/games-like/')) {
+        const slug=path.slice('/games-like/'.length);
+        const game=games.find(game=>game.slug===slug);
+        assert.ok(tree.querySelector('title')?.textContent.includes(`Games Like ${game.title}`),`${path}: missing Games Like metadata`);
+        assert.ok(tree.querySelector(`a[href="/games/${slug}"]`),`${path}: missing source game detail link`);
+        const cards=tree.querySelectorAll('article');
+        assert.equal(cards.length,12,`${path}: expected 12 recommendations`);
+        for(const card of cards) {
+          assert.ok(!card.querySelector(`a[href="/games/${slug}"]`),`${path}: recommends itself`);
+          assert.ok(card.textContent.includes('SIMILAR') && card.textContent.includes("WHY IT'S SIMILAR"),`${path}: missing similarity explanation`);
+        }
+      }
       for(const anchor of tree.querySelectorAll('a')) {
         const href=anchor.getAttribute('href');
         if(!href) continue;
@@ -46,7 +58,7 @@ async function main() {
     }
     if(url.hash) assert.ok(checked.get(url.pathname).querySelector(`[id="${decodeURIComponent(url.hash.slice(1))}"]`),`Broken anchor: ${href}`);
   }
-  for(const path of ['/games/missing','/retro/missing','/genres/missing','/platforms/missing','/moods/missing','/gameplay/missing','/retro/__proto__']) assert.equal((await fetch(origin+path)).status,404,`${path}: should be 404`);
+  for(const path of ['/games-like/missing','/games-like/__proto__','/games/missing','/retro/missing','/genres/missing','/platforms/missing','/moods/missing','/gameplay/missing','/retro/__proto__']) assert.equal((await fetch(origin+path)).status,404,`${path}: should be 404`);
   const finder=await fetch(`${origin}/finder?genre=invalid&sort=invalid&q=%3Cscript%3E`);
   assert.equal(finder.status,200,'invalid Finder parameters should remain safe and usable');
   const robots=await fetch(`${origin}/robots.txt`);

@@ -1,3 +1,5 @@
+import SimilarGameCards from "@/components/similar-game-cards"
+import { recommendSimilarGames } from "@/lib/similarity"
 import SiteHeader from "@/components/site-header"
 import Link from "next/link"
 import { notFound } from "next/navigation"
@@ -32,13 +34,7 @@ export default async function GamePage({ params }: Props) {
     notFound()
   }
 
-  const similarGames = games
-    .filter(
-      (item) =>
-        item.id !== game.id &&
-        item.genres.some((genre) => game.genres.includes(genre))
-    )
-    .slice(0, 4)
+  const similarGames = recommendSimilarGames(game, games, 6)
 
   return (
     <main className="min-h-screen bg-[#09090b] text-white">
@@ -326,31 +322,8 @@ export default async function GamePage({ params }: Props) {
             SIMILAR GAMES
           </h2>
 
-          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {similarGames.map((similar) => (
-              <Link
-                key={similar.id}
-                href={`/games/${similar.slug}`}
-                className="rounded-2xl border border-white/10 bg-white/[0.03] p-6 transition hover:-translate-y-1 hover:border-white/30"
-              >
-                <div className="text-xs text-zinc-600">
-                  {similar.year}
-                </div>
-
-                <h3 className="mt-3 text-lg font-black">
-                  {similar.title}
-                </h3>
-
-                <p className="mt-2 text-sm text-zinc-500">
-                  {similar.genres.join(" · ")}
-                </p>
-
-                <div className="mt-6 text-sm font-bold">
-                  SCORE {similar.gameboxScore}
-                </div>
-              </Link>
-            ))}
-          </div>
+          <Link href={`/games-like/${game.slug}`} className="mt-4 inline-flex min-h-11 items-center text-sm text-emerald-300 underline underline-offset-4">Explore what makes games feel like {game.title}</Link>
+          <SimilarGameCards recommendations={similarGames} />
         </div>
       </section>
 
