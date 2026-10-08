@@ -1,6 +1,7 @@
 import factRecords from "./game-facts.json"
 import editorialRecords from "./game-editorial.json"
 import type { Game, GameFacts, GameEditorial } from "./types"
+import { assertGameDNA } from "@/lib/game-dna"
 
 export type { Game, GameFacts, GameEditorial, GameSource, FactField } from "./types"
 
@@ -19,6 +20,7 @@ const editorialBySlug = new Map(gameEditorial.map((entry) => [entry.slug, entry]
 export const games: readonly Game[] = deepFreeze(gameFacts.map((facts) => {
   const editorial = editorialBySlug.get(facts.slug)
   if (!editorial) throw new Error(`Missing GAMEBOX editorial record: ${facts.slug}`)
+  assertGameDNA(editorial, facts.year)
   return {
     ...editorial,
     id: facts.id,

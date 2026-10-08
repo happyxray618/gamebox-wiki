@@ -36,7 +36,12 @@
       "ps2 horror",
       "survival horror"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "silent-hill-3",
@@ -76,7 +81,12 @@
       "ps2 horror",
       "survival horror"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "resident-evil-2",
@@ -118,7 +128,12 @@
       "survival horror",
       "zombie game"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Fixed-camera"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "fatal-frame-2",
@@ -159,7 +174,13 @@
       "japanese horror",
       "ps2 horror"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "dark-souls",
@@ -200,7 +221,12 @@
       "dark fantasy",
       "challenging games"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "demons-souls",
@@ -241,7 +267,12 @@
       "ps3 rpg",
       "action rpg"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "vagrant-story",
@@ -282,7 +313,12 @@
       "dark fantasy",
       "hidden gem rpg"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "shadow-tower",
@@ -323,7 +359,12 @@
       "dark fantasy",
       "cult game"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "deus-ex",
@@ -365,7 +406,12 @@
       "pc classic",
       "ion storm"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "system-shock-2",
@@ -407,7 +453,12 @@
       "looking glass",
       "horror rpg"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "thief-2",
@@ -448,7 +499,12 @@
       "looking glass",
       "pc classic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "prey-2017",
@@ -490,7 +546,12 @@
       "sci fi game",
       "hidden gem"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "killer7",
@@ -531,7 +592,13 @@
       "cult games",
       "gamecube classic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "rule-of-rose",
@@ -572,7 +639,12 @@
       "rare ps2 games",
       "survival horror"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "the-suffering",
@@ -613,7 +685,13 @@
       "action horror",
       "cult games"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "enslaved-odyssey-to-the-west",
@@ -654,7 +732,12 @@
       "xbox 360 games",
       "action adventure"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "shadow-of-the-colossus",
@@ -695,7 +778,12 @@
       "action adventure",
       "art games"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "metal-gear-solid-2",
@@ -736,7 +824,13 @@
       "ps2 classic",
       "konami"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "ico",
@@ -777,7 +871,12 @@
       "art games",
       "adventure game"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "shenmue",
@@ -818,7 +917,12 @@
       "japan game",
       "cult classic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "portal",
@@ -852,7 +956,12 @@
       "Thoughtful",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "portal-2",
@@ -886,7 +995,12 @@
       "Thoughtful",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "half-life",
@@ -922,7 +1036,12 @@
       "Tense",
       "Cinematic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "half-life-2",
@@ -958,7 +1077,12 @@
       "Tense",
       "Cinematic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "bioshock",
@@ -996,7 +1120,12 @@
       "Atmospheric",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "bioshock-2",
@@ -1034,7 +1163,12 @@
       "Atmospheric",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "bioshock-infinite",
@@ -1070,7 +1204,12 @@
       "Tense",
       "Cinematic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "dishonored",
@@ -1108,7 +1247,12 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "dishonored-2",
@@ -1146,7 +1290,12 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "fallout",
@@ -1182,7 +1331,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "fallout-2",
@@ -1218,7 +1372,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "fallout-new-vegas",
@@ -1254,7 +1413,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person",
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "baldur-s-gate",
@@ -1290,7 +1455,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "baldur-s-gate-ii-shadows-of-amn",
@@ -1326,7 +1496,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "planescape-torment",
@@ -1362,7 +1537,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "disco-elysium",
@@ -1400,7 +1580,12 @@
       "Melancholic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-elder-scrolls-iii-morrowind",
@@ -1436,7 +1621,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person",
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-elder-scrolls-iv-oblivion",
@@ -1472,7 +1663,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person",
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-elder-scrolls-v-skyrim",
@@ -1508,7 +1705,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person",
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-witcher-3-wild-hunt",
@@ -1544,7 +1747,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "mass-effect",
@@ -1580,7 +1788,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "mass-effect-2",
@@ -1616,7 +1829,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "dragon-age-origins",
@@ -1652,7 +1870,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "Isometric"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "vampire-the-masquerade-bloodlines",
@@ -1688,7 +1912,13 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person",
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "arx-fatalis",
@@ -1726,7 +1956,12 @@
       "Atmospheric",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "gothic",
@@ -1762,7 +1997,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "s-t-a-l-k-e-r-shadow-of-chernobyl",
@@ -1798,7 +2038,12 @@
       "Tense",
       "Cinematic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "metro-2033",
@@ -1834,7 +2079,12 @@
       "Tense",
       "Cinematic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "dead-space",
@@ -1872,7 +2122,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "alien-isolation",
@@ -1910,7 +2165,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "amnesia-the-dark-descent",
@@ -1948,7 +2208,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "soma",
@@ -1986,7 +2251,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "signalis",
@@ -2024,7 +2294,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "resident-evil",
@@ -2062,7 +2337,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Fixed-camera"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "resident-evil-4",
@@ -2100,7 +2380,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "silent-hill",
@@ -2138,7 +2423,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "silent-hill-4-the-room",
@@ -2176,7 +2466,13 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "eternal-darkness-sanity-s-requiem",
@@ -2214,7 +2510,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "parasite-eve",
@@ -2250,7 +2551,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Fixed-camera"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "dino-crisis",
@@ -2288,7 +2594,12 @@
       "Dark",
       "Unsettling"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "chrono-trigger",
@@ -2324,7 +2635,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "final-fantasy-vi",
@@ -2360,7 +2676,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "final-fantasy-vii",
@@ -2396,7 +2717,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Fixed-camera"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "final-fantasy-ix",
@@ -2432,7 +2758,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Fixed-camera"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "final-fantasy-x",
@@ -2468,7 +2799,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "suikoden-ii",
@@ -2504,7 +2840,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "xenogears",
@@ -2540,7 +2881,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "earthbound",
@@ -2576,7 +2922,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "paper-mario-the-thousand-year-door",
@@ -2612,7 +2963,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "the-legend-of-zelda-ocarina-of-time",
@@ -2650,7 +3006,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-legend-of-zelda-majora-s-mask",
@@ -2688,7 +3049,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "the-legend-of-zelda-the-wind-waker",
@@ -2726,7 +3092,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "super-metroid",
@@ -2764,7 +3135,12 @@
       "Isolation",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "metroid-prime",
@@ -2802,7 +3178,12 @@
       "Isolation",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "castlevania-symphony-of-the-night",
@@ -2840,7 +3221,12 @@
       "Isolation",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "super-mario-64",
@@ -2876,7 +3262,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "super-mario-world",
@@ -2912,7 +3303,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "donkey-kong-country",
@@ -2948,7 +3344,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "banjo-kazooie",
@@ -2984,7 +3385,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "psychonauts",
@@ -3020,7 +3426,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "okami",
@@ -3058,7 +3469,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "beyond-good-evil",
@@ -3096,7 +3512,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Hub-based"
   },
   {
     "slug": "prince-of-persia-the-sands-of-time",
@@ -3134,7 +3555,12 @@
       "Atmospheric",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "jet-set-radio",
@@ -3170,7 +3596,12 @@
       "Stylish",
       "Energetic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "crazy-taxi",
@@ -3206,7 +3637,12 @@
       "Stylish",
       "Energetic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Run-based"
   },
   {
     "slug": "rez",
@@ -3242,7 +3678,12 @@
       "Stylish",
       "Energetic"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "panzer-dragoon-saga",
@@ -3278,7 +3719,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "skies-of-arcadia",
@@ -3314,7 +3760,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "metal-gear-solid",
@@ -3352,7 +3803,13 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "metal-gear-solid-3-snake-eater",
@@ -3390,7 +3847,13 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "tom-clancy-s-splinter-cell-chaos-theory",
@@ -3428,7 +3891,12 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "hitman-blood-money",
@@ -3466,7 +3934,13 @@
       "Tense",
       "Atmospheric"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person",
+      "First-person"
+    ],
+    "structure": "Mission-based"
   },
   {
     "slug": "hollow-knight",
@@ -3504,7 +3978,12 @@
       "Isolation",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "celeste",
@@ -3540,7 +4019,12 @@
       "Playful",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Side-view"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "hades",
@@ -3578,7 +4062,12 @@
       "Energetic",
       "Stylish"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Fast",
+    "perspective": [
+      "Isometric"
+    ],
+    "structure": "Run-based"
   },
   {
     "slug": "outer-wilds",
@@ -3616,7 +4105,12 @@
       "Quiet",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Open world"
   },
   {
     "slug": "return-of-the-obra-dinn",
@@ -3650,7 +4144,12 @@
       "Thoughtful",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "First-person"
+    ],
+    "structure": "Interconnected"
   },
   {
     "slug": "undertale",
@@ -3686,7 +4185,12 @@
       "Epic",
       "Thoughtful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Balanced",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Linear"
   },
   {
     "slug": "stardew-valley",
@@ -3724,7 +4228,12 @@
       "Cozy",
       "Hopeful"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Top-down"
+    ],
+    "structure": "Sandbox"
   },
   {
     "slug": "journey",
@@ -3762,6 +4271,11 @@
       "Quiet",
       "Mysterious"
     ],
-    "scorePolicy": "provisional-editorial-v1"
+    "scorePolicy": "provisional-editorial-v1",
+    "pacing": "Slow",
+    "perspective": [
+      "Third-person"
+    ],
+    "structure": "Linear"
   }
 ]

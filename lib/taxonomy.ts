@@ -14,7 +14,7 @@ export function discoveryValue(kind: DiscoveryKind, slug: string) {
   return discoveryValues(kind).find((item) => item.slug === slug)
 }
 export function discoveryGames(kind: DiscoveryKind, value: string): Game[] {
-  return games.filter((game) => game[taxonomyFields[kind]].includes(value))
+  return games.filter((game) => (game[taxonomyFields[kind]] as readonly string[]).includes(value))
     .sort((a, b) => b.gameboxScore - a.gameboxScore || a.title.localeCompare(b.title))
 }
 export function discoveryPaths() {

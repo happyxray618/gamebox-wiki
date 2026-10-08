@@ -4,6 +4,7 @@ import { notFound } from "next/navigation"
 import { games } from "@/data/games"
 import { pageMetadata } from "@/lib/metadata"
 import { slugify } from "@/lib/taxonomy"
+import { dnaValues, dnaVocabulary, type DNADimension } from "@/lib/game-dna"
 
 type Props = {
   params: Promise<{
@@ -165,23 +166,19 @@ export default async function GamePage({ params }: Props) {
             GAME DNA
           </p>
 
-          <div className="mt-6 flex flex-wrap gap-3">
-            {game.tags.map((tag) => (
-              <span
-                key={tag}
-                className="rounded-xl border border-white/10 bg-white/[0.03] px-5 py-3 text-sm text-zinc-300"
-              >
-                {tag}
-              </span>
-            ))}
-          </div>
+          <dl className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {(Object.keys(dnaVocabulary) as DNADimension[]).map((dimension) => <div key={dimension} className="rounded-xl border border-white/10 bg-white/[0.03] p-5">
+              <dt className="text-xs font-bold uppercase tracking-widest text-zinc-400">{dimension}</dt>
+              <dd className="mt-3 text-sm text-zinc-300">{dnaValues(game, dimension).join(" · ")}</dd>
+            </div>)}
+          </dl>
         </div>
       </section>
 
       {/* Main Content */}
       <section className="mx-auto max-w-7xl px-6 pt-12">
         <h2 className="text-xl font-black">DISCOVER BY GAME DNA</h2>
-        <p className="mt-3 text-sm text-zinc-400">Mood, gameplay, difficulty and ratings are GAMEBOX editorial classifications.</p>
+        <p className="mt-3 text-sm text-zinc-400">Game DNA is GAMEBOX editorial classification; era comes from the sourced release year. Ratings are separate editorial judgements.</p>
         <div className="mt-5 flex flex-wrap gap-3">
           {game.mood.map((mood) => <Link key={`mood-${mood}`} href={`/moods/${slugify(mood)}`} className="inline-flex min-h-11 items-center rounded-full border border-white/15 px-4 text-sm text-zinc-300">{mood}</Link>)}
           {game.gameplay.map((gameplay) => <Link key={`gameplay-${gameplay}`} href={`/gameplay/${slugify(gameplay)}`} className="inline-flex min-h-11 items-center rounded-full border border-white/15 px-4 text-sm text-zinc-300">{gameplay}</Link>)}

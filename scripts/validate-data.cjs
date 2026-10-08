@@ -3,6 +3,7 @@ const assert = require('node:assert/strict');
 const { games, gameFacts, gameEditorial } = require('../data/games.ts');
 const { discoveryKinds, discoveryValues, slugify } = require('../lib/taxonomy.ts');
 const audit = require('../data/verification-audit.json');
+const { assertGameDNA, dnaVocabulary } = require('../lib/game-dna.ts');
 
 assert.equal(games.length, 100, 'Discovery MVP must have exactly 100 games');
 for (const [name, values] of [['IDs', games.map(g=>g.id)], ['slugs',games.map(g=>g.slug)], ['titles',games.map(g=>g.title)]]) {
@@ -14,6 +15,7 @@ assert.equal(audit.length,100);
 const requiredStrings = ['title','developer','publisher','difficulty','gameLength','description','whyPlay','retroHistory'];
 const arrays = ['platforms','genres','tags','mood','gameplay','searchKeywords'];
 for (const game of games) {
+  assertGameDNA(game.editorial, game.year);
   assert.match(game.slug,/^[a-z0-9]+(?:-[a-z0-9]+)*$/);
   for (const key of requiredStrings) assert.ok(typeof game[key] === 'string' && game[key].trim(),`${game.slug}: ${key}`);
   assert.ok(Number.isInteger(game.year) && game.year >= 1970 && game.year <= 2026,`${game.slug}: year`);
@@ -41,6 +43,7 @@ for (const game of games) {
   assert.equal(game.editorial.scorePolicy,'provisional-editorial-v1');
   assert.ok(Object.isFrozen(game) && Object.isFrozen(game.platforms),`${game.slug}: mutable export`);
 }
+for (const [dimension,values] of Object.entries(dnaVocabulary)) assert.equal(new Set(values.map(value=>value.toLowerCase())).size,values.length,`${dimension}: duplicate canonical vocabulary`);
 for (const kind of discoveryKinds) {
   const values=discoveryValues(kind);
   assert.equal(new Set(values.map(value=>value.slug)).size,values.length,`${kind}: slug collision`);

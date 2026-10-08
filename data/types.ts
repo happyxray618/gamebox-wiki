@@ -1,3 +1,5 @@
+import type { GameDNA } from "@/lib/game-dna"
+
 export type FactField = "title" | "year" | "developers" | "publishers" | "platforms"
 
 export type GameSource = {
@@ -28,14 +30,10 @@ export type GameFacts = {
 }
 
 /** GAMEBOX judgements, not external facts or aggregate review scores. */
-export type GameEditorial = {
+export type GameEditorial = GameDNA & {
   slug: string
-  genres: string[]
   tags: string[]
-  difficulty: string
   gameLength: string
-  mood: string[]
-  gameplay: string[]
   gameboxScore: number
   retroScore: number
   hiddenGemScore: number
