@@ -1,5 +1,8 @@
 import Link from "next/link"
 import { games } from "@/data/games"
+import { pageMetadata } from "@/lib/metadata"
+
+export const metadata = pageMetadata("Retro Vault", "Explore classic games across PlayStation, Dreamcast, Xbox, GameCube and arcade platforms.", "/retro")
 
 const platforms = [
   "PS1",
@@ -41,7 +44,7 @@ export default function RetroPage() {
               RETRO
             </Link>
 
-            <Link href="/" className="hover:text-white">
+            <Link href="/hidden-gems" className="hover:text-white">
               HIDDEN GEMS
             </Link>
           </nav>

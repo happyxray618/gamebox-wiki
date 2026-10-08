@@ -244,7 +244,7 @@ export default function Home() {
             (platform) => (
               <Link
                 key={platform}
-                href="/games"
+                href={`/retro/${platform.toLowerCase()}`}
                 className="rounded-2xl border border-white/10 bg-white/[0.03] p-8 text-center font-bold transition hover:border-white/30 hover:bg-white/[0.06]"
               >
                 {platform}
@@ -313,17 +313,7 @@ export default function Home() {
             and games worth playing.
           </p>
 
-          <div className="mt-8 flex max-w-xl gap-3">
-            <input
-              type="email"
-              placeholder="Your email"
-              className="min-w-0 flex-1 rounded-xl border border-white/10 bg-black/20 px-5 py-4 text-sm outline-none placeholder:text-zinc-600"
-            />
-
-            <button className="rounded-xl bg-white px-6 py-4 text-sm font-bold text-black">
-              SUBSCRIBE
-            </button>
-          </div>
+          <p className="mt-8 text-sm text-zinc-400">Coming soon. Newsletter subscriptions are not open yet.</p>
         </div>
       </section>
 

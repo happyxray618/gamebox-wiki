@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { games } from "@/data/games"
+import { pageMetadata } from "@/lib/metadata"
 
 const platformNames: Record<string, string> = {
   ps1: "PS1",
@@ -20,6 +21,17 @@ const platformDescriptions: Record<string, string> = {
   arcade: "Explore influential arcade games, timeless classics and forgotten machines from the golden age of arcades.",
 }
 
+export function generateStaticParams() {
+  return Object.keys(platformNames).map((platform) => ({ platform }))
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ platform: string }> }) {
+  const { platform } = await params
+  const key = platform.toLowerCase()
+  if (!Object.hasOwn(platformNames, key)) notFound()
+  return pageMetadata(`${platformNames[key]} Games`, platformDescriptions[key], `/retro/${key}`)
+}
+
 export default async function PlatformPage({
   params,
 }: {
@@ -27,7 +39,7 @@ export default async function PlatformPage({
 }) {
   const { platform } = await params
 
-  const platformName = platformNames[platform.toLowerCase()]
+  const platformName = Object.hasOwn(platformNames, platform.toLowerCase()) ? platformNames[platform.toLowerCase()] : undefined
 
   if (!platformName) {
     notFound()
@@ -73,7 +85,7 @@ const memorableGames = [...platformGames]
               RETRO
             </Link>
 
-            <Link href="/" className="hover:text-white">
+            <Link href="/hidden-gems" className="hover:text-white">
               HIDDEN GEMS
             </Link>
           </nav>
@@ -190,6 +202,12 @@ const memorableGames = [...platformGames]
   </div>
 </section>
       <section className="mx-auto max-w-7xl px-6 py-20">
+        {platformGames.length === 0 && (
+          <div className="mb-8 rounded-2xl border border-white/10 p-8 text-zinc-400">
+            <p>No {platformName} games have been indexed yet. More games are coming to the archive.</p>
+            <Link href="/retro" className="mt-4 inline-block font-bold text-white hover:underline">Browse other platforms →</Link>
+          </div>
+        )}
         <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-4">
           {platformGames.map((game) => (
             <Link

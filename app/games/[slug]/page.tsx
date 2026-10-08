@@ -1,11 +1,23 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import { games } from "@/data/games"
+import { pageMetadata } from "@/lib/metadata"
 
 type Props = {
   params: Promise<{
     slug: string
   }>
+}
+
+export function generateStaticParams() {
+  return games.map((game) => ({ slug: game.slug }))
+}
+
+export async function generateMetadata({ params }: Props) {
+  const { slug } = await params
+  const game = games.find((item) => item.slug === slug)
+  if (!game) notFound()
+  return pageMetadata(game.title, game.description, `/games/${game.slug}`)
 }
 
 export default async function GamePage({ params }: Props) {
