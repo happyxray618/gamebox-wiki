@@ -27,7 +27,7 @@ function exportProduct(product, output, siteUrl, brandUrl) {
   fs.cpSync(path.join(source, 'images'), path.join(output, 'images'), {recursive:true});
   const base = cleanUrl(siteUrl);
   fs.writeFileSync(path.join(output, 'sitemap.xml'), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + ['', 'press.html'].map(p => `<url><loc>${base}/${p}</loc></url>`).join('') + '</urlset>\n');
-  fs.writeFileSync(path.join(output, 'DEPLOYMENT.txt'), `Standalone Winter Atelier website\nCanonical: ${base}/\nServe index.html for directory requests. All product assets are included.\nTo move domains, rerun the export command with the new --site-url; no framework is required.\n`);
+  fs.writeFileSync(path.join(output, 'DEPLOYMENT.txt'), `Standalone ${product.name} website\nCanonical: ${base}/\nServe index.html for directory requests. All product assets are included.\nTo move domains, rerun the export command with the new --site-url; no framework is required.\n`);
   console.log('Exported', product.slug, 'to', output);
 }
 const args = process.argv.slice(2);
